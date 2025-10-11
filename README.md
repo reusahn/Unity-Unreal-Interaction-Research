@@ -1,91 +1,82 @@
-# Unity-Unreal-Interaction-Research
+# Unity–Unreal Interaction Research  
 ### by Jonghoon Ahn  
 
-A collection of research-based projects and prototypes exploring  
-**human–machine interaction, immersive visualization, and generative systems**  
+A curated collection of research-based projects and prototypes exploring  
+**human–machine interaction, immersive visualization, and digital embodiment**  
 through **Unity** and **Unreal Engine**.  
 
-These works merge engineering and art — experimenting with digital humans, sensor-based systems,  
-and interactive XR environments to study how technology mediates empathy, presence, and perception.
+Each work merges artistic inquiry with technical experimentation —  
+bridging motion, emotion, and data as new forms of interactive expression.
 
 ---
 
-## 🧩 Categories
-
-### 01. Digital Human & Virtual Beings  
+## 🧩 01. Digital Human & Virtual Beings  
 Explores empathy, embodiment, and the perception of artificial life through motion capture, MetaHuman, and AI-driven characters.  
 _Keywords:_ Unreal Engine · MetaHuman · Motion Capture · AI Simulation  
 
 **Projects:**  
-- **AI ZOO** — Interactive AI confinement simulation questioning empathy toward synthetic beings.  
-- **Whispers** — Poetic short film blending animation and reality through digital human presence.  
-- **Sininho** — Narrative study on digital consciousness and hybrid identities.  
-- **Seon A's Family** — Virtual family portrait exploring ancestry and digital embodiment.  
-- **Yaloo Collaboration** — Shared VR performance merging physical and digital presence.  
-- **Shin Inho** — MetaHuman prototype exploring uncanny realism and digital memory.  
-- **Scott Collaboration** — Multi-avatar installation with generative motion.  
-- **Gang Sehwang** — Classical Korean art reinterpreted in a 3D virtual world.  
-- **Choi JungHoon** — Self-simulation and identity in data-driven human form.  
+1. **강세황 (Gang Sehwang)** — Classical Korean painter reimagined as a digital human; reinterpretation of Joseon-era aesthetics through 3D embodiment.  
+2. **최정훈 (Choi JungHoon)** — Data-based self-simulation exploring fragmented identity and machine perception.  
+3. **AI ZOO** — Interactive installation about AI confinement and empathy toward synthetic beings.  
+4. **선아의 가족 (Seon A’s Family)** — Virtual family portrait bridging memory, ancestry, and digital embodiment.  
+5. **Whispers** — Poetic digital short exploring silence, loss, and emotional reconstruction.  
+6. **Yaloo Collaboration** — Shared virtual performance merging live motion and digital avatars.  
+7. **신인호 (Shin Inho)** — MetaHuman study exploring digital realism and body simulation.  
+8. **Scott Collaboration** — Multi-avatar experiment with generative gestures and collective behavior.  
 
 ---
 
-### 02. AR-based Style Transfer  
-Applies neural style transfer and real-time AR rendering to merge physical and digital aesthetics.  
+## 🎨 02. AR-based Style Transfer  
+Merges physical and digital aesthetics using AR, real-time rendering, and neural style transfer techniques.  
 _Keywords:_ Unity AR Foundation · Neural Style Transfer · Real-time Texture Mapping  
 
 **Projects:**  
-- **Beads Wall** — Large-scale interactive wall using Azure Kinect motion data to drive real-time particle colors.  
-- **Erin** — AR installation that reimagines human emotion through stylized filters and gesture response.  
-- **Picasso** — AR experiment applying painting styles dynamically to live camera input.  
-- **Jemulpo Photo Studio** — AR portrait experience inspired by historical photo studios and cultural hybridity.  
+1. **피카소 (Picasso)** — AR experiment applying classical painting styles to live camera feeds.  
+2. **제물포 사진관 (Jemulpo Photo Studio)** — AR portrait experience inspired by historical photography and cultural hybridity.  
+3. **Erin** — AR installation visualizing emotion through stylized filters and gesture-based feedback.  
+4. **Beads Wall** — Large-scale interactive wall using Azure Kinect motion data to drive particle-based visualization.  
 
 ---
 
-### 03. Sensor-based Interaction (Azure Kinect)  
-Investigates how sensor data and spatial tracking mediate human–machine relationships and collective motion.  
+## 🧠 03. Sensor-based Interaction (Azure Kinect)  
+Investigates how sensor-based perception bridges the physical and digital space through motion data, body tracking, and spatial choreography.  
 _Keywords:_ Azure Kinect · OpenCV · Depth Sensing · Motion Visualization  
 
 **Projects:**  
-- **Silhak Dance** — Interactive performance using full-body motion tracking and generative visuals.  
-- **To Eternity** — Depth-based choreography that visualizes continuity between movement and time.  
+1. **Silhak Dance** — Interactive performance using body movement as data to generate visual compositions.  
+2. **To Eternity** — Depth-based choreography exploring continuity between motion, space, and time.  
 
 ---
 
-### 04. Interactive VR Experience  
+## 🕹️ 04. Interactive VR Experience  
 Immersive prototypes exploring narrative, emotion, and agency in virtual environments.  
 _Keywords:_ Unity XR Toolkit · Unreal Engine · OpenXR · Presence & Agency  
 
 **Projects:**  
-- **Graffiti Freedom** — Participatory VR environment where users reclaim public walls through gesture-based expression.  
-- **Escape Metro** — Narrative VR journey set in an underground transit system reflecting psychological escape.  
-- **Narci, Be Narci** — Interactive VR simulation exploring narcissism and self-observation.  
-- **Fineo** — Sensory-driven immersive experience focusing on empathy and shared perception.  
+1. **Graffiti Freedom** — Participatory VR environment where users reclaim digital walls through gesture-driven painting.  
+2. **Escape Metro** — Narrative VR journey set in an underground transit space reflecting isolation and psychological escape.  
+3. **Narci, Be Narci** — Interactive VR simulation examining narcissism and self-reflection in virtual form.  
+4. **Fineo** — Sensory-driven immersive experience centered on empathy and shared perception.  
 
 ---
 
-## 🧠 Research Focus
-This collection bridges **creative coding and human–machine interaction research**,  
-demonstrating how **Unity and Unreal Engine** can be used as experimental tools to study  
-digital identity, embodied emotion, and immersive communication.  
-
-These projects integrate:
-- Sensor-based input (Azure Kinect, OptiTrack)  
-- Real-time rendering and VFX systems  
-- Digital human creation and AI-driven behavior  
-- AR/VR interaction design for storytelling and data visualization  
-
----
-
-## 🧰 Tools & Technologies
+## 🧰 Tools & Technologies  
 **Engines:** Unity, Unreal Engine 5  
 **Languages:** C#, C++, Python  
 **SDKs:** OpenXR, AR Foundation, Azure Kinect SDK, OpenCV  
-**Hardware:** Azure Kinect, Quest, OptiTrack, MetaHuman rig  
+**Hardware:** Azure Kinect, Meta Quest, OptiTrack  
 **Other Tools:** Blender, VFX Graph, Sequencer, Git  
 
 ---
 
-## 📎 Contact
+## 🧑‍💻 Research Focus  
+This collection bridges **art and engineering**, using game engines as platforms for  
+experimentation in **human–machine interaction, immersive visualization, and digital empathy**.  
+It demonstrates how real-time tools can serve both creative and scientific inquiry.
+
+---
+
+## 📎 Contact  
 **Portfolio:** [jonghoonahn.github.io](https://jonghoonahn.github.io)  
 **GitHub:** [github.com/jonghoonahn](https://github.com/jonghoonahn)  
 **Email:** jonghoonahn.art@gmail.com  
