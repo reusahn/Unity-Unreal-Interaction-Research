@@ -4,9 +4,30 @@
 A collection of experimental projects developed in real-time game engine environments using Unity and Unreal Engine.
 The works explore how artistic visual styles can be recreated and implemented within real-time systems, extending into XR research through VR and AR technologies.
 They also include the creation of digital humans through 3D scanning, Gaussian splatting, and generative image or video synthesis.
-These experiments investigate human–machine interaction, immersive time-based media that extend beyond cinema, and digital embodiment.
 
-Each project combines artistic inquiry with technical experimentation to expand motion, emotion, and data into new forms of interactive experience.
+---
+
+## 🧰 Tools & Technologies  
+**Engines:** Unity, Unreal Engine 5  
+**Languages:** C#, C++, Python  
+**SDKs:** OpenXR, AR Foundation, Azure Kinect SDK, OpenCV, Barracuda  
+**Hardware:** Azure Kinect, Meta Quest 3, OptiTrack, Lip Motion  
+**Other Tools:** Maya, Blender, VFX Graph, Git  
+
+---
+
+## 🧑‍💻 Research Focus  
+This collection bridges **art and engineering**, using game engines as platforms for  
+experimentation in **human–machine interaction, immersive visualization, and digital empathy**.  
+It demonstrates how real-time tools can serve both creative and scientific inquiry.
+
+---
+
+## 📎 Contact  
+**Portfolio:** [jonghoonahn.github.io](https://jonghoonahn.github.io)  
+**GitHub:** [github.com/jonghoonahn](https://github.com/jonghoonahn)  
+**Email:** jonghoonahn.art@gmail.com  
+**Resume:** [Resume_2025_JonghoonAhn.pdf](https://github.com/jonghoonahn/Unity-Unreal-Interaction-Research/blob/main/Resume_2025_JonghoonAhn.pdf)
 
 ---
 
