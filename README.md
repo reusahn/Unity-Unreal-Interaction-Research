@@ -1,12 +1,12 @@
 # Unity–Unreal Interaction Research  
 ### by Jonghoon Ahn  
 
-A curated collection of research-based projects and prototypes exploring  
-**human–machine interaction, immersive visualization, and digital embodiment**  
-through **Unity** and **Unreal Engine**.  
+A collection of experimental projects developed in real-time game engine environments using Unity and Unreal Engine.
+The works explore how artistic visual styles can be recreated and implemented within real-time systems, extending into XR research through VR and AR technologies.
+They also include the creation of digital humans through 3D scanning, Gaussian splatting, and generative image or video synthesis.
+These experiments investigate human–machine interaction, immersive time-based media that extend beyond cinema, and digital embodiment.
 
-Each work merges artistic inquiry with technical experimentation —  
-bridging motion, emotion, and data as new forms of interactive expression.
+Each project combines artistic inquiry with technical experimentation to expand motion, emotion, and data into new forms of interactive experience.
 
 ---
 
