@@ -47,7 +47,7 @@ By transforming Gang Se-hwang into an interactive AI docent, the work bridges **
 ## 🎥 Video Documentation
 <p align="center">
   <a href="https://vimeo.com/1011866123">
-    <img src="https://i.vimeocdn.com/video/1887016612-8336cf2a0c8d8d12345abcd1234567890abcdef1234567890abcdef-d_640" width="40%" />
+    <img src="./media/GangSehwang_Thumb.jpg" width="40%" />
   </a>
 </p>
 
