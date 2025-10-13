@@ -1,19 +1,16 @@
 # 🌿 Yaloo_Collaboration  
-*(Posthuman Performance & Digital Heritage Reconstruction – 2024)*  
+*(Posthuman Media Art Collaboration – 2024)*  
 
 [← Back to main repository](https://github.com/reusahn/Unity-Unreal-Interaction-Research/tree/main)
 
 ---
 
 ## 🧩 Overview  
-**Yaloo_Collaboration** is a two-part research-based media art project created in collaboration with artist **Yaloo**, exploring posthuman identity, memory, and digital resurrection.  
-The work examines how digital humans can transcend biological boundaries through immersive technologies and algorithmic imagination.  
+**Yaloo_Collaboration** is a posthuman media art project created in collaboration with artist **Yaloo**, exploring identity, transformation, and digital ecology.  
+The work reimagines Yaloo as a **hybrid being merging human and seaweed**, a symbolic organism that embodies posthuman evolution and ecological interconnectedness.  
 
-The first part, **Posthuman Seaweed Being**, reimagines Yaloo as a hybrid creature merging human and marine life.  
-The being carries Yaloo’s facial features while shifting fluidly between the forms of a **child, adult, and elder**, representing cyclical transformation and posthuman evolution.  
-
-The second part, **VR Grandmother Reconstruction**, reconstructs Yaloo’s late grandmother as a **volumetrically scanned digital human**, rigged and animated through AI-driven motion systems within a virtual environment.  
-This piece reflects on intergenerational connection and the preservation of familial presence through technology.  
+The creature possesses Yaloo’s facial features while fluidly transforming between the appearances of a **child, adult, and elder**, reflecting cyclical time and the continuous regeneration of life.  
+Through this mutable existence, the project visualizes the merging of organic and digital bodies, suggesting a future where humanity and nature coexist through technological synthesis.
 
 ---
 
@@ -21,21 +18,21 @@ This piece reflects on intergenerational connection and the preservation of fami
 - **Engines:** Unity · Unreal Engine 5  
 - **Software:** Maya · Blender · Marvelous Designer  
 - **Language:** C# · Python  
-- **Hardware:** PC (NVIDIA RTX 4090), Volumetric 3D Scanner, VR Headset  
+- **Hardware:** PC (NVIDIA RTX 4090), VR Headset  
 - **Pipeline:**  
-  1. 3D volumetric scanning of the grandmother for high-resolution texture and model capture  
-  2. Retopology, rigging, and AI-assisted motion generation  
-  3. Digital reconstruction of hybrid seaweed-human form for posthuman entity  
-  4. Real-time environment development in Unity and Unreal  
-  5. Material simulation and procedural cloth design using Marvelous Designer  
-  6. Integration of generative lighting and fluid animation for identity transformation  
+  1. 3D character sculpting and facial reconstruction based on Yaloo’s likeness  
+  2. Procedural material and shader development for seaweed–skin textures  
+  3. Morphing system integrating age-based facial states (child → adult → elder)  
+  4. Real-time rendering environment built in Unity and Unreal  
+  5. Dynamic cloth and fluid motion simulation using Marvelous Designer and Niagara  
+  6. Lighting and posthuman atmosphere design emphasizing aquatic transformation  
 
 ---
 
 ## 🧠 Artistic & Research Focus  
-The collaboration explores **posthuman embodiment**, **digital mortality**, and **technological reincarnation**.  
-Through the convergence of human memory and computational form, the project questions how technology redefines emotional continuity and biological transformation.  
-It presents **the body as both archive and organism**, existing between nature and simulation.  
+This collaboration investigates **posthuman identity**, **digital organismal evolution**, and **ecological embodiment**.  
+By merging human facial recognition with organic marine textures, the project explores how **technology can express symbiosis rather than domination**.  
+It positions the **posthuman body** as a site of empathy and transformation—an interface between nature, machine, and memory.
 
 ---
 
@@ -61,11 +58,10 @@ It presents **the body as both archive and organism**, existing between nature a
 **Technical Director:** Jonghoon Ahn  
 **Year:** 2024  
 **Institution:** California Institute of the Arts  
-**Medium:** Interactive Media · VR Installation  
+**Medium:** Interactive Media · Digital Human  
 
 ---
 
 ## 🔗 Related  
 - [Back to Digital Human & Virtual Beings](../README.md)  
 - [View All Projects](https://github.com/reusahn/Unity-Unreal-Interaction-Research/tree/main)
-
