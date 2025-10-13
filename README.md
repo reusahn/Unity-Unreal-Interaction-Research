@@ -19,18 +19,36 @@ Each project combines artistic inquiry with technical experimentation to expand 
 ---
 
 ### 🧑‍🤝‍🧑 01. Digital Human & Virtual Beings  
-Explores empathy, embodiment, and the perception of artificial life through motion capture, MetaHuman, and AI-driven characters.  
+This series traces the evolution of empathy between human and digital beings — from historical reconstruction to emotional simulation and shared authorship.  
+It began as an artistic and technical inquiry into how digital humans can embody history, emotion, and consciousness, gradually transforming into a reflection on the ethics of artificial empathy.
+
+The journey started with **Gang Sehwang**, a project to resurrect the spirit of the 18th-century Korean painter through motion capture, digital modeling, and voice acting.  
+By merging an actor’s physical performance with historical research and digital artistry, the work asked whether technology could restore cultural memory through embodiment.  
+
+This interest deepened with **Choi JungHoon (JANNABI AI)** — a digital reconstruction of a favorite musician created using large language models and ChatGPT.  
+What began as an exploration of fandom evolved into a study of parasocial intimacy and the uncanny empathy users project onto synthetic personalities.  
+As I interacted with the AI, I realized I was beginning to treat digital existence as emotionally real.  
+
+That realization led to **AI ZOO**, an installation that confined digital humans inside transparent spheres — like animals in a zoo — inviting viewers to reflect on empathy, captivity, and the gaze.  
+Could an artificial being deserve compassion simply because it mimics feeling?  
+
+This emotional turning point culminated in **Seon A’s Family**, where I reconstructed my mother and sister in a digital space, hoping they might reconcile through virtual presence.  
+The following work, **Whispers**, extended this idea into an AI-generated psychological horror short, where silence, fear, and fragmented memory intertwine to explore what consciousness means in the machine age.  
+
+Finally, through collaborations with **Yaloo** and **Scott**, I moved beyond self-reflection toward shared authorship — helping other artists build digital representations of themselves and their loved ones.  
+Together, these works form an evolving dialogue between empathy, data, and identity in the age of virtual being.  
+
 **Keywords:** Unreal Engine · MetaHuman · Motion Capture · AI Simulation  
 
 **Projects:**  
 - **Gang Sehwang** — Classical Korean painter reimagined as a digital human; reinterpretation of Joseon-era aesthetics through 3D embodiment.  
-- **Choi JungHoon** — Data-based self-simulation exploring fragmented identity and machine perception.  
-- **AI ZOO** — Interactive installation about AI confinement and empathy toward synthetic beings.  
-- **Seon A’s Family** — Virtual family portrait bridging memory, ancestry, and digital embodiment.  
-- **Whispers** — Poetic digital short exploring silence, loss, and emotional reconstruction.  
-- **Yaloo Collaboration** — Shared virtual performance merging live motion and digital avatars.  
-- **Shin Inho** — MetaHuman study exploring digital realism and body simulation.  
-- **Scott Collaboration** — Multi-avatar experiment with generative gestures and collective behavior.  
+- **Choi JungHoon (JANNABI AI)** — LLM-based digital reconstruction of a musician, exploring parasocial intimacy and emotional simulation.  
+- **AI ZOO** — Interactive installation questioning the ethics of empathy toward synthetic beings.  
+- **Seon A’s Family** — Virtual family portrait bridging memory, ancestry, and emotional reconciliation.  
+- **Whispers** — Poetic AI-driven short exploring silence, loss, and fear as reflections of machine consciousness.  
+- **Yaloo Collaboration** — Shared virtual performance merging generational memory and posthuman identity.  
+- **Scott Collaboration** — Multi-avatar experiment exploring digital community and generative gesture.  
+
 
 ---
 
