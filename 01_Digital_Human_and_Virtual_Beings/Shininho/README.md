@@ -1,4 +1,4 @@
-# 👵 Shin Inho – Digital Human Reconstruction  
+# 👵 Shininho – Digital Human Reconstruction  
 *(Volumetric Memory & Digital Heritage Project – 2024)*  
 
 [← Back to main repository](https://github.com/reusahn/Unity-Unreal-Interaction-Research/tree/main)
@@ -6,7 +6,7 @@
 ---
 
 ## 🧩 Overview  
-**Shin Inho** is a digital human reconstruction project that revives **Yaloo’s late grandmother** through volumetric capture and AI-driven animation.  
+**Shininho** is a digital human reconstruction project that revives **Yaloo’s late grandmother** through volumetric capture and AI-driven animation.  
 Using **3D scanning, high-resolution texturing, and procedural motion synthesis**, the project transfers a human presence into digital form—  
 exploring the boundary between technological preservation and emotional memory.  
 
