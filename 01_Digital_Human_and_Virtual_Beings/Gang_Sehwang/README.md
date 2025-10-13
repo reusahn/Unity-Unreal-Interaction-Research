@@ -35,11 +35,11 @@ An actor with a **similar vocal tone and physical presence** was cast, and a **p
 Using **ZBrush**, the likeness of Gang Se-hwang was digitally sculpted, then **rigged and textured** to achieve lifelike realism.  
 
 <p align="center">
-  <img src="./media/GangSehwang_modeling_01.jpg" width="20%" style="margin-right:5px;"/>
-  <img src="./media/GangSehwang_modeling_02.jpg" width="20%" style="margin-right:5px;"/>
-  <img src="./media/GangSehwang_modeling_03.jpg" width="20%" style="margin-right:5px;"/>
-  <img src="./media/GangSehwang_modeling_04.jpg" width="20%" style="margin-right:5px;"/>
-  <img src="./media/GangSehwang_modeling_05.jpg" width="20%" style="margin-right:0px;"/>
+  <img src="./media/GangSehwang_modeling_01.jpg" width="15%" style="margin-right:5px;"/>
+  <img src="./media/GangSehwang_modeling_02.jpg" width="15%" style="margin-right:5px;"/>
+  <img src="./media/GangSehwang_modeling_03.jpg" width="15%" style="margin-right:5px;"/>
+  <img src="./media/GangSehwang_modeling_04.jpg" width="15%" style="margin-right:5px;"/>
+  <img src="./media/GangSehwang_modeling_05.jpg" width="15%" style="margin-right:0px;"/>
 </p>
 
 ---
