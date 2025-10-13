@@ -1,15 +1,16 @@
-# Unity–Unreal Interfacing Research  
+# 🎮 Unity–Unreal Interfacing Research  
 by **Jonghoon Ahn**
 
-A collection of experimental projects developed in real-time game engine environments using Unity and Unreal Engine.  
-The works explore how artistic visual styles can be recreated and implemented within real-time systems, extending into XR research through VR and AR technologies.  
-They also include the creation of digital humans through 3D scanning, Gaussian splatting, and generative image or video synthesis.  
+A curated collection of research-based projects and prototypes exploring  
+**human–machine interfacing, immersive visualization, and digital embodiment**  
+through Unity and Unreal Engine.
 
-Each project combines artistic inquiry with technical experimentation to expand motion, emotion, and data into new forms of interactive experience.  
+Each work merges artistic inquiry with technical experimentation,  
+bridging **motion, emotion, and data** into new forms of interactive expression.  
 
 ---
 
-### 🧰 Tools & Technologies
+## 🧰 Tools & Technologies  
 **Engines:** Unity, Unreal Engine 5  
 **Languages:** C#, C++, Python  
 **SDKs:** OpenXR, AR Foundation, Azure Kinect SDK, OpenCV, Barracuda  
@@ -18,83 +19,73 @@ Each project combines artistic inquiry with technical experimentation to expand 
 
 ---
 
-### 🧑‍💻 Research Focus
-This collection bridges art and engineering, using game engines as platforms for experimentation in human–machine interfacing, immersive visualization, and digital empathy.  
-It demonstrates how real-time tools can serve both creative and scientific inquiry.  
+## 🧑‍💻 Research Focus  
+This collection bridges art and engineering, using game engines as platforms for experimentation in  
+**human–machine interfacing, immersive visualization, and digital empathy.**  
+It demonstrates how real-time tools can serve both creative and scientific inquiry,  
+revealing how humans and machines exchange perception, emotion, and agency within real-time systems.
 
 ---
 
-### 🧑‍🤝‍🧑 01. Digital Human & Virtual Beings  
-A research-driven exploration tracing how digital beings evolve from historical reconstruction to emotional simulation and shared authorship.  
-It began with reviving the 18th-century painter **Gang Sehwang** through motion capture and voice performance,  
-then expanded into **Choi JungHoon (JANNABI AI)**, where an LLM embodied a musician’s personality — turning fandom into a study of digital empathy.  
-
-As the line between human and synthetic emotion blurred, **AI ZOO** reflected on the ethics of confinement and empathy toward artificial life.  
-From there, **Seon A’s Family** sought reconciliation through virtual presence, and **Whispers** explored fear and consciousness in AI-generated cinema.  
-Finally, collaborations with **Yaloo** and **Scott** extended empathy into shared creation — transforming digital humanity into a collective experience.  
-
+## 🧍‍♂️ 01. Digital Human & Virtual Beings  
+Explores empathy, embodiment, and the perception of artificial life through motion capture, MetaHuman, and AI-driven characters.  
 **Keywords:** Unreal Engine · MetaHuman · Motion Capture · AI Simulation  
 
-**Projects:**  
-- **Gang Sehwang** — Classical Korean painter reimagined as a digital human; reinterpretation of Joseon-era aesthetics through 3D embodiment.  
-- **Choi JungHoon (JANNABI AI)** — LLM-based digital reconstruction of a musician, exploring parasocial intimacy and emotional simulation.  
-- **AI ZOO** — Interactive installation questioning the ethics of empathy toward synthetic beings.  
-- **Seon A’s Family** — Virtual family portrait bridging memory, ancestry, and emotional reconciliation.  
-- **Whispers** — Poetic AI-driven short exploring silence, loss, and fear as reflections of machine consciousness.  
-- **Yaloo Collaboration** — Shared virtual performance merging generational memory and posthuman identity.  
-- **Scott Collaboration** — Multi-avatar experiment exploring digital community and generative gesture.  
+### Conceptual Flow  
+The series began by reviving a historical figure (*Gang Sehwang*) through digital human reconstruction.  
+From there, Ahn created *JANNABI AI* to explore parasocial connection and language modeling, leading to *AI ZOO*,  
+an installation that questions empathy toward synthetic beings.  
+Personal narratives such as *Seon A’s Family* and *Whispers* then humanize digital entities,  
+while later collaborations (*Yaloo* and *Scott*) extend this inquiry into collective and relational virtual embodiment.
+
+### Projects
+- **강세황 (Gang Sehwang)** — Classical Korean painter reimagined as a digital human; reinterpretation of Joseon-era aesthetics through 3D embodiment.  
+- **최정훈 (Choi JungHoon)** — Data-based self-simulation exploring fragmented identity and machine perception.  
+- **AI ZOO** — Interactive installation about AI confinement and empathy toward synthetic beings.  
+- **선아의 가족 (Seon A’s Family)** — Virtual family portrait bridging memory, ancestry, and digital embodiment.  
+- **Whispers** — Poetic digital short exploring silence, loss, and emotional reconstruction.  
+- **Yaloo Collaboration** — Shared virtual performance merging live motion and digital avatars.  
+- **신인호 (Shin Inho)** — MetaHuman study exploring digital realism and body simulation.  
+- **Scott Collaboration** — Multi-avatar experiment with generative gestures and collective behavior.  
 
 ---
 
-### 🎨 02. AR-based Style Transfer  
+## 🎨 02. AR-based Style Transfer  
 Merges physical and digital aesthetics using AR, real-time rendering, and neural style transfer techniques.  
-Includes experiments that reconstruct the unique visual styles of other artists — from Picasso to Joseon-era comics to contemporary painter Erin — implemented as real-time generative filters within Unity.  
-
+This section also includes projects that replicate the **visual language of other artists**—from classical painters like Picasso and Joseon-era cartoonists to Erin’s own stylized brushwork—translated into real-time Unity rendering systems.  
 **Keywords:** Unity AR Foundation · Neural Style Transfer · Real-time Texture Mapping  
 
-**Projects:**  
-- **Picasso** — AR experiment applying classical painting styles to live camera feeds.  
-- **Jemulpo Photo Studio** — AR portrait experience inspired by historical photography and cultural hybridity.  
-- **Erin** — AR installation visualizing emotion through stylized filters and gesture-based feedback.  
-- **Beads Wall** — Large-scale interactive wall using Azure Kinect motion data to drive particle-based visualization.  
+### Projects  
+- **피카소 (Picasso)** — AR experiment applying classical painting styles to live camera feeds.  
+- **제물포 사진관 (Jemulpo Photo Studio)** — AR portrait experience inspired by historical photography and cultural hybridity.  
+- **Erin Collaboration** — AR installation recreating Erin’s painterly visual language within Unity through dynamic brushstroke mapping.  
 
 ---
 
-### 🕺 03. Sensor-based Interaction (Azure Kinect)  
+## 🕺 03. Sensor-based Interaction (Azure Kinect)  
 Investigates how sensor-based perception bridges the physical and digital space through motion data, body tracking, and spatial choreography.  
-
 **Keywords:** Azure Kinect · OpenCV · Depth Sensing · Motion Visualization  
 
-**Projects:**  
+### Projects  
 - **Silhak Dance** — Interactive performance using body movement as data to generate visual compositions.  
 - **To Eternity** — Depth-based choreography exploring continuity between motion, space, and time.  
+- **Beads Wall** — Large-scale interactive wall translating body tracking data into dynamic particle visualizations driven by Azure Kinect.
 
 ---
 
-### 🥽 04. Interactive VR Experience  
+## 🥽 04. Interactive VR Experience  
 Immersive prototypes exploring narrative, emotion, and agency in virtual environments.  
-
 **Keywords:** Unity XR Toolkit · Unreal Engine · OpenXR · Presence & Agency  
 
-**Projects:**  
-- **Escape Metro** — A surreal VR escape experience set in an uncanny subway system.  
-  Players must solve puzzles and engage in real-time conversations with an in-game AI (powered by ChatGPT) to uncover the hidden logic of their entrapment.  
-  The piece examines isolation, digital consciousness, and the boundaries between algorithmic and human reasoning.  
-
-- **Graffiti Freedom** — A participatory VR experience where users reclaim digital public space through gesture-driven graffiti.  
-  By painting freely within a simulated subway station, participants experience liberation within constraint, transforming acts of rebellion into digital expression.  
-
-- **Narci, Be Narci** — An interactive VR simulation exploring narcissism and self-reflection.  
-  The viewer is placed in control of elegant, moving human-like figures, transforming them into statues or piles of metal through will alone.  
-  The project visualizes how control and ego can erode empathy and self-worth.  
-
-- **Fineo, Translated Universe** — A poetic VR visualization reconstructing the periodic table as a harmonic system of movement and sound.  
-  Elemental data is mapped through harmonograph-inspired functions, generating a new system of visual logic.  
-  The work received the Grand Prize at the 16th Kookmin University Art & Design Exhibition, recognizing its synthesis of scientific structure and aesthetic abstraction.  
+### Projects  
+- **Escape Metro** — Narrative VR journey set in an underground transit space reflecting isolation and psychological escape.  
+- **Graffiti Freedom** — Participatory VR environment where users reclaim digital walls through gesture-driven painting.  
+- **Narci, Be Narci** — Interactive VR simulation examining narcissism and self-reflection in virtual form.  
+- **Fineo, Translated Universe** — Sensory-driven immersive experience centered on empathy and shared perception, reconstructing elemental data into visual harmonics.
 
 ---
 
-### 📎 Contact  
+## 📎 Contact  
 **Portfolio:** [jonghoonahn.com](https://jonghoonahn.com)  
 **GitHub:** [github.com/reusahn/Unity-Unreal-Interaction-Research](https://github.com/reusahn/Unity-Unreal-Interaction-Research/tree/main)  
 **Email:** [reusahn@gmail.com](mailto:reusahn@gmail.com)  
