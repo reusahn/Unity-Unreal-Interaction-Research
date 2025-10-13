@@ -47,6 +47,8 @@ Using **ZBrush**, the likeness of Gang Se-hwang was digitally sculpted, then **r
 
 <p align="center">
   <img src="./media/GangSehwang_modeling.gif" width="60%" style="border-radius:10px;"/>
+  <img src="./media/GangSehwang_Mocap_01.jpg" width="40%" style="margin-right:5px;"/>  
+  <img src="./media/GangSehwang_Mocap_02.jpg" width="40%" style="margin-right:5px;"/>    
 </p>
 
 ---
