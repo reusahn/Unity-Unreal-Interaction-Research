@@ -36,8 +36,8 @@ The project questions whether **a digital being can perform emotional authentici
 
 ## 🖼️ Media
 <p align="center">
-  <img src="./media/ChoiJungHoon_AI_01.jpg" width="15%" style="margin-right:5px;"/>
-  <img src="./media/ChoiJungHoon_AI_02.jpg" width="15%" style="margin-right:5px;"/>
+  <img src="./media/ChoiJungHoon_AI_01.jpg" width="40%" style="margin-right:5px;"/>
+  <img src="./media/ChoiJungHoon_AI_02.jpg" width="40%" style="margin-right:5px;"/>
 </p>
 
 ---
