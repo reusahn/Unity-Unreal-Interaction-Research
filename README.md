@@ -1,15 +1,15 @@
-# 🧭 Unity–Unreal Interfacing Research  
-by **Jonghoon Ahn**  
+# Unity–Unreal Interfacing Research  
+by **Jonghoon Ahn**
 
 A collection of experimental projects developed in real-time game engine environments using Unity and Unreal Engine.  
 The works explore how artistic visual styles can be recreated and implemented within real-time systems, extending into XR research through VR and AR technologies.  
 They also include the creation of digital humans through 3D scanning, Gaussian splatting, and generative image or video synthesis.  
 
-Each project combines artistic inquiry with technical experimentation to expand motion, emotion, and data into new forms of interactive expression.
+Each project combines artistic inquiry with technical experimentation to expand motion, emotion, and data into new forms of interactive experience.  
 
 ---
 
-## 🧰 Tools & Technologies  
+### 🧰 Tools & Technologies
 **Engines:** Unity, Unreal Engine 5  
 **Languages:** C#, C++, Python  
 **SDKs:** OpenXR, AR Foundation, Azure Kinect SDK, OpenCV, Barracuda  
@@ -18,19 +18,9 @@ Each project combines artistic inquiry with technical experimentation to expand 
 
 ---
 
-## 🧑‍💻 Research Focus  
-This collection bridges art and engineering, using game engines as platforms for experimentation in human–machine interfacing, immersive visualization, and digital empathy.  
-It demonstrates how real-time tools can serve both creative and scientific inquiry.
-
----
-
-## 👁️‍🗨️ 01. Digital Human & Virtual Beings  
+### 🧑‍🤝‍🧑 01. Digital Human & Virtual Beings  
 Explores empathy, embodiment, and the perception of artificial life through motion capture, MetaHuman, and AI-driven characters.  
 **Keywords:** Unreal Engine · MetaHuman · Motion Capture · AI Simulation  
-
-This series traces the evolution of empathy toward digital beings.  
-It begins with *Gang Sehwang*, a digital reconstruction of a historical painter, and evolves through *AI Choi Jung Hoon*, where an AI performs a real person’s identity using LLMs.  
-From *AI ZOO* to *Seon A’s Family* and *Whispers*, the works explore confinement, reconciliation, and emotional reconstruction—culminating in collaborative empathy with artists like Yaloo and Scott.  
 
 **Projects:**  
 - **Gang Sehwang** — Classical Korean painter reimagined as a digital human; reinterpretation of Joseon-era aesthetics through 3D embodiment.  
@@ -44,13 +34,10 @@ From *AI ZOO* to *Seon A’s Family* and *Whispers*, the works explore confineme
 
 ---
 
-## 🪞 02. AR-based Style Transfer  
+### 🎨 02. AR-based Style Transfer  
 Merges physical and digital aesthetics using AR, real-time rendering, and neural style transfer techniques.  
+Includes experiments that reconstruct the unique visual styles of other artists — from Picasso to Joseon-era comics to contemporary painter Erin — implemented as real-time generative filters within Unity.  
 **Keywords:** Unity AR Foundation · Neural Style Transfer · Real-time Texture Mapping  
-
-This series explores how visual identity transforms when physical reality and digital aesthetics overlap.  
-Through real-time rendering and neural style transfer in Unity, these works recreate the brushstrokes and visual logic of other artists—such as **Picasso’s cubism, Joseon-era comics, and Erin’s hand-drawn style**—to generate entirely new digital forms.  
-Projects like *Picasso*, *Jemulpo Photo Studio*, and *Beads Wall* turn gestures, camera feeds, and motion data into living canvases, where historical and contemporary sensibilities merge in real time.  
 
 **Projects:**  
 - **Picasso** — AR experiment applying classical painting styles to live camera feeds.  
@@ -60,12 +47,9 @@ Projects like *Picasso*, *Jemulpo Photo Studio*, and *Beads Wall* turn gestures,
 
 ---
 
-## 🧠 03. Sensor-based Interaction (Azure Kinect)  
+### 🕺 03. Sensor-based Interaction (Azure Kinect)  
 Investigates how sensor-based perception bridges the physical and digital space through motion data, body tracking, and spatial choreography.  
 **Keywords:** Azure Kinect · OpenCV · Depth Sensing · Motion Visualization  
-
-This group investigates how body data becomes a language between humans and machines.  
-In works like *Silhak Dance* and *To Eternity*, physical gestures are captured and transformed into visual compositions, creating choreographies of memory, resistance, and time.  
 
 **Projects:**  
 - **Silhak Dance** — Interactive performance using body movement as data to generate visual compositions.  
@@ -73,12 +57,30 @@ In works like *Silhak Dance* and *To Eternity*, physical gestures are captured a
 
 ---
 
-## 📎 Contact  
+### 🥽 04. Interactive VR Experience  
+Immersive prototypes exploring narrative, emotion, and agency in virtual environments.  
+**Keywords:** Unity XR Toolkit · Unreal Engine · OpenXR · Presence & Agency  
+
+**Projects:**  
+- **Escape Metro** — A surreal VR escape experience set in an uncanny subway system.  
+  Players must solve puzzles and engage in real-time conversations with an in-game AI (powered by ChatGPT) to uncover the hidden logic of their entrapment.  
+  The piece examines isolation, digital consciousness, and the boundaries between algorithmic and human reasoning.  
+
+- **Graffiti Freedom** — A participatory VR experience where users reclaim digital public space through gesture-driven graffiti.  
+  By painting freely within a simulated subway station, participants experience liberation within constraint, transforming acts of rebellion into digital expression.  
+
+- **Narci, Be Narci** — An interactive VR simulation exploring narcissism and self-reflection.  
+  The viewer is placed in control of elegant, moving human-like figures, transforming them into statues or piles of metal through will alone.  
+  The project visualizes how control and ego can erode empathy and self-worth.  
+
+- **Fineo, Translated Universe** — A poetic VR visualization reconstructing the periodic table as a harmonic system of movement and sound.  
+  Elemental data is mapped through harmonograph-inspired functions, generating a new system of visual logic.  
+  The work received the Grand Prize at the 16th Kookmin University Art & Design Exhibition, recognizing its synthesis of scientific structure and aesthetic abstraction.  
+
+---
+
+### 📎 Contact
 **Portfolio:** [jonghoonahn.com](https://jonghoonahn.com)  
 **GitHub:** [github.com/reusahn/Unity-Unreal-Interaction-Research](https://github.com/reusahn/Unity-Unreal-Interaction-Research/tree/main)  
 **Email:** [reusahn@gmail.com](mailto:reusahn@gmail.com)  
 **Resume:** Resume_2025_JonghoonAhn.pdf  
-
----
-
-© 2025 Jonghoon Ahn. All rights reserved.
