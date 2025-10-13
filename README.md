@@ -1,4 +1,4 @@
-# Unity–Unreal Interaction Research  
+# Unity–Unreal Interfacing Research
 ### by Jonghoon Ahn  
 
 A collection of experimental projects developed in real-time game engine environments using Unity and Unreal Engine.
