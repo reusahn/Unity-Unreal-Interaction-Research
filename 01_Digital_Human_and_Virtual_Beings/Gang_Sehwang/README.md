@@ -71,8 +71,8 @@ Traditional Korean attire — **hanbok**, **gat hat**, and layered robes — wer
 All assets were imported into **Unity 3D**, where interactive animation triggers (buttons, speech recognition, and audience proximity) were implemented.  
 
 <p align="center">
-  <img src="./media/GangSehwang_unity_01.jpg" width="40%" style="margin-right:5px;"/>
-  <img src="./media/GangSehwang_unity_02.jpg" width="40%" style="margin-right:5px;"/>
+  <img src="./media/GangSehwang_unity_01.jpg" width="30%" style="margin-right:5px;"/>
+  <img src="./media/GangSehwang_unity_02.jpg" width="30%" style="margin-right:5px;"/>
 </p>
 
 ---
@@ -81,8 +81,9 @@ All assets were imported into **Unity 3D**, where interactive animation triggers
 The final AI docent was deployed at the **Gyeonggi Provincial Museum**, operating in real time as a responsive digital guide for visitors.  
 
 <p align="center">
-  <img src="./media/GangSehwang_install_01.jpg" width="40%" style="margin-right:5px;"/>
-  <img src="./media/GangSehwang_install_02.jpg" width="40%" style="margin-right:5px;"/>
+  <img src="./media/GangSehwang_install_01.jpg" width="30%" style="margin-right:5px;"/>
+  <img src="./media/GangSehwang_install_02.jpg" width="30%" style="margin-right:5px;"/>
+    <img src="./media/GangSehwang_install_03.jpg" width="30%" style="margin-right:0px;"/>
 </p>
 
 ---
