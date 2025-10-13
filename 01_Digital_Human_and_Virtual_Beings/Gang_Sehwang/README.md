@@ -39,8 +39,10 @@ By transforming Gang Se-hwang into an interactive AI docent, the work bridges **
 ---
 
 ## 🖼️ Media
-![Gang Se-hwang AI Docent Installation](./media/GangSehwang_01.jpg)
-![Gang Se-hwang Interactive Screen](./media/GangSehwang_02.jpg)
+<p align="center">
+  <img src="./media/GangSehwang_01.jpg" width="15%" style="margin-right:5px;"/>
+  <img src="./media/GangSehwang_02.jpg" width="15%" style="margin-right:5px;"/>
+</p>
 
 ## 🎥 Video Documentation
 [![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
