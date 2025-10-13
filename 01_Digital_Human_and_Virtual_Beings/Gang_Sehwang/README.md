@@ -32,7 +32,7 @@ An actor with a **similar vocal tone and physical presence** was cast, and a **p
 ---
 
 ### 3. Character Creation  
-Using **ZBrush**, the likeness of Gang Se-hwang was digitally sculpted, then **rigged and textured** to achieve lifelike realism.  
+Using **reference images**, the likeness of Gang Se-hwang was **digitally sculpted in ZBrush**, then refined in **Maya** for **UV unwrapping and texturing**. **Normal maps** were generated to enhance fine surface details, while **facial hair and head hair** were created using **hair cards** for realistic rendering.    
 
 <p align="center">
   <img src="./media/GangSehwang_modeling_01.jpg" width="15%" style="margin-right:5px;"/>
