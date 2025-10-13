@@ -31,13 +31,6 @@ revealing how humans and machines exchange perception, emotion, and agency withi
 Explores empathy, embodiment, and the perception of artificial life through motion capture, MetaHuman, and AI-driven characters.  
 **Keywords:** Unreal Engine · MetaHuman · Motion Capture · AI Simulation  
 
-### Conceptual Flow  
-The series began by reviving a historical figure (*Gang Sehwang*) through digital human reconstruction.  
-From there, Ahn created *JANNABI AI* to explore parasocial connection and language modeling, leading to *AI ZOO*,  
-an installation that questions empathy toward synthetic beings.  
-Personal narratives such as *Seon A’s Family* and *Whispers* then humanize digital entities,  
-while later collaborations (*Yaloo* and *Scott*) extend this inquiry into collective and relational virtual embodiment.
-
 ### Projects
 - [Gang Sehwang](./01_Digital_Human_and_Virtual_Beings/Gang_Sehwang/README.md)  
 - [Choi JungHoon (JANNABI AI)](./01_Digital_Human_and_Virtual_Beings/Choi_JungHoon_JANNABI_AI/README.md)  
@@ -50,26 +43,25 @@ while later collaborations (*Yaloo* and *Scott*) extend this inquiry into collec
 
 ---
 
-## 🎨 02. [AR-based Style Transfer](./02_AR_Style_Transfer/README.md)  
+## 🎨 02. [AR-based Style Transfer](./02_AR_based_Style_Transfer/README.md)  
 Merges physical and digital aesthetics using AR, real-time rendering, and neural style transfer techniques.  
-This section also includes projects that replicate the **visual language of other artists**—from classical painters like Picasso and Joseon-era cartoonists to Erin’s own stylized brushwork—translated into real-time Unity rendering systems.  
 **Keywords:** Unity AR Foundation · Neural Style Transfer · Real-time Texture Mapping  
 
 ### Projects  
-- [Picasso](./02_AR_Style_Transfer/Picasso/README.md)  
-- [Jemulpo Photo Studio](./02_AR_Style_Transfer/Jemulpo_Photo_Studio/README.md)  
-- [Erin Collaboration](./02_AR_Style_Transfer/Erin_Collaboration/README.md)  
+- [Picasso](./02_AR_based_Style_Transfer/Picasso/README.md)  
+- [Jemulpo Photo Studio](./02_AR_based_Style_Transfer/Jemulpo_Photo_Studio/README.md)  
+- [Erin Collaboration](./02_AR_based_Style_Transfer/Erin_Collaboration/README.md)  
 
 ---
 
-## 🕺 03. [Sensor-based Interaction (Azure Kinect)](./03_Sensor_Interaction/README.md)  
+## 🕺 03. [Sensor-based Interaction (Azure Kinect)](./03_Sensor_based_Interaction/README.md)  
 Investigates how sensor-based perception bridges the physical and digital space through motion data, body tracking, and spatial choreography.  
 **Keywords:** Azure Kinect · OpenCV · Depth Sensing · Motion Visualization  
 
 ### Projects  
-- [Silhak Dance](./03_Sensor_Interaction/Silhak_Dance/README.md)  
-- [To Eternity](./03_Sensor_Interaction/To_Eternity/README.md)  
-- [Beads Wall](./03_Sensor_Interaction/Beads_Wall/README.md)  
+- [Silhak Dance](./03_Sensor_based_Interaction/Silhak_Dance/README.md)  
+- [To Eternity](./03_Sensor_based_Interaction/To_Eternity/README.md)  
+- [Beads Wall](./03_Sensor_based_Interaction/Beads_Wall/README.md)  
 
 ---
 
