@@ -61,7 +61,6 @@ Traditional Korean attire — **hanbok**, **gat hat**, and layered robes — wer
 
 <p align="center">
   <img src="./media/GangSehwang_costume_01.jpg" width="20%" style="margin-right:5px;"/>
-  <img src="./media/GangSehwang_costume_02.jpg" width="20%" style="margin-right:5px;"/>
    <img src="./media/GangSehwang_costume_03.jpg" width="20%" style="margin-right:5px;"/>
     <img src="./media/GangSehwang_costume_04.jpg" width="20%" style="margin-right:0px;"/>
 </p>
