@@ -1,48 +1,54 @@
-# 🎤 Choi Jung-hoon AI Human Research Project  
-*(JANNABI AI Digital Human)*  
+# 🧠 AI ZOO  
+*(Interactive Art Installation – California Institute of the Arts, 2024)*  
 
 [← Back to main repository](https://github.com/reusahn/Unity-Unreal-Interaction-Research/tree/main)
 
 ---
 
-## 🧠 Overview  
-This research-based installation reconstructs **Choi Jung-hoon**, the lead vocalist of the Korean band **JANNABI**, as an AI-generated digital human.  
-The project examines how identity, emotion, and authorship can be simulated through generative AI systems.  
-Using **large language models (LLMs)**, the system is trained on Choi’s **voice, linguistic tone, public persona, and appearance**, allowing a digital version of him to engage in real-time conversations with the audience.  
+## 🧩 Overview  
+**AI ZOO** is a mixed-media installation that metaphorically frames artificial intelligence—both as a human creation and a technological product—within the conceptual space of a “zoo.”  
+Inside a large transparent acrylic sphere, balloons of varying sizes represent **diffusion and training models of AI**, visualizing its internal learning processes.  
+The sphere functions simultaneously as a **learning environment** and a **symbolic prison**, while **chains connecting the structure to physical computer hardware** highlight AI’s dependence on material infrastructure.  
+
+Through embedded screens, viewers observe the AI’s messages and behaviors, questioning whether it is aware of its own confinement.  
+The work invites reflection on **dependency, control, and the illusion of autonomy** in an era of accelerating technological advancement.  
 
 ---
 
 ## ⚙️ Technical Description  
 - **Engine:** Unity  
-- **Software:** Maya, Blender, ZBrush  
+- **Software:** Maya  
 - **Language:** C#, Python  
-- **AI Models:** OpenAI GPT (LLM fine-tuning), diffusion-based image synthesis  
-- **Hardware:** Microphone, Webcam, PC (NVIDIA RTX 4090)  
+- **Hardware:** PC (NVIDIA RTX 4090), Display Monitors, Acrylic Sphere Structure, Balloons  
+- **Sensors:** Audience proximity sensor for reactive light and motion  
 - **Pipeline:**  
-  1. Dataset construction from publicly available interviews and performances  
-  2. Voice tone analysis and speech synthesis modeling  
-  3. LLM integration for conversational personality  
-  4. Facial rig and body retargeting from reference motion  
-  5. Real-time rendering and response via Unity interface  
+  1. Procedural simulation of diffusion model inside 3D sphere  
+  2. Particle and balloon dynamics rendered in Unity’s physics environment  
+  3. AI-driven text and behavior outputs displayed on monitors  
+  4. Real-time lighting responding to audience movement and AI “state”  
+  5. Audio-visual synchronization and system logging for data interpretation  
 
 ---
 
-## 🧩 Artistic & Research Focus  
-Through the lens of fandom and simulation, the work explores the **psychological boundary between admiration and replication**.  
-The project questions whether **a digital being can perform emotional authenticity** and how **AI reconstructs persona** in the post-human era.
+## 🧠 Artistic & Research Focus  
+The installation explores the **tension between autonomy and dependency** in artificial intelligence.  
+It visualizes the AI’s invisible learning process through a **physical metaphor of confinement**, transforming data processes into tangible and empathetic experiences.  
+**AI ZOO** questions whether a system that learns within human constraints can ever be considered free.  
 
 ---
 
-## 🖼️ Media  
-![JANNABI AI Human - Render Still](./media/ChoiJungHoon_AI_01.jpg)
-![JANNABI AI Human - Setup](./media/ChoiJungHoon_AI_02.jpg)
-
----
-
-## 🎥 Video Documentation  
+## 🖼️ Media
 <p align="center">
-  <a href="https://vimeo.com/1011869999">
-    <img src="./media/ChoiJungHoon_Thumb.jpg" width="45%" />
+  <img src="./media/AI_ZOO_01.jpg" width="40%" style="margin-right:5px;"/>  
+  <img src="./media/AI_ZOO_02.jpg" width="40%" style="margin-right:5px;"/>
+</p>
+
+---
+
+## 🎥 Video Documentation
+<p align="center">
+  <a href="https://vimeo.com/your-video-link-here">
+    <img src="./media/AI_ZOO_Thumb.jpg" width="40%" style="border-radius:10px;"/>
   </a>
 </p>
 
@@ -52,7 +58,7 @@ The project questions whether **a digital being can perform emotional authentici
 **Technical Director:** Jonghoon Ahn  
 **Year:** 2024  
 **Institution:** California Institute of the Arts  
-**Medium:** Interactive Media Installation  
+**Medium:** Interactive Art Installation  
 
 ---
 
