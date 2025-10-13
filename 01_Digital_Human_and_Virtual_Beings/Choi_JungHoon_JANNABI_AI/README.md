@@ -34,18 +34,21 @@ The project questions whether **a digital being can perform emotional authentici
 
 ---
 
-## 🖼️ Media  
-![JANNABI AI Human - Render Still](./media/ChoiJungHoon_AI_01.jpg)
-![JANNABI AI Human - Setup](./media/ChoiJungHoon_AI_02.jpg)
+## 🖼️ Media
+<p align="center">
+  <img src="./media/ChoiJungHoon_AI_01.jpg" width="15%" style="margin-right:5px;"/>
+  <img src="./media/ChoiJungHoon_AI_02.jpg" width="15%" style="margin-right:5px;"/>
+</p>
 
 ---
 
-## 🎥 Video Documentation  
+## 🎥 Video Documentation
 <p align="center">
-  <a href="https://vimeo.com/1011869999">
-    <img src="./media/ChoiJungHoon_Thumb.jpg" width="45%" />
+  <a href="https://vimeo.com/933305770/b3cef8f513">
+    <img src="./media/ChoiJungHoon_Thumb.jpg" width="40%" style="border-radius:10px;"/>
   </a>
 </p>
+
 
 ---
 
