@@ -1,5 +1,5 @@
 # 🕊️ Seon-a’s Family  
-*(Media Art Project 5 – 2024 · KOTE Gallery (Insadong) & Wolseong Yakbang)*  
+*(Media Art – 2024 · KOTE Gallery (Insadong) & Wolseong Yakbang)*  
 
 [← Back to main repository](https://github.com/reusahn/Unity-Unreal-Interaction-Research/tree/main)
 
