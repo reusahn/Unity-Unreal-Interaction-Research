@@ -30,8 +30,7 @@ Archival portraits were provided by the **Gyeonggi Provincial Museum**, forming 
 An actor with a **similar vocal tone and physical presence** was cast, and a **professional performer** was hired to embody the scholar’s gestures.  
 
 <p align="center">
-  <img src="./media/GangSehwang_cast_01.jpg" width="40%" style="margin-right:5px;"/>
-  <img src="./media/GangSehwang_cast_02.jpg" width="40%" style="margin-right:5px;"/>
+  <img src="./media/GangSehwang_modeling.gif" width="60%" style="border-radius:10px;"/>
 </p>
 
 ---
