@@ -36,7 +36,7 @@ Explores empathy, embodiment, and the perception of artificial life through **3D
 - [Choi JungHoon (JANNABI AI)](./01_Digital_Human_and_Virtual_Beings/Choi_JungHoon_JANNABI_AI/README.md) — AI-generated simulation exploring parasocial connection and self-representation.  
 - [AI ZOO](./01_Digital_Human_and_Virtual_Beings/AI_ZOO/README.md) — Interactive installation addressing empathy and ethics toward confined synthetic beings.  
 - [Seon A’s Family](./01_Digital_Human_and_Virtual_Beings/SeonA_Family/README.md) — Virtual family reconstruction bridging memory, reconciliation, and digital embodiment.  
-- [Whispers](./01_Digital_Human_and_Virtual_Beings/Whispers/README.md) — Poetic short film blending AI voice synthesis and 3D animation to explore silence and loss.  
+- [Whispers-Mysomania](./01_Digital_Human_and_Virtual_Beings/Whispers/README.md) — Poetic short film blending AI voice synthesis and 3D animation to explore silence and loss.  
 - [Yaloo Collaboration](./01_Digital_Human_and_Virtual_Beings/Yaloo_Collaboration/README.md) — Shared virtual performance merging live motion and generative avatars.  
 - [Shin Inho](./01_Digital_Human_and_Virtual_Beings/Shin_Inho/README.md) — MetaHuman study focused on digital realism and facial motion capture.  
 - [Scott Collaboration](./01_Digital_Human_and_Virtual_Beings/Scott_Collaboration/README.md) — Multi-avatar experiment visualizing generative gestures and collective movement.
