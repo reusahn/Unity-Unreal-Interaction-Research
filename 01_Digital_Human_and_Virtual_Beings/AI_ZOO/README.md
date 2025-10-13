@@ -47,7 +47,7 @@ It visualizes the AI’s invisible learning process through a **physical metapho
 
 ## 🎥 Video Documentation
 <p align="center">
-  <a href="https://vimeo.com/your-video-link-here">
+  <a href="https://vimeo.com/1026374193">
     <img src="./media/AI_ZOO_Thumb.jpg" width="40%" style="border-radius:10px;"/>
   </a>
 </p>
