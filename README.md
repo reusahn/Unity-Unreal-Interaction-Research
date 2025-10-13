@@ -18,25 +18,20 @@ Each project combines artistic inquiry with technical experimentation to expand 
 
 ---
 
+### 🧑‍💻 Research Focus
+This collection bridges art and engineering, using game engines as platforms for experimentation in human–machine interfacing, immersive visualization, and digital empathy.  
+It demonstrates how real-time tools can serve both creative and scientific inquiry.  
+
+---
+
 ### 🧑‍🤝‍🧑 01. Digital Human & Virtual Beings  
-This series traces the evolution of empathy between human and digital beings — from historical reconstruction to emotional simulation and shared authorship.  
-It began as an artistic and technical inquiry into how digital humans can embody history, emotion, and consciousness, gradually transforming into a reflection on the ethics of artificial empathy.
+A research-driven exploration tracing how digital beings evolve from historical reconstruction to emotional simulation and shared authorship.  
+It began with reviving the 18th-century painter **Gang Sehwang** through motion capture and voice performance,  
+then expanded into **Choi JungHoon (JANNABI AI)**, where an LLM embodied a musician’s personality — turning fandom into a study of digital empathy.  
 
-The journey started with **Gang Sehwang**, a project to resurrect the spirit of the 18th-century Korean painter through motion capture, digital modeling, and voice acting.  
-By merging an actor’s physical performance with historical research and digital artistry, the work asked whether technology could restore cultural memory through embodiment.  
-
-This interest deepened with **Choi JungHoon (JANNABI AI)** — a digital reconstruction of a favorite musician created using large language models and ChatGPT.  
-What began as an exploration of fandom evolved into a study of parasocial intimacy and the uncanny empathy users project onto synthetic personalities.  
-As I interacted with the AI, I realized I was beginning to treat digital existence as emotionally real.  
-
-That realization led to **AI ZOO**, an installation that confined digital humans inside transparent spheres — like animals in a zoo — inviting viewers to reflect on empathy, captivity, and the gaze.  
-Could an artificial being deserve compassion simply because it mimics feeling?  
-
-This emotional turning point culminated in **Seon A’s Family**, where I reconstructed my mother and sister in a digital space, hoping they might reconcile through virtual presence.  
-The following work, **Whispers**, extended this idea into an AI-generated psychological horror short, where silence, fear, and fragmented memory intertwine to explore what consciousness means in the machine age.  
-
-Finally, through collaborations with **Yaloo** and **Scott**, I moved beyond self-reflection toward shared authorship — helping other artists build digital representations of themselves and their loved ones.  
-Together, these works form an evolving dialogue between empathy, data, and identity in the age of virtual being.  
+As the line between human and synthetic emotion blurred, **AI ZOO** reflected on the ethics of confinement and empathy toward artificial life.  
+From there, **Seon A’s Family** sought reconciliation through virtual presence, and **Whispers** explored fear and consciousness in AI-generated cinema.  
+Finally, collaborations with **Yaloo** and **Scott** extended empathy into shared creation — transforming digital humanity into a collective experience.  
 
 **Keywords:** Unreal Engine · MetaHuman · Motion Capture · AI Simulation  
 
@@ -49,12 +44,12 @@ Together, these works form an evolving dialogue between empathy, data, and ident
 - **Yaloo Collaboration** — Shared virtual performance merging generational memory and posthuman identity.  
 - **Scott Collaboration** — Multi-avatar experiment exploring digital community and generative gesture.  
 
-
 ---
 
 ### 🎨 02. AR-based Style Transfer  
 Merges physical and digital aesthetics using AR, real-time rendering, and neural style transfer techniques.  
 Includes experiments that reconstruct the unique visual styles of other artists — from Picasso to Joseon-era comics to contemporary painter Erin — implemented as real-time generative filters within Unity.  
+
 **Keywords:** Unity AR Foundation · Neural Style Transfer · Real-time Texture Mapping  
 
 **Projects:**  
@@ -67,6 +62,7 @@ Includes experiments that reconstruct the unique visual styles of other artists 
 
 ### 🕺 03. Sensor-based Interaction (Azure Kinect)  
 Investigates how sensor-based perception bridges the physical and digital space through motion data, body tracking, and spatial choreography.  
+
 **Keywords:** Azure Kinect · OpenCV · Depth Sensing · Motion Visualization  
 
 **Projects:**  
@@ -77,6 +73,7 @@ Investigates how sensor-based perception bridges the physical and digital space 
 
 ### 🥽 04. Interactive VR Experience  
 Immersive prototypes exploring narrative, emotion, and agency in virtual environments.  
+
 **Keywords:** Unity XR Toolkit · Unreal Engine · OpenXR · Presence & Agency  
 
 **Projects:**  
@@ -97,7 +94,7 @@ Immersive prototypes exploring narrative, emotion, and agency in virtual environ
 
 ---
 
-### 📎 Contact
+### 📎 Contact  
 **Portfolio:** [jonghoonahn.com](https://jonghoonahn.com)  
 **GitHub:** [github.com/reusahn/Unity-Unreal-Interaction-Research](https://github.com/reusahn/Unity-Unreal-Interaction-Research/tree/main)  
 **Email:** [reusahn@gmail.com](mailto:reusahn@gmail.com)  
