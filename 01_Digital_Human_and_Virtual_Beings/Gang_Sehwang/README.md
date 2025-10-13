@@ -12,12 +12,23 @@ The installation reimagines cultural memory through artificial intelligence, all
 ---
 
 ## ⚙️ Technical Description
-- **Engine:** Unity  
-- **3D Tools:** Maya, Blender  
-- **Language:** C#  
-- **Hardware:** Touchscreen Display, Projector, PC  
-- **Techniques:** 3D Modeling, Motion Capture, Real-time Rendering, Voice Interaction  
-- **AI Systems:** Speech recognition and dialogue model for interactive docent behavior  
+The digital reconstruction was achieved through a multi-stage pipeline combining traditional 3D artistry, motion capture, and real-time systems:
+
+1. **Source Material Collection:**  
+   Archival portraits were provided by the **Gyeonggi Provincial Museum**, forming the basis for Gang Se-hwang’s visual reference.  
+2. **Voice and Performance Casting:**  
+   An actor with a **similar vocal tone and physical presence** was cast, and a **professional performer** was hired to embody the scholar’s gestures.  
+3. **Character Creation:**  
+   Using **ZBrush**, the likeness of Gang Se-hwang was digitally sculpted, then **rigged and textured** to achieve lifelike realism.  
+4. **Motion Capture:**  
+   - **Body motion** was recorded using the **OptiTrack system**.  
+   - **Facial motion** was captured through **Apple ARKit**, synchronizing expression and speech.  
+5. **Costume Simulation:**  
+   Traditional Korean attire (hanbok, gat hat, and robes) was modeled and simulated in **Blender** and **Maya**.  
+6. **Integration in Unity:**  
+   All assets were imported into **Unity 3D**, where interactive animation triggers (buttons and audience interactions) were implemented.  
+7. **Installation Deployment:**  
+   The final interactive AI docent was deployed at the **Gyeonggi Provincial Museum**, operating in real time as a responsive digital guide.
 
 ---
 
