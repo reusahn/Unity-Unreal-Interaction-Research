@@ -13,10 +13,10 @@ The installation reimagines cultural memory through artificial intelligence, all
 
 ## ⚙️ Technical Description
 - **Engine:** Unity  
-- **3D Tools:** Maya, Substance Painter, Marvelous Designer
+- **3D Tools:** Maya, Blender  
 - **Language:** C#  
 - **Hardware:** Touchscreen Display, Projector, PC  
-- **Techniques:** 3D Modeling, Motion Capture(Optitrack), Real-time Rendering, Voice Interaction  
+- **Techniques:** 3D Modeling, Motion Capture, Real-time Rendering, Voice Interaction  
 - **AI Systems:** Speech recognition and dialogue model for interactive docent behavior  
 
 ---
@@ -37,12 +37,11 @@ By transforming Gang Se-hwang into an interactive AI docent, the work bridges **
 ---
 
 ## 👤 Credits
-**Artist:** Jonghoon Ahn  
+**Technical Director:** Jonghoon Ahn  
 **Title:** *Gang Se-hwang AI Docent*  
 **Year:** 2022  
 **Exhibition:** Gyeonggi Provincial Museum  
 **Type:** Interactive Art Installation  
-**Collaboration:** CalArts Art & Technology / Independent Research  
 
 ---
 
