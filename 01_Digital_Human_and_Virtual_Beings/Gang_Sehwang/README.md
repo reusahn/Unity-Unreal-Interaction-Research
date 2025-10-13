@@ -29,10 +29,6 @@ Archival portraits were provided by the **Gyeonggi Provincial Museum**, forming 
 ### 2. Voice and Performance Casting  
 An actor with a **similar vocal tone and physical presence** was cast, and a **professional performer** was hired to embody the scholar’s gestures.  
 
-<p align="center">
-  <img src="./media/GangSehwang_modeling.gif" width="60%" style="border-radius:10px;"/>
-</p>
-
 ---
 
 ### 3. Character Creation  
@@ -50,8 +46,7 @@ Using **ZBrush**, the likeness of Gang Se-hwang was digitally sculpted, then **r
 - **Facial motion** was captured through **Apple ARKit**, synchronizing expression and speech.  
 
 <p align="center">
-  <img src="./media/GangSehwang_mocap_01.jpg" width="40%" style="margin-right:5px;"/>
-  <img src="./media/GangSehwang_mocap_02.jpg" width="40%" style="margin-right:5px;"/>
+  <img src="./media/GangSehwang_modeling.gif" width="60%" style="border-radius:10px;"/>
 </p>
 
 ---
