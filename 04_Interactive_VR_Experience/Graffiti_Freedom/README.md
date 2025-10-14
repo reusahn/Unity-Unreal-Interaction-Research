@@ -9,8 +9,9 @@
 **Graffiti Freedom** is an experimental **VR experience** that lets players freely spray graffiti inside a virtual subway station—  
 reclaiming urban public space **without violating real-world laws**.  
 
-The project combines **street art** with **immersive technology**, transforming a constrained urban site into a canvas of self-expression.  
-Within this digital environment, participants confront the boundaries between **legality and creativity**, using virtual spray cans to paint messages of resistance, identity, and hope across the station walls.  
+The project merges **street art aesthetics** with **immersive technology**, turning an underground environment into a canvas for rebellion and personal expression.  
+Inside the simulation, players use a **virtual spray can** to paint their thoughts and identities across the walls,  
+challenging the boundaries between **legality and creativity** in both real and digital worlds.  
 
 ---
 
@@ -21,20 +22,34 @@ Within this digital environment, participants confront the boundaries between **
 - **Hardware:** HTC Vive / Oculus Rift  
 - **Software:** Blender · Substance Painter  
 - **Pipeline:**  
-  1. Design of subway-station environment using photogrammetry and PBR materials  
-  2. Real-time spray simulation with particle emitters and texture projection  
-  3. Controller-based gesture recognition for painting motion  
-  4. Save/clear system for graffiti layers on dynamic textures  
-  5. Sound and ambient lighting synchronized to motion and paint intensity  
+  1. **Environment Construction**  
+     - Subway-station interior modeled and textured with **PBR workflow** in Blender + Substance Painter.  
+     - Lighting baked for moody, nocturnal realism.  
+  2. **Spray Interaction System**  
+     - Vive controller **trigger** mapped to spray emission intensity.  
+     - Implemented **particle-based spray simulation** using Unity’s Particle System.  
+     - When paint particles collide with wall colliders, their **UV coordinates are sampled**,  
+       updating a **dynamic render texture** linked to the wall’s shader.  
+  3. **Material Shader Logic**  
+     - Custom shader writes color values from collision points directly into the surface’s paint mask.  
+     - Layer blending supports **opacity, diffusion, and drip simulation** for natural spray behavior.  
+  4. **Performance & Layer Control**  
+     - Dynamic texture buffer optimized with GPU-side blitting for real-time drawing.  
+     - Added **save/clear layer system** to preserve user graffiti between sessions.  
+  5. **Immersive Environment**  
+     - Sound design synchronized with motion intensity (spray distance and speed).  
+     - Ambient reverb reflects the echo of an empty station, heightening the act of expression.  
 
 ---
 
 ## 🧠 Artistic & Research Focus  
-**Graffiti Freedom** explores how **virtual reality can extend public expression** beyond physical and legal constraints.  
-By situating street art in VR, the work examines the tension between **control and freedom**,  
-and how digital tools can serve as instruments of both **rebellion and creation**.  
+**Graffiti Freedom** redefines what it means to *mark a surface*.  
+In a world where public space is constantly surveilled and regulated, the project offers a **virtual site of liberation**,  
+where rebellion and creativity coexist safely in digital form.  
 
-The subway setting—historically associated with surveillance and transgression—becomes a symbolic stage for reimagining **urban resistance** in the age of simulation.  
+The subway—a historically contested space of anonymity, escape, and defiance—becomes a poetic metaphor for  
+**freedom reclaimed through simulation**.  
+It invites players to question how technology can both **restrict and expand artistic autonomy**.  
 
 ---
 
@@ -58,6 +73,7 @@ The subway setting—historically associated with surveillance and transgression
 ## 👤 Credits  
 **Artist / Developer:** Jonghoon Ahn  
 **Year:** 2019  
+**Hardware:** HTC Vive  
 **Medium:** VR Game / Immersive Art Experience  
 
 ---
@@ -65,4 +81,3 @@ The subway setting—historically associated with surveillance and transgression
 ## 🔗 Related  
 - [Back to Interactive VR Experience](../README.md)  
 - [View All Projects](https://github.com/reusahn/Unity-Unreal-Interaction-Research/tree/main)
-
