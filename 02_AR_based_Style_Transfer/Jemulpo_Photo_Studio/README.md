@@ -6,53 +6,52 @@
 ---
 
 ## 🧩 Overview  
-**Jemulpo Photo Studio** is an interactive media installation that transforms visitors’ live portraits into stylized magazine covers inspired by the **“New Women” (신여성)** aesthetic of early Jemulpo (modern-day Incheon) during Korea’s colonial modernization period.  
+**Jemulpo Photo Studio** is an interactive media installation that reimagines the aesthetics of early Korean **“New Women” magazine culture** from the colonial era.  
+Visitors’ portraits are captured in real time and **transformed through AI-based face swapping and neural style transfer**,  
+producing reinterpreted covers that blend modern identity with early 20th-century visual modernity.  
 
-Using **AI-based face swapping and real-time style mapping**, the system reimagines participants as figures from early 20th-century Korean visual culture.  
-Each transformed portrait is automatically framed and archived in real time, creating a **living wall of digital identities** that merge the past and the present.  
-
-By allowing visitors to step into a virtual photo studio, the work encourages reflection on **modernization, gender, and the historical construction of image and self**.  
+Each portrait—stylized in the vibrant, liberated tone of Jemulpo’s early photo studios—is automatically framed, displayed, and archived in real time on a virtual wall,  
+turning the gallery into a **living archive of self-modernization and historical reinterpretation**.
 
 ---
 
 ## ⚙️ Technical Description  
 - **Engine:** Unity  
-- **Framework:** AR Foundation (camera input, face tracking)  
-- **Software:** Photoshop · After Effects (graphic composition and typography)  
+- **Framework:** AR Foundation · OpenCV for Unity  
+- **Software:** Photoshop · After Effects (graphic composition)  
 - **Languages:** C# · Python  
-- **AI Tools:** OpenCV (face detection & alignment) · Unity Barracuda (AI segmentation)  
+- **AI Frameworks:** Unity Barracuda (segmentation) · OpenCV (face detection & swap)  
 - **Hardware:** PC (NVIDIA RTX 4070 Super) · DSLR Camera · Display Monitors  
-- **Networking:** TCP/UDP-based local server for image archiving and remote display  
+- **Networking:** TCP Server for live data and image archiving  
 
 ### 🧩 Pipeline  
-1. **Face Detection & Extension:**  
-   Implemented **OpenCV**-based face recognition.  
-   Since the original model detected only the facial region, a **custom post-processing algorithm** was developed to expand detection boundaries to include **hair and head contours**, ensuring full stylistic transformation coverage.  
-
-2. **Face Swap & Style Mapping:**  
-   Applied **AI-based face swap** using curated “New Women” references.  
-   For male participants, artist **Suhyun Yoo** created hybrid *New Woman*-style illustrations, which were integrated into the transformation model.  
-
-3. **Shader-based Style Rendering:**  
-   Developed a **custom shader pipeline** combining watercolor, pointillism, and noise-based brush textures.  
-   These were layered over the swapped face to emulate the **print texture of 1920s magazines**.  
-
-4. **Segmentation & Background Composition:**  
-   Used **Unity Barracuda** to run an ONNX segmentation model that automatically separated the figure from the background.  
-   The extracted portrait was composited with **period-accurate magazine layouts**, including typography and framing.  
-
-5. **Archiving & Display:**  
-   Each generated image was sent via a **TCP/UDP network server** to a secondary display system,  
-   where portraits were continuously added to a **virtual wall of frames** simulating an early photo studio interior.  
-   The result was a real-time exhibition that continuously evolved with new participants.  
+1. **Face Capture & Detection**  
+   - Real-time facial detection using **OpenCV DNN** models integrated in Unity.  
+   - Extended detection region to include **hair and head area** via post-processing on facial landmarks, ensuring style transformation affects full portrait.  
+2. **Face Swap & Style Mapping**  
+   - Implemented a custom **face-swap system** merging visitor features with pre-designed 1920s “New Women” portrait references.  
+   - Style filters layered through custom **shader-based watercolor and pointillist noise blending**, referencing early magazine printing textures.  
+3. **Artistic Style Assets**  
+   - Illustrated base templates by **Yu Soohyun**, inspired by “New Women” visual language and reinterpreted for both male and female figures.  
+   - **Junsoo Ha** collaborated on historical art direction and layout curation.  
+4. **Segmentation & Background Replacement**  
+   - Applied **Unity Barracuda-based person segmentation** to separate subjects from background.  
+   - Replaced the backdrop with **vintage magazine-style layouts** dynamically mapped to color palettes extracted from 1920s Korean publications.  
+5. **Archiving & Exhibition Display**  
+   - Generated portraits sent via **TCP connection** to an external display wall,  
+     where results appeared in a looping slideshow simulating a virtual photo gallery.  
+   - All portraits auto-saved in timestamped folders for archival record and curatorial review.  
 
 ---
 
 ## 🧠 Artistic & Research Focus  
-**Jemulpo Photo Studio** reimagines the act of photography as both **cultural reconstruction and interactive storytelling**.  
-It explores how **machine learning and historical aesthetics** can intersect to reconstruct **gendered modern identities** in Korean visual history.  
+This project investigates how **historical aesthetics can be reactivated through AI and real-time media art**.  
+By merging colonial-era “New Women” imagery with contemporary digital interfaces,  
+the installation creates a space where visitors can **temporarily inhabit a reimagined past**,  
+exploring the interplay between **gender, modernization, and visual media**.  
 
-By referencing the **New Women** imagery—symbols of both empowerment and social tension—the installation examines how **image-making** operates as a tool of identity formation across time, technology, and ideology.
+The live archiving process reflects on photography’s role as both documentation and performance—  
+turning spectators into **participants of a digitally reconstructed modern history**.
 
 ---
 
@@ -76,11 +75,12 @@ By referencing the **New Women** imagery—symbols of both empowerment and socia
 ---
 
 ## 👤 Credits  
-**Artist / Developer:** Jonghoon Ahn  
-**Collaborating Illustrator:** Suhyun Yoo  
+**Technical Director:** Jonghoon Ahn  
+**Collaborating Artist:** Junsoo Ha  
+**Illustrator:** Yu Soohyun  
 **Year:** 2022  
 **Exhibition:** Incheon Metropolitan Museum  
-**Medium:** Interactive Art Installation · AI-based Style Transfer  
+**Medium:** Interactive Art Installation  
 
 ---
 
