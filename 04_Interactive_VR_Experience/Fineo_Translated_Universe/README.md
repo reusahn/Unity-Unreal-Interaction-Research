@@ -74,6 +74,7 @@ data ≈ finitium ✱ fineom ∷ finecula ◊ planet ∞ solar system
 
 ## 💻 Example Code (Processing)
 
+ ```java
 int num = 3; 
 float[] radius = {25, 28, 145, 105, 85, 70, 65, 215};
 float a = radius[num-1];
@@ -93,11 +94,11 @@ void draw() {
   }
   endShape();
 }
-
+ ```
 Each visualized atom (“finitium”) emerges as a living harmonic form generated from elemental data.
 
 ## 🖼️ Media  
-| ![Fineo_01](./media/Fineo_01.jpg) | ![Fineo_02](./media/fineo_02.jpg) | ![Fineo_03](./media/fineo_03.jpg) |
+| ![Fineo_01](./media/Fineo_01.jpg) | ![Fineo_02](./media//Fineo_02.jpg) | ![Fineo_03](./media//Fineo_03.jpg) |
 |:--:|:--:|:--:|
 | Fineo Visual 1 | Fineo Visual 2 | Fineo Visual 3 |
 
