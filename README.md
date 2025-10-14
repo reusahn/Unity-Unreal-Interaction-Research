@@ -81,4 +81,4 @@ Immersive prototypes exploring narrative, emotion, and agency in virtual environ
 **Portfolio:** [jonghoonahn.com](https://jonghoonahn.com)  
 **GitHub:** [github.com/reusahn/Unity-Unreal-Interaction-Research](https://github.com/reusahn/Unity-Unreal-Interaction-Research/tree/main)  
 **Email:** [reusahn@gmail.com](mailto:reusahn@gmail.com)  
-**Resume:** Resume_2025_JonghoonAhn.pdf  
+**Resume:** [Resume_2025_JonghoonAhn.pdf](https://drive.google.com/file/d/18_ZAQz-OzZehtOr67BawiJGl2yV2KBGC/view?usp=sharing) 
