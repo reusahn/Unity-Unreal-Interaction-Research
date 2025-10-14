@@ -51,8 +51,8 @@ reflecting how human-AI dialogue loops mirror the structure of the modern digita
 
 ## 🎥 Video Documentation
 <p align="center">
-  <a href="https://vimeo.com/your-video-link-here">
-    <img src="./media/EscapeMetro_Thumb.jpg" width="40%" style="border-radius:10px;"/>
+  <a href="https://vimeo.com/1107998609">
+    <img src="./media//EscapeMetro_01.jpg" width="40%" style="border-radius:10px;"/>
   </a>
 </p>
 
