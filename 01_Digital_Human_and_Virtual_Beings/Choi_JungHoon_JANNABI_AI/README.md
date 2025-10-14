@@ -18,7 +18,7 @@ It explores the emotional boundaries between admiration, replication, and authen
 - **Software:** Character Creator 4 (CC4), Headshot Plugin, Maya, Blender  
 - **Language:** C#, Python  
 - **AI Models:** OpenAI GPT (chat-based persona), ElevenLabs Voice Cloning API, diffusion-based texture synthesis  
-- **Hardware:** Microphone, Azure Kinect, PC (NVIDIA RTX 4090)  
+- **Hardware:** Microphone, Azure Kinect, PC (NVIDIA RTX 4070 Super)  
 
 ### 🧩 Pipeline  
 1. **3D Reconstruction:**  
