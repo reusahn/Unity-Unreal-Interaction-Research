@@ -13,7 +13,7 @@ Each work questions how digital beings inherit emotion and agency from human cre
 - [Seon A’s Family](./SeonA_Family/README.md)  
 - [Whispers](./Whispers/README.md)  
 - [Yaloo Collaboration](./Yaloo_Collaboration/README.md)  
-- [Shin Inho](./Shin_Inho/README.md)  
+- [Shininho](./Shininho/README.md)  
 - [Scott Collaboration](./Scott_Collaboration/README.md)  
 
 ---
