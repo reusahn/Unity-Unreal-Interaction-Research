@@ -65,8 +65,8 @@ where the act of offering flowers becomes a generative visualization of solidari
 
 ## 🎥 Video Documentation
 <p align="center">
-  <a href="https://vimeo.com/666369383/69a48ffe55" target="_blank">
-    <img src="./media/ToEternity_Thumb.jpg" width="40%" style="border-radius:10px;"/>
+  <a href="https://vimeo.com/666369383/69a48ffe55?fl=tl&fe=ec" target="_blank"> 
+    <img src="./media/ToEternity_01.jpg" width="40%" style="border-radius:10px;"/>
   </a>
   <br>
   <em>Click to view full video on Vimeo</em>
