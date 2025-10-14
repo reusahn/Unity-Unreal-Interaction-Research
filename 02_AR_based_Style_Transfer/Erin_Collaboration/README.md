@@ -6,11 +6,11 @@
 ---
 
 ## 🧩 Overview  
-**Erin Collaboration** is an interactive photo installation that recreates the distinctive **animation style of artist Erin** as a real-time AR filter within **Unity**.  
-The system detects the human subject through segmentation and transforms only the person into Erin’s visual style, while preserving the **real-world background** as is.  
-This hybrid rendering technique creates a striking contrast between **stylized character and realistic environment**, blurring the boundary between animation and reality.  
+**Erin Collaboration** is an interactive AI photo installation that transforms the human figure into the **distinctive animation style of artist Erin** in real time.  
+The system detects the subject through segmentation and applies Erin’s painterly, hand-drawn look only to the **person**, while maintaining the **real-world background** unchanged.  
 
-Visitors can instantly print their transformed portraits within the installation, turning the space into a **live AI photo studio** where technology, illustration, and human presence coexist.  
+This hybrid rendering process creates a dynamic contrast between **animation and reality**, allowing the participant to step directly into Erin’s visual world.  
+Captured portraits are automatically printed through a connected photo printer, turning the installation into a **live AI photo booth** where illustration, technology, and human expression merge.
 
 ---
 
@@ -18,25 +18,41 @@ Visitors can instantly print their transformed portraits within the installation
 - **Engine:** Unity  
 - **Framework:** AR Foundation  
 - **Software:** Blender · Photoshop  
-- **Language:** C# · Python  
-- **AI Model:** Neural Style Transfer (TensorFlow-trained, exported as ONNX, Unity Barracuda runtime)  
-- **Hardware:** PC (NVIDIA RTX 4090), DSLR Camera, Photo Printer  
-- **Pipeline:**  
-  1. Collect and preprocess Erin’s animation-style dataset  
-  2. Train neural style transfer model in TensorFlow and export to ONNX  
-  3. Integrate ONNX model into Unity via **Barracuda** for real-time inference  
-  4. Perform background segmentation using AR Foundation human stencil buffer  
-  5. Apply stylization only to segmented human regions while maintaining real-world background  
-  6. Generate high-resolution frames and automatically print portraits upon capture  
+- **Languages:** C# · Python  
+- **AI Framework:** Neural Style Transfer (TensorFlow-trained → ONNX → Unity Barracuda runtime)  
+- **Hardware:** PC (NVIDIA RTX 4070 Super), DSLR Camera, Tablet Interface, Photo Printer  
+
+### 🧩 Pipeline  
+1. **Dataset Construction & Model Training**  
+   - Collected high-resolution stills and animation frames from **Erin’s works** to build a consistent visual dataset.  
+   - Trained a **neural style transfer network** using TensorFlow, optimized for Erin’s color tone and texture abstraction.  
+   - Exported the model to **ONNX** for real-time inference inside Unity.  
+2. **Human Segmentation**  
+   - Used **AR Foundation’s Human Stencil Buffer** to precisely isolate the subject.  
+   - Applied additional mask dilation and smoothing to maintain natural hair and edge details.  
+3. **Stylization Pipeline (Four-Stage Filter Process)**  
+   - **Mosaic Filter:** Reduces fine pixel information for painterly brush consistency.  
+   - **Pixelation & Contrast Mapping:** Reconstructs edges using dynamic luminance separation.  
+   - **Watercolor Noise Filter:** Adds controlled fluid distortion resembling Erin’s brush flow.  
+   - **Color Quantization:** Compresses palette range to match Erin’s unique tonal rhythm.  
+   - All filters executed via **custom shader graph** chain for minimal latency.  
+4. **Real-Time Rendering & Output**  
+   - Combined stylized human with live background feed through Unity’s **RenderTexture compositor**.  
+   - Achieved **~25–30 FPS** at 1080p with half-precision Barracuda inference.  
+5. **Printing & Archive System**  
+   - Integrated **photo printer plugin** to instantly generate high-quality prints of captured frames.  
+   - Each printed portrait auto-saved with timestamp metadata, creating a growing archive of participants.  
 
 ---
 
 ## 🧠 Artistic & Research Focus  
-The project investigates how **AI can extend an artist’s visual identity** through real-time computation.  
-By transforming the human subject into Erin’s animated aesthetic, the installation redefines portraiture as **a shared act between human and algorithmic authorship**.  
+This collaboration explores how **AI can extend an artist’s visual language beyond static media**.  
+By allowing visitors to inhabit Erin’s distinctive aesthetic in real time, the installation turns **style into a living, generative experience**.  
 
-It reflects on how **style becomes a living, generative filter**, allowing viewers to witness themselves through the language of another artist—  
-revealing the emotional resonance that emerges when **artistic authorship meets machine perception**.  
+It investigates the intersection between **artistic authorship and algorithmic interpretation**,  
+revealing how noise, texture, and motion can become emotional conduits when machine vision mimics human artistry.  
+
+The printed portraits act as **tangible traces of digital transformation**—proof of the moment when a viewer becomes an artwork.
 
 ---
 
@@ -50,18 +66,21 @@ revealing the emotional resonance that emerges when **artistic authorship meets 
 
 ## 🎥 Video Documentation
 <p align="center">
-  <a href="https://vimeo.com/your-video-link-here">
+  <a href="https://vimeo.com/your-video-link-here" target="_blank">
     <img src="./media/Erin_Thumb.jpg" width="40%" style="border-radius:10px;"/>
   </a>
+  <br>
+  <em>Click to view full video on Vimeo</em>
 </p>
 
 ---
 
 ## 💻 Implementation Notes  
 - **Segmentation:** AR Foundation Human Stencil Buffer  
-- **Model Runtime:** Unity Barracuda (ONNX model inference)  
-- **Optimization:** Half-precision GPU inference for mobile and real-time AR performance  
-- **Output:** 1080p stylized portrait stream with automatic print integration  
+- **Stylization Runtime:** Unity Barracuda (ONNX Model Inference)  
+- **Filter Stages:** Mosaic → Contrast → Watercolor Noise → Color Quantization  
+- **Optimization:** Half-precision GPU compute for real-time AR  
+- **Output:** 1080p stylized portrait with live photo print system  
 
 ---
 
@@ -77,4 +96,3 @@ revealing the emotional resonance that emerges when **artistic authorship meets 
 ## 🔗 Related  
 - [Back to AR-based Style Transfer](../README.md)  
 - [View All Projects](https://github.com/reusahn/Unity-Unreal-Interaction-Research/tree/main)
-
