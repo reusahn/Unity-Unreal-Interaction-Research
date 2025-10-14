@@ -1,39 +1,51 @@
 # 🎨 Picasso – AR Self-Portrait Experiment  
-*(AR-based Style Transfer Project – 2021)*  
+*(AR-based Neural Style Transfer Collaboration – 2021 · with Junsoo Ha)*  
 
 [← Back to main repository](https://github.com/reusahn/Unity-Unreal-Interaction-Research/tree/main)
 
 ---
 
 ## 🧩 Overview  
-**Picasso** is an augmented reality experiment that reinterprets the human face through **neural style transfer** inspired by the paintings of **Pablo Picasso**.  
-The project transforms the viewer’s live self-portrait into a **cubist and fragmented abstraction**, allowing users to experience how identity and artistic style interact in real time.  
+**Picasso** is an AR-based neural style transfer experiment that reinterprets the human face through the fragmented and abstract aesthetics of **Pablo Picasso’s paintings**.  
+Developed in collaboration with **Junsoo Ha**, the work transforms real-time camera input into a **cubist-inspired digital portrait**, turning the viewer’s own image into a living artwork.  
 
-By combining AI-driven image synthesis with AR visualization, the work examines how technology can reconstruct self-perception—  
-turning the camera into both a mirror and a painter’s brush.
+By blending AI training and AR visualization, the project explores how **machine perception redefines identity and authorship**—  
+transforming the front-facing camera into both a **mirror and a painter’s brush**.  
+Each stylized face is archived on a secondary display, where audience portraits form a collective visual timeline of machine-mediated self-expression.
 
 ---
 
 ## ⚙️ Technical Description  
 - **Engine:** Unity  
-- **Framework:** AR Foundation  
-- **Software:** Blender · Photoshop (for dataset preparation)  
-- **Language:** C# · Python  
-- **AI Model:** Neural Style Transfer (TensorFlow-trained, Unity Barracuda runtime)  
-- **Hardware:** iPhone 12 (ARKit)  
-- **Pipeline:**  
-  1. Train a neural style transfer model on Picasso’s painting dataset using TensorFlow  
-  2. Convert the trained model into **ONNX** format and import via **Unity Barracuda**  
-  3. Capture real-time facial input through AR Foundation (WebCamTexture → RenderTexture)  
-  4. Apply style transformation in real time using GPU inference  
-  5. Render stylized output as an AR overlay with gesture-based intensity control  
+- **Framework:** AR Foundation (ARKit)  
+- **Software:** Blender · Photoshop (dataset curation)  
+- **Languages:** C# · Python  
+- **AI Model:** Custom Neural Style Transfer (TensorFlow → ONNX → Unity Barracuda)  
+- **Hardware:** iPhone 12 · MacBook Pro (training & deployment)  
+
+### 🧩 Pipeline  
+1. **Dataset & Model Training:**  
+   Selected **five Picasso paintings** representing distinct cubist and color phases.  
+   Trained a neural style transfer model for ~1000 steps using TensorFlow, stabilizing the stylistic balance between abstraction and legibility.  
+2. **Model Conversion:**  
+   Exported trained model as **ONNX** and executed it in Unity via **Barracuda GPU backend** for real-time inference.  
+3. **Real-time Face Capture:**  
+   Captured user’s face with **AR Foundation** (WebCamTexture → RenderTexture) and applied live style mapping.  
+4. **Network & Archiving:**  
+   Used **TCP socket communication** to stream stylized portraits to an external screen,  
+   creating a **shared archive** of all captured self-portraits as a looping slideshow.  
+5. **Performance Optimization:**  
+   Implemented half-precision textures and reduced inference latency to **~20ms per frame**, enabling mobile AR fluency.  
 
 ---
 
 ## 🧠 Artistic & Research Focus  
-The project explores **the boundaries between identity, authorship, and perception** in the context of real-time AI.  
-By transforming one’s own face through cubist abstraction, **Picasso** questions how artistic style can reshape self-image and extend the idea of portraiture into computational form.  
-It transforms the act of seeing into an act of painting—performed collaboratively between human and machine.  
+The project explores the **intersection of self-perception, artistic style, and neural translation**.  
+By training on Picasso’s paintings and applying them to live faces, the work challenges traditional notions of **portraiture and authorship**—  
+asking whether a machine can **interpret** rather than merely **replicate** art.  
+
+The archived portraits form a **collective portrait of spectatorship**,  
+inviting audiences to see themselves—and each other—through a machine’s reinterpretation of art history.
 
 ---
 
@@ -47,27 +59,29 @@ It transforms the act of seeing into an act of painting—performed collaborativ
 
 ## 🎥 Video Documentation
 <p align="center">
-  <a href="https://vimeo.com/your-video-link-here">
+  <a href="https://vimeo.com/your-video-link-here" target="_blank">
     <img src="./media/Picasso_Thumb.jpg" width="40%" style="border-radius:10px;"/>
   </a>
+  <br>
+  <em>Click to view full video on Vimeo</em>
 </p>
 
 ---
 
 ## 💻 Implementation Notes  
 - **Model:** Fast Neural Style Transfer (Johnson et al.)  
-- **Barracuda Execution:** GPU inference using Compute Shader backend  
-- **Optimization:** Half-precision texture for mobile performance  
-- **Latency:** ~18–22ms/frame on iPhone 12 (ARKit pipeline)  
-- **Output:** Real-time stylized self-portrait overlay with dynamic line and color adaptation  
+- **Runtime:** Unity Barracuda (GPU Compute Shader backend)  
+- **Networking:** TCP socket for remote archiving display  
+- **Performance:** ~18–22 ms/frame on iPhone 12 (ARKit pipeline)  
+- **Output:** Stylized live portrait + remote slideshow archive  
 
 ---
 
 ## 👤 Credits  
-**Artist / Developer:** Jonghoon Ahn  
+**Artists / Developers:** Jonghoon Ahn & Junsoo Ha  
 **Year:** 2021  
 **Institution:** Kookmin University  
-**Medium:** AR-based Neural Style Transfer  
+**Medium:** AR-based Neural Style Transfer Installation  
 
 ---
 
