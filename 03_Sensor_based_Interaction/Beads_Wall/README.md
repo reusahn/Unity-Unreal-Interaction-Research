@@ -62,7 +62,7 @@ revealing how even a passing movement can become a visual echo of existence.
 ## 🎥 Video Documentation
 <p align="center">
   <a href="https://vimeo.com/1055793366/92b0f81f7f" target="_blank">
-    <img src="./media/BeadsWall_Thumb.jpg" width="40%" style="border-radius:10px;"/>
+    <img src="./media/BeadsWall_01.jpg" width="40%" style="border-radius:10px;"/>
   </a>
   <br>
   <em>Click to view full video on Vimeo</em>
