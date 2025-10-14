@@ -45,15 +45,15 @@ foreshadowing later experiments in generative systems and human–machine percep
 ## 🖼️ Media
 <p align="center">
   <img src="./media/Fineo_01.jpg" width="40%" style="margin-right:5px;"/>  
-  <img src="./media/Fineo_02.jpg" width="40%" style="margin-right:5px;"/>
+ <!-- <img src="./media/Fineo_02.jpg" width="40%" style="margin-right:5px;"/>-->
 </p>
 
 ---
 
 ## 🎥 Video Documentation
 <p align="center">
-  <a href="https://vimeo.com/your-video-link-here">
-    <img src="./media/Fineo_Thumb.jpg" width="40%" style="border-radius:10px;"/>
+  <a href="https://vimeo.com/666371092/5759d8c3ae">
+    <img src="./media/Fineo_01.jpg" width="40%" style="border-radius:10px;"/>
   </a>
 </p>
 
