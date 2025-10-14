@@ -65,7 +65,6 @@ The player’s voice becomes both a weapon and a confession — the key to unloc
 ## 🖼️ Media
 <p align="center">
   <img src="./media/EscapeMetro_01.jpg" width="40%" style="margin-right:5px;"/>  
-  <img src="./media/EscapeMetro_02.jpg" width="40%" style="margin-right:5px;"/>  
 </p>
 
 ---
@@ -73,7 +72,7 @@ The player’s voice becomes both a weapon and a confession — the key to unloc
 ## 🎥 Video Documentation
 <p align="center">
   <a href="https://vimeo.com/1107998609" target="_blank">
-    <img src="./media/EscapeMetro_Thumb.jpg" width="40%" style="border-radius:10px;"/>
+    <img src="./media/EscapeMetro_01.jpg" width="40%" style="border-radius:10px;"/>
   </a>
   <br>
   <em>Click to view full video on Vimeo</em>
