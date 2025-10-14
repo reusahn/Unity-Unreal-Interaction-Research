@@ -41,15 +41,15 @@ The subway setting—historically associated with surveillance and transgression
 ## 🖼️ Media
 <p align="center">
   <img src="./media/GraffitiFreedom_01.jpg" width="40%" style="margin-right:5px;"/>  
-  <img src="./media/GraffitiFreedom_02.jpg" width="40%" style="margin-right:5px;"/>
+<!--  <img src="./media/GraffitiFreedom_02.jpg" width="40%" style="margin-right:5px;"/>-->
 </p>
 
 ---
 
 ## 🎥 Video Documentation
 <p align="center">
-  <a href="https://vimeo.com/your-video-link-here">
-    <img src="./media/GraffitiFreedom_Thumb.jpg" width="40%" style="border-radius:10px;"/>
+  <a href="https://vimeo.com/1108000765">
+    <img src="./media/GraffitiFreedom_01.jpg" width="40%" style="border-radius:10px;"/>
   </a>
 </p>
 
