@@ -43,14 +43,15 @@ revealing the emotional resonance between **human movement and luminous abstract
 <p align="center">
   <img src="./media/BeadsWall_01.jpg" width="40%" style="margin-right:5px;"/>  
   <img src="./media/BeadsWall_02.jpg" width="40%" style="margin-right:5px;"/>
+    <img src="./media/BeadsWall_03.jpg" width="40%" style="margin-right:5px;"/>
 </p>
 
 ---
 
 ## 🎥 Video Documentation
 <p align="center">
-  <a href="https://vimeo.com/your-video-link-here">
-    <img src="./media/BeadsWall_Thumb.jpg" width="40%" style="border-radius:10px;"/>
+  <a href="https://vimeo.com/1055793366/92b0f81f7f">
+    <img src="./media/BeadsWall_01.jpg" width="40%" style="border-radius:10px;"/>
   </a>
 </p>
 
