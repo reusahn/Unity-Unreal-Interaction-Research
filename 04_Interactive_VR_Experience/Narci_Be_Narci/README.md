@@ -48,16 +48,19 @@ inviting audiences to reflect on empathy, healing, and the act of reclaiming ide
 <p align="center">
   <img src="./media/NARCI_01.jpg" width="40%" style="margin-right:5px;"/>  
   <img src="./media/NARCI_02.jpg" width="40%" style="margin-right:5px;"/>  
-  <img src="./media/BeNARCI_01.jpg" width="40%" style="margin-right:5px;"/>  
-  <img src="./media/BeNARCI_02.jpg" width="40%" style="margin-right:5px;"/>
+ <!-- <img src="./media/BeNARCI_01.jpg" width="40%" style="margin-right:5px;"/>  
+  <img src="./media/BeNARCI_02.jpg" width="40%" style="margin-right:5px;"/>-->
 </p>
 
 ---
 
 ## 🎥 Video Documentation
 <p align="center">
-  <a href="https://vimeo.com/your-video-link-here">
-    <img src="./media/NARCI_Thumb.jpg" width="40%" style="border-radius:10px;"/>
+  <a href="https://vimeo.com/1011881596/2770ac3b29">
+    <img src="./media/NARCI_01.jpg" width="40%" style="border-radius:10px;"/>
+  </a>
+    <a href="https://vimeo.com/1107996077">
+    <img src="./media/NARCI_02.jpg" width="40%" style="border-radius:10px;"/>
   </a>
 </p>
 
