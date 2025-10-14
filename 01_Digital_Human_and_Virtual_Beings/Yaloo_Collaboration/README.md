@@ -6,41 +6,43 @@
 ---
 
 ## 🧩 Overview  
-**Yaloo_Collaboration** is a posthuman media art project created in collaboration with artist **Yaloo**, exploring identity, transformation, and digital ecology.  
+**Yaloo_Collaboration** is a posthuman media art project created in collaboration with media artist **Yaloo**, exploring identity, transformation, and digital ecology.  
 The work reimagines Yaloo as a **hybrid being merging human and seaweed**, symbolizing ecological coexistence and digital rebirth.  
 
-Exhibited at the **Gyeonggi Museum of Modern Art**, the piece visualizes a continuous transformation between a child, an adult, and an elder—each representing different stages of human and marine evolution.  
-Through real-time metamorphosis, the work examines how digital organisms can embody the emotional and biological rhythm of nature within computational space.
+Exhibited at the **Gyeonggi Museum of Modern Art**, the piece visualizes continuous metamorphosis between **a child, an adult, and an elder**, each representing stages of life and nature’s regenerative cycle.  
+Through real-time transformation, it reveals how digital organisms can embody emotional and biological rhythms within a computational environment.
 
 ---
 
 ## ⚙️ Technical Description  
-- **Engines:** Unreal Engine 5 · Unity  
+- **Engine:** Unreal Engine 5  
 - **Software:** MetaHuman Creator · Character Creator 4 (CC4) · Blender · Maya · Marvelous Designer  
 - **Language:** Python · C#  
-- **Hardware:** PC (NVIDIA RTX 4070 Super) · VR Headset  
+- **Hardware:** PC (NVIDIA RTX 4070 Super)  
 - **Pipeline:**  
   1. **Facial Capture & MetaHuman Creation:**  
-     A facial video of artist **Yaloo** was converted into a 3D mesh and processed through **MetaHuman Creator**, resulting in a lifelike head model retaining her key facial features.  
+     A facial video of artist **Yaloo** was converted into a 3D mesh, reconstructed in **MetaHuman Creator**, and refined to preserve her facial likeness.  
   2. **Hybrid Body Design:**  
-     A **child’s body** was generated using **Character Creator 4 (CC4)**.  
-     The head from MetaHuman and the CC4 body—each with different rigs—were merged inside **Unreal Engine**, achieving a unified hybrid rig through custom retargeting.  
-  3. **Hair & Material Design:**  
-     The hair was sculpted in **Blender**, stylized to resemble **seaweed**, and imported as an **Alembic (ABC)** file for dynamic simulation inside Unreal.  
-     Custom shaders created the translucent, organic surface texture resembling underwater organisms.  
-  4. **Motion Capture Integration:**  
-     - **Facial mocap:** Captured via **Apple ARKit** and imported as CSV animation curves into Unreal’s Sequencer.  
-     - **Body mocap:** Extracted from 2D video data using **Move.ai**, converted to skeletal animation, and applied to the hybrid rig.  
-  5. **Environmental Design:**  
-     Real-time water caustics, particle fog, and low-frequency lighting simulate an underwater breathing effect within Unreal Engine’s Niagara system.  
+     A **child’s body** was created in **Character Creator 4 (CC4)**.  
+     The MetaHuman head and CC4 body—built on distinct rigging systems—were merged inside **Unreal Engine**, forming a single hybrid character through custom retargeting.  
+  3. **Hair & Material Development:**  
+     Hair was sculpted in **Blender**, stylized to resemble **seaweed strands**, and imported into Unreal as an **Alembic (ABC)** file to maintain motion deformation.  
+     Dynamic hair animation was parented to the head rig, allowing subtle, organic underwater movement.  
+  4. **Facial & Body Motion Capture:**  
+     - **Facial mocap:** Recorded with **Apple ARKit (iPhone)**, exported as CSV keyframe data, then re-applied in Unreal’s Sequencer.  
+     - **Body motion:** Generated using **Move.ai**, converting 2D performance video into skeletal animation.  
+  5. **Shader & Lighting Design:**  
+     Procedural materials and translucent shaders recreated **bioluminescent marine textures**,  
+     while light caustics and fog layers simulated an aquatic atmosphere reflecting posthuman transformation.  
 
 ---
 
 ## 🧠 Artistic & Research Focus  
-This collaboration investigates **posthuman identity** and **digital–organic symbiosis** through hybrid digital human construction.  
-The merging of tools from different ecosystems—**MetaHuman**, **CC4**, **Blender**, and **Move.ai**—becomes a metaphor for **biological and technological interdependence**.  
+The project examines **posthuman identity**, **digital–organic hybridity**, and **ecological embodiment** through technical and aesthetic synthesis.  
+By combining **MetaHuman**, **CC4**, and **Move.ai**, it redefines digital humans as **organisms of collaboration**—not static representations but evolving systems of empathy and transformation.  
 
-The work proposes a posthuman body that transcends gender, age, and material boundaries, representing an **ecosystemic empathy between human and environment**.
+This work proposes that technological creation can serve as an **act of coexistence**,  
+where human identity is continuously reinterpreted through nonhuman materials and computational environments.
 
 ---
 
