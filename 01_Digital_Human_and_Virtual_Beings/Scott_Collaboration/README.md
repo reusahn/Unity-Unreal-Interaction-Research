@@ -1,4 +1,3 @@
-
 # 🕯️ Scott Collaboration – Digital Memory Sculpture  
 *(Interactive AI Installation – 2025 · Phase Gallery, Los Angeles)*  
 
@@ -7,38 +6,52 @@
 ---
 
 ## 🧩 Overview  
-**Scott Collaboration** is an interactive media installation developed in collaboration with **Scott**,  
-who worked with the photograph of his late mother and a close friend to explore **memory, loss, and digital reanimation**.  
-The project transforms personal photographs into **3D sculptural forms resembling marble or plaster statues**,  
-which are then animated using **generative AI video synthesis** to evoke fragments of living memory.  
+**Scott Collaboration** is an interactive media installation created with **Scott**,  
+who sought to memorialize his late mother and a close friend through digital preservation and AI-based reanimation.  
+The work transforms deteriorated photographs into **3D sculptural portraits**, blending stone-like stillness with AI-generated motion.  
 
-Each sculptural figure displays AI-generated video projections that are spatially arranged according to **luminance depth values**,  
-creating a dynamic perception of volume and emotional presence.  
-When a viewer’s face is detected via webcam, the corresponding AI memory video activates—  
-allowing a moment of recognition between the living and the digital echoes of the past.  
+When viewers approach, the static sculptures awaken—  
+their surfaces dissolving into **particle-based video projections** that reveal faintly living presences within.  
+Through this transformation, the project questions how **memory, loss, and recognition** manifest in an age when even grief becomes computationally encoded.
 
 ---
 
 ## ⚙️ Technical Description  
-- **Engine:** Unity  
-- **Software:** Maya · Blender · OpenCV  
+- **Engine:** Unity (HDRP)  
+- **Software:** Maya · Blender · Topaz Labs · Meshy AI · VEO 3  
 - **Language:** C# · Python  
-- **AI Tools:** Generative Video Synthesis (diffusion-based)  
-- **Hardware:** PC (NVIDIA RTX 4090), Webcam, Projection System  
+- **AI Tools:** VEO 3 (Generative Motion Loop) · Meshy AI (3D Reconstruction)  
+- **Hardware:** PC (NVIDIA RTX 4070 Super) · Webcam · Projection System  
 - **Pipeline:**  
-  1. 2D photographs of Scott’s late mother and friend processed into 3D marble-like sculptures  
-  2. Diffusion-based AI model generates video portraits from the reconstructed images  
-  3. Real-time luminance mapping creates depth and dynamic light across each sculpture  
-  4. OpenCV-based facial recognition triggers AI videos on specific statues  
-  5. Unity system synchronizes motion, projection, and ambient light for immersive response  
+  1. **Image Restoration:**  
+     Original low-resolution portraits of Scott’s mother and friend were restored using **Topaz Labs AI** for super-resolution and artifact removal.  
+  2. **3D Reconstruction:**  
+     The enhanced images were processed through **Meshy AI** to generate 3D geometry and depth maps.  
+     The resulting models were refined in **Blender**, textured with concrete-like materials, and sculpted to evoke **memorial statues**.  
+  3. **AI Motion Generation:**  
+     Using **VEO 3**, looping “idle” motion sequences were generated from the original still images,  
+     producing subtle movements such as breathing, blinking, and tilting—simulating life through noise.  
+  4. **Unity Integration:**  
+     The 3D sculptures and AI-generated videos were imported into **Unity HDRP** and combined using the **Visual Effect Graph**.  
+     Luminance-driven particle systems mapped video pixels to 3D space,  
+     making brighter regions project outward as depth particles to create the illusion of floating light.  
+  5. **Facial Detection & Interaction:**  
+     **OpenCV** was implemented for real-time face recognition.  
+     When a viewer’s face entered the camera’s frame and reached a certain proximity,  
+     the corresponding sculpture transitioned from static stone to **AI-animated particle form**, symbolizing reawakening.  
+  6. **Lighting & Spatial Composition:**  
+     Subtle volumetric lighting and soft shadows were synchronized with particle brightness,  
+     generating a quiet, contemplative atmosphere between the viewer and the digital memorials.  
 
 ---
 
 ## 🧠 Artistic & Research Focus  
-The collaboration explores **the intersection of grief, memory, and artificial resurrection**.  
-It transforms photographic remembrance into a **living digital space** that responds to human presence.  
-Through generative AI and computer vision, the project questions how technology mediates intimacy,  
-and whether memory preserved through algorithms can still carry emotional truth.  
+The project investigates **grief as an interactive process**—where technology mediates remembrance and emotional continuity.  
+It redefines portraiture as an evolving, responsive entity,  
+asking whether **a digital memory can still feel human** when rendered through algorithms of light, noise, and distance.  
+
+Through the collaboration with Scott, this work becomes not only an artwork but also a **ritual of digital empathy**,  
+where code and memory intersect to create a moment of recognition between the living and the departed.
 
 ---
 
@@ -52,9 +65,11 @@ and whether memory preserved through algorithms can still carry emotional truth.
 
 ## 🎥 Video Documentation
 <p align="center">
-  <a href="https://vimeo.com/your-video-link-here">
+  <a href="https://vimeo.com/your-video-link-here" target="_blank">
     <img src="./media/Scott_Thumb.jpg" width="40%" style="border-radius:10px;"/>
   </a>
+  <br>
+  <em>Click to view full video on Vimeo</em>
 </p>
 
 ---
@@ -63,8 +78,8 @@ and whether memory preserved through algorithms can still carry emotional truth.
 **Collaborating Artist:** Scott  
 **Technical Director:** Jonghoon Ahn  
 **Year:** 2025  
-**Institution:** Phase Gallery, Los Angeles  
-**Medium:** Interactive AI Installation  
+**Exhibition:** Phase Gallery, Los Angeles  
+**Medium:** Interactive AI Installation · Digital Sculpture  
 
 ---
 
