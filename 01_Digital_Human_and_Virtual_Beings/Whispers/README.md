@@ -19,7 +19,8 @@ The project was conceived, written, and visually developed through **iterative d
 - **Engine:** Unreal Engine 5  
 - **Software:** MetaHuman Creator · Maya · Blender · Substance Painter · DaVinci Resolve  
 - **Language:** Blueprint · Python (simulation control)  
-- **Hardware:** PC (NVIDIA RTX 4090)  
+- **Hardware:** PC (NVIDIA RTX 4070 Super) · 32GB RAM · Intel i9 Processor
+ 
 - **AI Tools:** ChatGPT (co-writing & direction) · ElevenLabs (AI voice performance) · Mubert (AI soundtrack generation)  
 
 ### 🧩 Pipeline  
