@@ -38,7 +38,7 @@ By abstracting human guilt into symbolic space, **Mysomania** visualizes the col
 ## 🖼️ Media
 <p align="center">
   <img src="./media/Mysomania_01.jpg" width="40%" style="margin-right:5px;"/>  
-  <img src="./media/Mysomania_02.jpg" width="40%" style="margin-right:5px;"/>
+  <img src="./media/Mysomania_03.jpg" width="40%" style="margin-right:5px;"/>
 </p>
 
 ---
