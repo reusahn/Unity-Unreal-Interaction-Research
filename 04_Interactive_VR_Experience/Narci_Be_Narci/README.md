@@ -6,41 +6,59 @@
 ---
 
 ## 🧩 Overview  
-**NARCI** and **Be NARCI** form a dual VR installation that explores the psychological and emotional mechanics of **narcissism** through two opposing perspectives —  
+**NARCI** and **Be NARCI** form a dual VR installation exploring the psychological and emotional mechanics of **narcissism** through two opposing perspectives —  
 the **victim** and the **perpetrator**.  
 
-In **NARCI**, the participant is trapped inside a claustrophobic elevator where they encounter a series of narcissistic figures.  
-Through **gaslighting-like dialogue and disorienting reflections**, the viewer’s sense of self gradually erodes, mirroring the emotional manipulation of toxic relationships.  
-The journey culminates in a moment of **self-confrontation and restoration**, transforming psychological damage into self-recognition and healing.  
+In **NARCI**, participants sit in a confined elevator-like space within **Meta Quest Pro**, surrounded by reflective surfaces that distort and multiply their image.  
+Without controllers, they interact using natural hand tracking—touching virtual buttons and reaching toward fragmented reflections.  
+The experience unfolds as a **cinematic narrative VR film**, combining slow-breathing spatial storytelling and AI-assisted voice design.  
+Gaslighting dialogues and distorted self-images gradually dissolve the viewer’s identity until they face a final mirror, where healing begins.  
 
-In **Be NARCI**, the roles are reversed — the participant becomes the narcissist.  
-With each controlling gesture, they **transform graceful human-like beings into frozen statues or metallic debris**, experiencing the seductive illusion of control.  
-By embodying both perspectives, the project reveals how **ego, validation, and empathy** intertwine in cycles of power and loss.  
+In **Be NARCI**, the participant stands and navigates freely through an open digital environment.  
+Here, hand gestures allow users to **touch, control, or freeze** graceful human-like beings—transforming them into cold statues or metallic debris.  
+Each act of domination triggers subtle environmental shifts: sounds distort, light fades, and empathy evaporates.  
+Through this reversal, the player becomes both **creator and destroyer**, confronting the addictive power of control.  
+
+Together, the two experiences expose **narcissism’s dual nature**—a cycle of manipulation and dependence, empathy and ego, victimhood and dominance.
 
 ---
 
 ## ⚙️ Technical Description  
-- **Engine:** Unity (XR Interaction Toolkit)  
+- **Engine:** Unity (XR Interaction Toolkit · Hand Tracking)  
 - **Language:** C#  
 - **Rendering Pipeline:** URP  
-- **Hardware:** Meta Quest 2 / Oculus Rift  
+- **Hardware:** Meta Quest Pro (Standalone + PCVR Mode)  
 - **Software:** Blender · ZBrush · Substance Painter · Adobe Audition  
+- **AI Tools:** ChatGPT API (narrative co-writing), ElevenLabs (AI voice synthesis)  
 - **Pipeline:**  
-  1. Environment construction and animation in Unity  
-  2. Dynamic dialogue and reflection systems for psychological immersion  
-  3. Shader-based mirror distortion and depth-of-field control for disorientation  
-  4. Interaction mechanics using XR controllers (touch, grip, gaze)  
-  5. Physics-based transformation system (rigid-to-static state) for Be NARCI  
-  6. Sound spatialization to amplify tension and emotional rhythm  
+  1. **Character and Environment**  
+     - Modeled in **ZBrush** and **Blender**, textured in **Substance Painter**.  
+     - Real-time reflections built using **Screen Space Reflection (SSR)** and custom mirror shaders.  
+  2. **Interaction System (Hand Tracking)**  
+     - No controllers; used **Meta Quest Pro’s hand-tracking API** for touch, pinch, and grab recognition.  
+     - Player input mapped to Unity **XR Interaction Toolkit** custom gestures.  
+  3. **Narrative Flow**  
+     - Dialogue progression handled via **custom state machine** triggered by spatial zones.  
+     - Integrated **AI-generated dialogue lines** from ChatGPT and ElevenLabs voices.  
+  4. **Be NARCI Mechanics**  
+     - Dynamic material transitions (skin → metal → stone) controlled via vertex shader blending.  
+     - Physics state change system (rigid ↔ static) activated by hand collision triggers.  
+  5. **Cinematic Lighting & Sound**  
+     - Real-time lighting synchronization with ambient audio cues in **FMOD**.  
+     - Elevator ambience designed for **spatial sound immersion** via Audition + FMOD integration.  
+  6. **Dual Experience Integration**  
+     - Both projects built within one repository branch under separate Unity scenes.  
+     - Shared shader and voice assets managed via **Git version control** for collaborative updates.  
 
 ---
 
 ## 🧠 Artistic & Research Focus  
-The **NARCI series** investigates how **narcissism functions as both a personal trauma and a social pathology**.  
-By immersing participants in conflicting roles—**the manipulated and the manipulator**—the work exposes the emotional architecture of power, control, and dependence.  
+The **NARCI series** investigates how **narcissism manifests as both trauma and desire** in the digital age.  
+By immersing the audience in both perspectives—the **manipulated** and the **manipulator**—the project turns  
+psychological violence into an **embodied and spatial narrative**.  
 
-Through its duality, the project transforms narcissism from an invisible psychological wound into a **spatial, performative experience**,  
-inviting audiences to reflect on empathy, healing, and the act of reclaiming identity in a mediated world.  
+It questions how **power, empathy, and identity** collapse when digital reflection replaces genuine emotion.  
+Through silence, gaze, and mirrored interaction, *NARCI / Be NARCI* proposes that **healing begins not through dominance, but through recognition**.
 
 ---
 
@@ -70,6 +88,7 @@ inviting audiences to reflect on empathy, healing, and the act of reclaiming ide
 **Artist / Developer:** Jonghoon Ahn  
 **Year:** 2023  
 **Exhibition:** The Cave Seoul  
+**Platform:** Meta Quest Pro  
 **Medium:** Dual VR Experience / Interactive Psychological Installation  
 
 ---
@@ -77,4 +96,3 @@ inviting audiences to reflect on empathy, healing, and the act of reclaiming ide
 ## 🔗 Related  
 - [Back to Interactive VR Experience](../README.md)  
 - [View All Projects](https://github.com/reusahn/Unity-Unreal-Interaction-Research/tree/main)
-
