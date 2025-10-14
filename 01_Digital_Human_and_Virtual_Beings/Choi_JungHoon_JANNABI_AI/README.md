@@ -58,15 +58,7 @@ By merging real-time AI conversation, motion sensing, and emotional mimicry, the
 
 ## 🎥 Video Documentation
 
-<!-- ✅ Vimeo iframe (GitHub Pages or local preview용) -->
-<p align="center">
-  <iframe src="https://player.vimeo.com/video/933305770?h=b3cef8f513" 
-          width="640" height="360" frameborder="0" 
-          allow="autoplay; fullscreen; picture-in-picture" 
-          allowfullscreen 
-          style="border-radius:10px;">
-  </iframe>
-</p>
+
 
 <!-- ✅ 백업: 깃허브에서 iframe이 차단될 때 표시될 썸네일 링크 -->
 <p align="center">
