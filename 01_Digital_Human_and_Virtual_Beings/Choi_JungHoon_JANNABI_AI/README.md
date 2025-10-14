@@ -68,17 +68,6 @@ a reflection on connection, authorship, and affect in posthuman media.
 
 ## 🎥 Video Documentation  
 
-<!-- ✅ Vimeo Embed (for GitHub Pages or local preview) -->
-<p align="center">
-  <iframe src="https://player.vimeo.com/video/933305770?h=b3cef8f513" 
-          width="640" height="360" frameborder="0" 
-          allow="autoplay; fullscreen; picture-in-picture" 
-          allowfullscreen 
-          style="border-radius:10px;">
-  </iframe>
-</p>
-
-<!-- ✅ Fallback Thumbnail (for GitHub site view) -->
 <p align="center">
   <a href="https://vimeo.com/933305770/b3cef8f513" target="_blank">
     <img src="./media/ChoiJungHoon_Thumb.jpg" width="40%" style="border-radius:10px;"/>
