@@ -40,14 +40,16 @@ It visualizes the convergence of **personal presence and collective history**, w
 <p align="center">
   <img src="./media/ToEternity_01.jpg" width="40%" style="margin-right:5px;"/>  
   <img src="./media/ToEternity_02.jpg" width="40%" style="margin-right:5px;"/>
+    <img src="./media/ToEternity_03.jpg" width="40%" style="margin-right:5px;"/>  
+  <img src="./media/ToEternity_04.jpg" width="40%" style="margin-right:5px;"/>
 </p>
 
 ---
 
 ## 🎥 Video Documentation
 <p align="center">
-  <a href="https://vimeo.com/your-video-link-here">
-    <img src="./media/ToEternity_Thumb.jpg" width="40%" style="border-radius:10px;"/>
+  <a href="https://vimeo.com/666369383/69a48ffe55">
+    <img src="./media/ToEternity_01.jpg" width="40%" style="border-radius:10px;"/>
   </a>
 </p>
 
