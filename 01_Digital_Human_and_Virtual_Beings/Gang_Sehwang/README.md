@@ -72,7 +72,7 @@ All assets were imported into **Unity 3D**, where interactive animation triggers
 
 <p align="center">
   <img src="./media/GangSehwang_unity_01.jpg" width="30%" style="margin-right:5px;"/>
-  <img src="./media/GangSehwang_unity_02.jpg" width="15%" style="margin-right:5px;"/>
+  <img src="./media/GangSehwang_unity_02.jpg" width="13%" style="margin-right:5px;"/>
 </p>
 
 ---
