@@ -6,11 +6,15 @@
 ---
 
 ## 🧩 Overview  
-**To Eternity** is an interactive media art installation commemorating the **Gwangju Democratization Movement (May 18, 1980)**.  
-Archival photographs taken during the uprising are algorithmically **mosaicked in real time** over the viewer’s silhouette, transforming remembrance into participation.  
+**To Eternity** is an interactive media installation commemorating the **Gwangju Democratization Movement (May 18, 1980)**.  
+Using real-time body recognition, the system transforms the audience’s silhouette into a **living mosaic of historical photographs** collected from the uprising.  
 
-When participants raise their hands or make gestures of **offering flowers**, the system recognizes the movement and completes the evolving mosaic, creating a **digital altar** of shared memory.  
-The installation transforms silent mourning into a **collective ritual of tribute**, allowing audiences to engage with history through interaction and presence.  
+When a participant performs a **flower-offering gesture** and sustains it for more than five seconds,  
+the system recognizes the motion and triggers an automatic capture —  
+overlaying 300 archival images across the participant’s silhouette to create a **digital memorial portrait**.  
+
+Through this embodied act of remembrance, the work converts silent mourning into a **collective ritual**,  
+where technology mediates empathy, presence, and history.
 
 ---
 
@@ -19,44 +23,59 @@ The installation transforms silent mourning into a **collective ritual of tribut
 - **Language:** C#  
 - **Hardware:** Azure Kinect · Depth Camera · Projection Screen · PC (NVIDIA RTX 3080)  
 - **Software:** OpenCV · TouchDesigner  
+- **Dataset:** ~300 archival photographs (May 18 Gwangju Democratization Movement)  
 - **Pipeline:**  
-  1. Capture real-time depth and body index maps via **Azure Kinect SDK**  
-  2. Detect gesture patterns (hands raised, offering motions)  
-  3. Overlay archival photographs as live mosaic layers aligned to user silhouettes  
-  4. Blend composited image in Unity using custom shader for visual fading and luminance mapping  
-  5. Generate evolving image sequences projected as **memorial visualization**  
+  1. **Depth & Skeleton Tracking**  
+     - Captured real-time depth and body index maps using **Azure Kinect SDK**.  
+     - Extracted joint coordinates to detect upper-body pose patterns.  
+  2. **Gesture Recognition System**  
+     - Defined a “flower offering” gesture via upper-arm and hand position vectors.  
+     - Pose classified as *offering* when confidence exceeded **86%** for **>5 seconds**.  
+     - Gesture event triggered **photo capture and mosaic generation**.  
+  3. **Archival Image Integration**  
+     - Preprocessed ~300 high-resolution documentary images (licensed from participating photojournalists).  
+     - Used custom mosaic algorithm in Unity to layer archival photos over the live silhouette in real time.  
+  4. **Shader Composition**  
+     - Implemented GPU-based blending shader controlling transparency, luminance mapping, and time-based fade-in.  
+     - Combined Unity and **TouchDesigner** pipeline for synchronized projection and visual fading.  
+  5. **Projection Display**  
+     - Final composite projected onto a large wall surface, creating a **memorial altar visualization** that responded to audience participation.  
 
 ---
 
 ## 🧠 Artistic & Research Focus  
-The project transforms **commemoration into interaction**, asking how technology can mediate memory and empathy.  
-By engaging the audience’s physical gestures as part of the memorial process, **To Eternity** redefines remembrance not as passive observation but as **embodied participation**.  
+The project transforms **commemoration into participation**, exploring how technology can preserve and reinterpret historical empathy.  
+Through gesture, time, and presence, *To Eternity* bridges **personal mourning and collective memory**.  
 
-It visualizes the convergence of **personal presence and collective history**, where the act of offering becomes both a **ritual and a generative aesthetic process**.  
+By allowing the audience’s body to become the **medium of remembrance**,  
+it redefines memorial experience as a **collaborative and living archive**,  
+where the act of offering flowers becomes a generative visualization of solidarity and resilience.
 
 ---
 
 ## 🖼️ Media
 <p align="center">
   <img src="./media/ToEternity_01.jpg" width="40%" style="margin-right:5px;"/>  
-  <img src="./media/ToEternity_02.jpg" width="40%" style="margin-right:5px;"/>
-    <img src="./media/ToEternity_03.jpg" width="40%" style="margin-right:5px;"/>  
-  <img src="./media/ToEternity_04.jpg" width="40%" style="margin-right:5px;"/>
+  <img src="./media/ToEternity_02.jpg" width="40%" style="margin-right:5px;"/>  
+  <img src="./media/ToEternity_03.jpg" width="40%" style="margin-right:5px;"/>  
+  <img src="./media/ToEternity_04.jpg" width="40%" style="margin-right:5px;"/>  
 </p>
 
 ---
 
 ## 🎥 Video Documentation
 <p align="center">
-  <a href="https://vimeo.com/666369383/69a48ffe55">
-    <img src="./media/ToEternity_01.jpg" width="40%" style="border-radius:10px;"/>
+  <a href="https://vimeo.com/666369383/69a48ffe55" target="_blank">
+    <img src="./media/ToEternity_Thumb.jpg" width="40%" style="border-radius:10px;"/>
   </a>
+  <br>
+  <em>Click to view full video on Vimeo</em>
 </p>
 
 ---
 
 ## 👤 Credits  
-**Artist / Developer:** Jonghoon Ahn  
+**Technical Director:** Jonghoon Ahn  
 **Year:** 2020  
 **Exhibition:** Asia Culture Center (ACC), Gwangju  
 **Medium:** Interactive Memorial Installation (Azure Kinect, Unity)  
@@ -66,4 +85,3 @@ It visualizes the convergence of **personal presence and collective history**, w
 ## 🔗 Related  
 - [Back to Sensor-based Interaction (Azure Kinect)](../README.md)  
 - [View All Projects](https://github.com/reusahn/Unity-Unreal-Interaction-Research/tree/main)
-
