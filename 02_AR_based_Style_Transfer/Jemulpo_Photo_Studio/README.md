@@ -46,7 +46,7 @@ transforming the gallery into both a **historical simulation and a collective ar
 ## 🎥 Video Documentation
 <p align="center">
   <a href="https://vimeo.com/1011870114/e6a92f4ef4">
-    <img src="./media/Jemulpo_Thumb.jpg" width="40%" style="border-radius:10px;"/>
+    <img src="./media/Jemulpo_03.jpg" width="40%" style="border-radius:10px;"/>
   </a>
 </p>
 
