@@ -60,7 +60,7 @@ where the past becomes a responsive digital partner.
 ## 🎥 Video Documentation
 <p align="center">
   <a href="https://vimeo.com/666366919/507e60e6ca" target="_blank">
-    <img src="./media/SilhakDance_Thumb.jpg" width="40%" style="border-radius:10px;"/>
+    <img src="./media/SilhakDance_01.jpg" width="40%" style="border-radius:10px;"/>
   </a>
   <br>
   <em>Click to view full video on Vimeo</em>
