@@ -44,7 +44,7 @@ reflecting how human-AI dialogue loops mirror the structure of the modern digita
 ## 🖼️ Media
 <p align="center">
   <img src="./media/EscapeMetro_01.jpg" width="40%" style="margin-right:5px;"/>  
-  <img src="./media/EscapeMetro_02.jpg" width="40%" style="margin-right:5px;"/>
+  <!--<img src="./media/EscapeMetro_02.jpg" width="40%" style="margin-right:5px;"/>-->
 </p>
 
 ---
