@@ -48,10 +48,10 @@ By merging real-time AI conversation, motion sensing, and emotional mimicry, the
 
 ## 🖼️ Media
 <p align="center">
-  <img src="./media/ChoiJungHoon_AI_01.jpg" width="15%" style="margin-right:5px;"/>
-  <img src="./media/ChoiJungHoon_AI_02.jpg" width="15%" style="margin-right:5px;"/>
-  <img src="./media/ChoiJungHoon_AI_03.jpg" width="15%" style="margin-right:5px;"/>
-  <img src="./media/ChoiJungHoon_AI_04.jpg" width="15%"/>
+  <img src="./media/ChoiJungHoon_AI_01.jpg" width="20%" style="margin-right:5px;"/>
+  <img src="./media/ChoiJungHoon_AI_02.jpg" width="20%" style="margin-right:5px;"/>
+<!--  <img src="./media/ChoiJungHoon_AI_03.jpg" width="15%" style="margin-right:5px;"/>
+  <img src="./media/ChoiJungHoon_AI_04.jpg" width="15%"/> -->
 </p>
 
 ---
