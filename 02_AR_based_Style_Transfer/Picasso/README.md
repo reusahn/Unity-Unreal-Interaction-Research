@@ -57,7 +57,6 @@ inviting audiences to see themselves—and each other—through a machine’s re
   <img src="./media/Picasso_04.jpg" width="12%" style="margin-right:5px;"/>
      <img src="./media/Picasso_05.jpg" width="12%" style="margin-right:5px;"/>  
   <img src="./media/Picasso_06.jpg" width="12%" style="margin-right:5px;"/>
-   <img src="./media/Picasso_07.jpg" width="12%" style="margin-right:5px;"/>
    
 </p>
 
