@@ -57,8 +57,8 @@ where code and memory intersect to create a moment of recognition between the li
 
 ## 🖼️ Media
 <p align="center">
-  <img src="./media/Scott_01.jpg" width="40%" style="margin-right:5px;"/>  
-  <img src="./media/Scott_02.jpg" width="40%" style="margin-right:5px;"/>
+  <img src="./media/Scott_02.gif" width="40%" style="margin-right:5px;"/>  
+  <img src="./media/Scott_03.gif" width="40%" style="margin-right:5px;"/>
 </p>
 
 ---
