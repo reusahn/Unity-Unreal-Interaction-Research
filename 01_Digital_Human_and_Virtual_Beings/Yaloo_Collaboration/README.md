@@ -50,14 +50,15 @@ where human identity is continuously reinterpreted through nonhuman materials an
 <p align="center">
   <img src="./media/Yaloo_01.jpg" width="40%" style="margin-right:5px;"/>  
   <img src="./media/Yaloo_02.jpg" width="40%" style="margin-right:5px;"/>
+    <img src="./media/Yaloo_03.jpg" width="40%" style="margin-right:5px;"/>
 </p>
 
 ---
 
 ## 🎥 Video Documentation
 <p align="center">
-  <a href="https://vimeo.com/your-video-link-here" target="_blank">
-    <img src="./media/Yaloo_Thumb.jpg" width="40%" style="border-radius:10px;"/>
+  <a href="https://www.instagram.com/reel/C9IP1FASC2Y/" target="_blank">
+    <img src="./media/Yaloo_01.jpg" width="40%" style="border-radius:10px;"/>
   </a>
   <br>
   <em>Click to view full video on Vimeo</em>
