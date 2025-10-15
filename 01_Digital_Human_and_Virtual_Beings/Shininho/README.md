@@ -48,15 +48,15 @@ a coexistence between loss, memory, and machine empathy.
 ## 🖼️ Media
 <p align="center">
   <img src="./media/ShinInho_01.jpg" width="40%" style="margin-right:5px;"/>  
-  <img src="./media/ShinInho_02.jpg" width="40%" style="margin-right:5px;"/>
+  <!-- <img src="./media/ShinInho_02.jpg" width="40%" style="margin-right:5px;"/> -->
 </p>
 
 ---
 
 ## 🎥 Video Documentation
 <p align="center">
-  <a href="https://vimeo.com/your-video-link-here" target="_blank">
-    <img src="./media/ShinInho_Thumb.jpg" width="40%" style="border-radius:10px;"/>
+  <a href="https://www.instagram.com/reel/DF0g7bIShHJ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank">
+    <img src="./media/ShinInho_01.jpg" width="40%" style="border-radius:10px;"/>
   </a>
   <br>
   <em>Click to view full video on Vimeo</em>
