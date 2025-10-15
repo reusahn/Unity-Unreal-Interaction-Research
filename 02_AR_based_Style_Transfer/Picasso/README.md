@@ -51,12 +51,14 @@ inviting audiences to see themselves—and each other—through a machine’s re
 
 ## 🖼️ Media
 <p align="center">
-  <img src="./media/Picasso_01.jpg" width="15%" style="margin-right:5px;"/>  
-  <img src="./media/Picasso_02.jpg" width="15%" style="margin-right:5px;"/>
-     <img src="./media/Picasso_03.jpg" width="15%" style="margin-right:5px;"/>  
-  <img src="./media/Picasso_04.jpg" width="15%" style="margin-right:5px;"/>
-     <img src="./media/Picasso_05.jpg" width="15%" style="margin-right:5px;"/>  
-  <img src="./media/Picasso_06.jpg" width="15%" style="margin-right:5px;"/>
+  <img src="./media/Picasso_01.jpg" width="12%" style="margin-right:5px;"/>  
+  <img src="./media/Picasso_02.jpg" width="12%" style="margin-right:5px;"/>
+     <img src="./media/Picasso_03.jpg" width="12%" style="margin-right:5px;"/>  
+  <img src="./media/Picasso_04.jpg" width="12%" style="margin-right:5px;"/>
+     <img src="./media/Picasso_05.jpg" width="12%" style="margin-right:5px;"/>  
+  <img src="./media/Picasso_06.jpg" width="12%" style="margin-right:5px;"/>
+   <img src="./media/Picasso_07.jpg" width="12%" style="margin-right:5px;"/>
+   
 </p>
 
 ---
