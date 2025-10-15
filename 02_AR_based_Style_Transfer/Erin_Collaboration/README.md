@@ -58,12 +58,12 @@ The printed portraits act as **tangible traces of digital transformation**—pro
 
 ## 🖼️ Media
 <p align="center">
-  <img src="./media/Erin_01.jpg" width="40%" style="margin-right:5px;"/>  
-  <img src="./media/Erin_02.jpg" width="40%" style="margin-right:5px;"/>
+  <img src="./media/Erin_01.gif" width="40%" style="margin-right:5px;"/>  
+<!--  <img src="./media/Erin_02.jpg" width="40%" style="margin-right:5px;"/> -->
 </p>
 
 ---
-
+<!--
 ## 🎥 Video Documentation
 <p align="center">
   <a href="https://vimeo.com/your-video-link-here" target="_blank">
@@ -74,7 +74,7 @@ The printed portraits act as **tangible traces of digital transformation**—pro
 </p>
 
 ---
-
+-->
 ## 💻 Implementation Notes  
 - **Segmentation:** AR Foundation Human Stencil Buffer  
 - **Stylization Runtime:** Unity Barracuda (ONNX Model Inference)  
