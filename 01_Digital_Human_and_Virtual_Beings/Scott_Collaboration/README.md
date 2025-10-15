@@ -63,7 +63,7 @@ where code and memory intersect to create a moment of recognition between the li
 
 ---
 
-## 🎥 Video Documentation
+<!-- ## 🎥 Video Documentation
 <p align="center">
   <a href="https://vimeo.com/your-video-link-here" target="_blank">
     <img src="./media/Scott_Thumb.jpg" width="40%" style="border-radius:10px;"/>
@@ -73,7 +73,7 @@ where code and memory intersect to create a moment of recognition between the li
 </p>
 
 ---
-
+-->
 ## 👤 Credits  
 **Collaborating Artist:** Scott  
 **Technical Director:** Jonghoon Ahn  
