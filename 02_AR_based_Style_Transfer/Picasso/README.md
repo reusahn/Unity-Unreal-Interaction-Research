@@ -77,7 +77,7 @@ inviting audiences to see themselves—and each other—through a machine’s re
 - **Model:** Fast Neural Style Transfer (Johnson et al.)  
 - **Runtime:** Unity Barracuda (GPU Compute Shader backend)  
 - **Networking:** TCP socket for remote archiving display  
-- **Performance:** ~18–22 ms/frame on iPhone 12 (ARKit pipeline)  
+- **Performance:** ~18–22 ms/frame on samsung glaxy tablet pc (network Receiver)  
 - **Output:** Stylized live portrait + remote slideshow archive  
 
 ---
