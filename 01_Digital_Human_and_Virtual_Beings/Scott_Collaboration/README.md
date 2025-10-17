@@ -59,7 +59,7 @@ where code and memory intersect to create a moment of recognition between the li
 <p align="center">
   <img src="./media/Scott_02.gif" width="40%" style="margin-right:5px;"/>  
   <img src="./media/Scott_03.gif" width="40%" style="margin-right:5px;"/>
-  Using same technology, smaple video from my film.
+  <p> </p>Using same technology, smaple video from my film. </p>
 </p>
 
 ---
