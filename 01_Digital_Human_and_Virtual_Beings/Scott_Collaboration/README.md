@@ -61,6 +61,7 @@ where code and memory intersect to create a moment of recognition between the li
   <img src="./media/Scott_03.gif" width="40%" style="margin-right:5px;"/>
 </p>
 
+Using same technology, smaple video from my film.
 ---
 
 <!-- ## 🎥 Video Documentation
