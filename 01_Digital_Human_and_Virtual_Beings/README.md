@@ -18,9 +18,6 @@ Each work questions how digital beings inherit emotion and agency from human cre
 - [Shininho](./Shininho/README.md)  
 - [Scott Collaboration](./Scott_Collaboration/README.md)  
 
----
-
-[← Back to Main Repository](https://github.com/reusahn/Unity-Unreal-Interaction-Research/tree/main)
 
 ---
 
@@ -184,3 +181,7 @@ where memory, simulation, and empathy merge into one living interface.
 > lives the reflection of the human we are trying to forgive.”  
 
 — *Jonghoon Ahn, 2025*
+
+---
+
+[← Back to Main Repository](https://github.com/reusahn/Unity-Unreal-Interaction-Research/tree/main)
