@@ -47,10 +47,10 @@ I scanned my face and body and created my own **MetaHuman** inside Unreal Engine
 a version of me that had only skin, no soul.  
 
 <p align="center">
-  <img src="./Images/me_01.jpg" width="30%" style="margin-right:5px;"/>
-  <img src="./Images/me_02.jpg" width="30%" style="margin-right:5px;"/>
-  <img src="./Images/me_03.jpg" width="30%" style="margin-right:5px;"/>
-  <img src="./Images/me_04.jpg" width="30%" style="margin-right:5px;"/>
+  <img src="./Images/me_01.png" width="30%" style="margin-right:5px;"/>
+  <img src="./Images/me_02.png" width="30%" style="margin-right:5px;"/>
+  <img src="./Images/me_03.png" width="30%" style="margin-right:5px;"/>
+  <img src="./Images/me_04.png" width="30%" style="margin-right:5px;"/>
 </p>
 
 Looking at that hollow copy, I felt not fear, but expansion.  
