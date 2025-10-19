@@ -1,4 +1,4 @@
-# 🧍‍♂️ From Representation to Empathy  
+# From Representation to Empathy  
 ### Reconstructing Life through Digital Human
 
 Exploring empathy, embodiment, and the perception of artificial life through 3D scanning, volumetric capture, motion data, and AI-driven characters.  
