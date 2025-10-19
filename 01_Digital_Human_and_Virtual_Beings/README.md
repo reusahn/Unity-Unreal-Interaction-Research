@@ -65,7 +65,7 @@ Later, this digital twin became my **virtual collaborator**, and through it, I l
 <p align="center">
   <a href="https://vimeo.com/786792831">
     <img src="./Images/me_08.png" width="25%" style="border-radius:10px;"/>
-      <p align="center">Click the image for video</p>
+      <p align="center">🎬 View documentation</p>
   </a>
 
 </p>
