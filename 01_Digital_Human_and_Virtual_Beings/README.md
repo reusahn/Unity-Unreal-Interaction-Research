@@ -56,10 +56,22 @@ a version of me that had only skin, no soul.
 Looking at that hollow copy, I felt not fear, but expansion.  
 It allowed me to see myself from the outside — to become both subject and observer.  
 
+<p align="center">
+  <img src="./Images/me_05.png" width="13%" style="margin-right:5px;"/>
+  <img src="./Images/me_06.png" width="13%" style="margin-right:5px;"/>
+  <img src="./Images/me_07.png" width="13%" style="margin-right:5px;"/>
+</p>
+
 From that moment, I began creating short conceptual videos about digital consciousness —  
 stories of avatars searching for their own selves.  
 Later, this digital twin became my **virtual collaborator**,  
-and through it, I learned how to turn duplication into empathy.  
+and through it, I learned how to turn duplication into empathy.
+<p align="center">
+  <a href="https://vimeo.com/786792831">
+    <img src="./Images/me_08.png" width="40%" style="border-radius:10px;"/>
+  </a>
+</p>
+
 
 ---
 
