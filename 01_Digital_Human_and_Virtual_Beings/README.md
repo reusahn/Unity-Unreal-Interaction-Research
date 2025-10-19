@@ -1,4 +1,4 @@
-# 🧍‍♂️ From Representation to Empathy Reconstructing Life through Digital Beings
+## 🧍‍♂️ From Representation to Empathy Reconstructing Life through Digital Beings
 
 ### 🎬 Projects  
 - [Gang Sehwang](./Gang_Sehwang/README.md)  
