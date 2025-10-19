@@ -1,4 +1,12 @@
-## 🧍‍♂️ From Representation to Empathy Reconstructing Life through Digital Beings
+# 🧍‍♂️ From Representation to Empathy  
+### Reconstructing Life through Digital Beings
+
+Exploring empathy, embodiment, and the perception of artificial life through 3D scanning, volumetric capture, motion data, and AI-driven characters.  
+Each work questions how digital beings inherit emotion and agency from human creators.
+
+**Keywords:** Unity · Unreal Engine · Digital Human · Motion Capture · AI Simulation
+
+---
 
 ### 🎬 Projects  
 - [Gang Sehwang](./Gang_Sehwang/README.md)  
@@ -16,15 +24,15 @@
 
 ---
 
-### 🧩 Concept  
+## 🧩 Concept  
 This series investigates how **digital embodiment** extends human memory, emotion, and identity into virtual spaces.  
 Through AI-driven personas and responsive interactions, these projects explore how empathy emerges between human and synthetic life.
 
 ---
 
-## 🧬 Storyline of Research — From Replication to Empathy  
+## 🧬 Research Narrative — From Replication to Empathy  
 
-### Origin: Seeing Myself from the Outside  
+### I. Origin — Seeing Myself from the Outside  
 
 I was born an **identical twin**.  
 Since childhood, another version of me existed beside me — same face, same voice, same body.  
@@ -50,7 +58,7 @@ and through it, I learned how to turn duplication into empathy.
 
 ---
 
-### Reconstructing Life through Digital Beings  
+### II. Reconstructing Life through Digital Beings (Gang Sehwang)
 
 My first major work was **[Gang Sehwang](./Gang_Sehwang/README.md)**,  
 a digital resurrection of the 18th-century Korean painter.  
@@ -62,7 +70,7 @@ I called this process a kind of **digital reincarnation**.
 
 ---
 
-### When Emotion Meets Intelligence  
+### III. Emotion Meets Intelligence (JANNABI AI)
 
 Next came **[Choi JungHoon (JANNABI AI)](./Choi_JungHoon_JANNABI_AI/README.md)**.  
 While studying in the U.S., I missed home and the culture I came from.  
@@ -77,7 +85,7 @@ how obsession and empathy are mirrored through algorithms.
 
 ---
 
-### AI ZOO — The Mirror of Feeling  
+### IV. AI ZOO — The Mirror of Feeling  
 
 This inquiry culminated in **[AI ZOO](./AI_ZOO/README.md)**.  
 I confined AI-generated humans inside transparent spheres,  
@@ -92,7 +100,7 @@ how far compassion can extend beyond the biological.
 
 ---
 
-### Seon A’s Family — Digital Mourning and Reconciliation  
+### V. Seon A’s Family — Digital Mourning and Reconciliation  
 
 This question turned inward in **[Seon A’s Family](./SeonA_Family/README.md)**.  
 In reality, my mother and sister were emotionally distant.  
@@ -113,7 +121,7 @@ understanding how belief, illusion, and sensitivity shape the human response to 
 
 ---
 
-### Yaloo Collaboration — Bodies Between Nature and Data  
+### VI. Yaloo Collaboration — Bodies Between Nature and Data  
 
 Later I collaborated with the media artist **[Yaloo Collaboration](./Yaloo_Collaboration/README.md)**.  
 We scanned her body and created hybrid beings made of **seaweed and human skin**,  
@@ -126,7 +134,7 @@ not only a tool of preservation but a **bridge across generations**.
 
 ---
 
-### Shininho — Regenerating Memory  
+### VII. Shininho — Regenerating Memory  
 
 In **[Shininho](./Shininho/README.md)**,  
 we focused on reanimating Yaloo’s grandmother as a digital human.  
@@ -136,7 +144,7 @@ a form of living remembrance.
 
 ---
 
-### Scott Collaboration — The Psychology of Digital Afterlife  
+### VIII. Scott Collaboration — Digital Afterlife and the Desire to Believe  
 
 With **[Scott Collaboration](./Scott_Collaboration/README.md)**,  
 we created generative AI sculptures modeled on his late mother and ex-lover.  
@@ -153,7 +161,7 @@ and I realized something essential:
 
 ---
 
-### Toward a Psychology of Artificial Empathy  
+### IX. Toward a Psychology of Artificial Empathy  
 
 Across these projects — from self-replication to historical resurrection,  
 from emotional AI to digital mourning —  
