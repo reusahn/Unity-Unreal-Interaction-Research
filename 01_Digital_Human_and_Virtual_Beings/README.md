@@ -43,8 +43,7 @@ When 3D technology and virtual platforms emerged, I asked another question:
 
 > “What would I look like inside the digital world?”  
 
-I scanned my face and body and created my own **MetaHuman** inside Unreal Engine —  
-a version of me that had only skin, no soul.  
+I scanned my face and body and created my own **MetaHuman** inside Unreal Engine —  a version of me that had only skin, no soul.  
 
 <p align="center">
   <img src="./Images/me_01.png" width="13%" style="margin-right:5px;"/>
@@ -53,8 +52,7 @@ a version of me that had only skin, no soul.
   <img src="./Images/me_04.png" width="13%" style="margin-right:5px;"/>
 </p>
 
-Looking at that hollow copy, I felt not fear, but expansion.  
-It allowed me to see myself from the outside — to become both subject and observer.  
+Looking at that hollow copy, I felt not fear, but expansion. It allowed me to see myself from the outside — to become both subject and observer.  
 
 <p align="center">
   <img src="./Images/me_05.png" width="13%" style="margin-right:5px;"/>
@@ -62,14 +60,12 @@ It allowed me to see myself from the outside — to become both subject and obse
   <img src="./Images/me_07.png" width="13%" style="margin-right:5px;"/>
 </p>
 
-From that moment, I began creating short conceptual videos about digital consciousness —  
-stories of avatars searching for their own selves.  
-Later, this digital twin became my **virtual collaborator**,  
-and through it, I learned how to turn duplication into empathy.
+From that moment, I began creating short conceptual videos about digital consciousness —  stories of avatars searching for their own selves.  
+Later, this digital twin became my **virtual collaborator**, and through it, I learned how to turn duplication into empathy.
 <p align="center">
   <a href="https://vimeo.com/786792831">
     <img src="./Images/me_08.png" width="25%" style="border-radius:10px;"/>
-      <p>Click the image for video</p>
+      <p align="center">Click the image for video</p>
   </a>
 
 </p>
