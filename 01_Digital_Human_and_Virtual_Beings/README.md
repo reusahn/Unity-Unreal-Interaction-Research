@@ -68,8 +68,10 @@ Later, this digital twin became my **virtual collaborator**,
 and through it, I learned how to turn duplication into empathy.
 <p align="center">
   <a href="https://vimeo.com/786792831">
-    <img src="./Images/me_08.png" width="40%" style="border-radius:10px;"/>
+    <img src="./Images/me_08.png" width="25%" style="border-radius:10px;"/>
+      <p>Click the image for video</p>
   </a>
+
 </p>
 
 
