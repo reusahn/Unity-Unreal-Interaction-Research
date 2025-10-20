@@ -4,8 +4,8 @@
 [← Back to Digital Human & Virtual Beings](../../README.md)
 
 **Principal Investigator:** Jonghoon Ahn  
-**Institution:** California Institute of the Arts  
-**Collaborating Institution:** Gyeonggi Provincial Museum  
+**Institution:** Kookmin University (국민대학교)  
+**Collaborating Institution:** Gyeonggi Provincial Museum (경기박물관)  
 **Year:** 2022  
 **Research Themes:** Digital Heritage · AI Human Interaction · Virtual Embodiment  
 
@@ -54,7 +54,7 @@ Historical portraits and materials were provided by the **Gyeonggi Provincial Mu
 ---
 
 ### 3️⃣ Motion Capture  
-- **Body motion:** recorded using **OptiTrack** system  
+- **Body motion:** recorded using the **OptiTrack** system  
 - **Facial motion:** captured through **Apple ARKit**, synchronizing expression and dialogue  
 
 <p align="center">
@@ -120,6 +120,7 @@ It proposes a new form of **Cyborg Museology** — a museum paradigm where memor
 
 ## 👤 Credits  
 **Principal Investigator / Technical Director:** Jonghoon Ahn  
+**Institution:** Kookmin University  
 **Collaborating Institution:** Gyeonggi Provincial Museum  
 **Research Year:** 2022  
 **Medium:** Interactive Media Installation  
