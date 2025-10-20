@@ -5,7 +5,7 @@
 - [Choi JungHoon (JANNABI AI)](./Works/Choi_JungHoon_JANNABI_AI/README.md)  
 - [AI ZOO](./Works/AI_ZOO/README.md)  
 - [Seon A’s Family](./Works/SeonA_Family/README.md)  
-- [Whispers](./Works/Whispers/README.md)  
+- [Whispers – Mythomania](./Works/Whispers/README.md)  
 - [Yaloo Collaboration](./Works/Yaloo_Collaboration/README.md)  
 - [Shininho](./Works/Shininho/README.md)  
 - [Scott Collaboration](./Works/Scott_Collaboration/README.md)
