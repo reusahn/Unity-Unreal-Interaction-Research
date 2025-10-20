@@ -58,8 +58,9 @@ From that moment, I began creating short conceptual videos about digital conscio
 ### II. Reconstructing Life through Digital Beings (Gang Sehwang)  
 My first major work was **[Gang Sehwang](./Works/Gang_Sehwang/README.md)**, a digital resurrection of the 18th-century Korean painter. Using ZBrush and Maya, I reconstructed his body and gestures, allowing historical memory to inhabit a virtual form. It was not simply reproduction — it was a question: *Can cultural memory breathe again through digital flesh?* I called this process a kind of **digital reincarnation**.
 <p align="center">
+  <a href="https://github.com/reusahn/Unity-Unreal-Interaction-Research/blob/main/01_Digital_Human_and_Virtual_Beings/Works/Gang_Sehwang/README.md">
  <img src="./Works/Gang_Sehwang/media/GangSehwang_Thumb.jpg" width="30%" />  
-
+  </a>
 </p>
 
 ---
