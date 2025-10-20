@@ -67,8 +67,8 @@ It also serves as a **metaphor for our own digital entrapment**, as both creator
 
 ## 🖼️ Media
 <p align="center">
-  <img src="./Works/media/AI_ZOO_01.jpg" width="40%" style="margin-right:5px;"/>  
-  <img src="./Works/media/AI_ZOO_02.jpg" width="40%" style="margin-right:5px;"/>
+  <img src="./media/AI_ZOO_01.jpg" width="40%" style="margin-right:5px;"/>  
+  <img src="./media/AI_ZOO_02.jpg" width="40%" style="margin-right:5px;"/>
 </p>
 
 ---
@@ -76,7 +76,7 @@ It also serves as a **metaphor for our own digital entrapment**, as both creator
 ## 🎥 Video Documentation
 <p align="center">
   <a href="https://vimeo.com/1026374193" target="_blank">
-    <img src="./Works/media/AI_ZOO_Thumb.jpg" width="40%" style="border-radius:10px;"/>
+    <img src="./media/AI_ZOO_Thumb.jpg" width="40%" style="border-radius:10px;"/>
   </a>
   <br>
   <em>Click to view full video on Vimeo</em>

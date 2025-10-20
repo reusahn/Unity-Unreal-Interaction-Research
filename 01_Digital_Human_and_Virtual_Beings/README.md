@@ -61,7 +61,7 @@ That question led me to explore how **emotion and cognition intertwine**, how ob
 
 <p align="center">
   <a href="./Works/Choi_JungHoon_JANNABI_AI/README.md">
-    <img src="./Works/Choi_JungHoon_JANNABI_AI/media/ChoiJungHoon_Thumb.jpg" width="30%" />
+    <img src="./Works/Choi_JungHoon_JANNABI_AI/media/ChoiJungHoon_AI_01.jpg" width="30%" />
   </a>
 </p>
 
@@ -72,7 +72,7 @@ This inquiry culminated in **[AI ZOO](./Works/AI_ZOO/README.md)**. I confined AI
 
 <p align="center">
   <a href="./Works/AI_ZOO/README.md">
-    <img src="./Works/AI_ZOO/media/AIZOO_Thumb.jpg" width="30%" />
+    <img src="./Works/AI_ZOO/media/AI_ZOO_Thumb.jpg" width="30%" />
   </a>
 </p>
 
