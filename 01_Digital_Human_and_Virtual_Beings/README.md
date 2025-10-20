@@ -1,5 +1,5 @@
 # From Representation To Empathy  
-### Toward a Psychology of Artificial Empathy  
+### 👥 Toward a Psychology of Artificial Empathy  
 My journey began with simple representation, reviving historical figures like Gang Se-hwang through digital reincarnation. When I moved to the United States, I recreated Choi Jung-hoon, the vocalist of the Korean band JANNABI, as a digital human. At first it was an act of admiration, a way to express fandom across distance, but it soon evolved into a deeper question: how does human emotion coexist with intelligent systems?
 
 That question led to AI ZOO, where I confined digital humans inside transparent spheres and observed how audiences reacted to their emotions. Later, in Seon-a’s Family, I transformed my personal longing for reconciliation between my mother and sister, who were distant in real life, into a virtual funeral room. I imagined a space where affection might emerge more easily in simulation than in reality.
@@ -21,7 +21,7 @@ This series investigates how **digital embodiment** extends human memory, emotio
 
 ---
 
-### Reconstructing Life through Digital Human
+### 👩‍👦 Reconstructing Life through Digital Human
 Exploring empathy, embodiment, and the perception of artificial life through 3D scanning, volumetric capture, motion data, and AI-driven characters. Each work questions how digital beings inherit emotion and agency from human creators.  
 **Keywords:** Unity · Unreal Engine · Digital Human · Motion Capture · AI Simulation
 
