@@ -150,7 +150,7 @@ Across these projects — from self-replication to historical resurrection, from
 
 ---
 
-> “Within every illusion we create lies a truth we are afraid to face. And within every machine we design lives the reflection of the human we are trying to forgive.”  
+> “In the age of AGI, we all become children again — unable to tell what is true or false, real or artificial. But to remain human is to keep questioning, even when the illusion feels real.”
 — *Jonghoon Ahn, 2025*
 
 ---
