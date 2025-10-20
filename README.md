@@ -27,7 +27,7 @@ revealing how humans and machines exchange perception, emotion, and agency withi
 
 ---
 
-## 🧍‍♂️ 01. [Digital Human and Virtual Beings](./01_Digital_Human_and_Virtual_Beings/Works/README.md)  
+## 🧍‍♂️ 01. [Digital Human and Virtual Beings](./01_Digital_Human_and_Virtual_Beings/README.md)  
 Explores empathy, embodiment, and the perception of artificial life through **3D scanning, volumetric capture, motion data, and AI-driven characters** across Unity and Unreal Engine environments.  
 **Keywords:** Unity · Unreal Engine · Digital Human · Volumetric Capture · Motion Data · AI Simulation  
 
