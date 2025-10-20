@@ -47,4 +47,57 @@ Procedural shaders mimicked underwater translucency and organic shimmer, creatin
 The combined system produced a synchronized, breathing hybrid presence—part human, part aquatic organism.
 
 ### 5️⃣ Environmental & Lighting Design  
-Using **Lumen** and volumetric fog, lighting simulated an aquatic depth,
+Using **Lumen** and volumetric fog, lighting simulated an aquatic depth, while shaders projected **bioluminescent reflections** echoing transformation and interspecies empathy.
+
+<p align="center">
+  <img src="./media/Yaloo_01.jpg" width="40%" style="margin-right:5px;"/>  
+  <img src="./media/Yaloo_02.jpg" width="40%" style="margin-right:5px;"/>  
+  <img src="./media/Yaloo_03.jpg" width="40%" style="margin-right:5px;"/>
+</p>
+
+---
+
+## 🧠 Artistic & Research Focus  
+This collaboration explores **digital hybridity and ecological embodiment** as both aesthetic and ethical practice.  
+By merging **MetaHuman**, **CC4**, and **Move.ai**, it redefines the digital human as an **evolving organism of empathy**, rather than a static replica.  
+
+The work argues that technological creation can be an act of **coexistence**—a living collaboration between human identity and nonhuman material.  
+Through this lens, *Yaloo_Collaboration* expands the idea of portraiture into a **biotechnological ecosystem**, where transformation becomes a language of care.
+
+---
+
+## 🎥 Video Documentation  
+<p align="center">
+  <a href="https://www.instagram.com/reel/C9IP1FASC2Y/" target="_blank">
+    <img src="./media/Yaloo_01.jpg" width="40%" style="border-radius:10px;"/>
+  </a>  
+  <br>  
+  <em>Click to view full video on Instagram</em>
+</p>
+
+---
+
+## 🔑 Research Keywords  
+`#posthuman-identity` `#digital-ecology` `#hybrid-body` `#media-art` `#collaborative-creation`
+
+---
+
+## 👤 Credits  
+**Collaborating Artist:** Yaloo  
+**Technical Director:** Jonghoon Ahn  
+**Institution:** Gyeonggi Museum of Modern Art  
+**Medium:** Digital Human · Interactive Media Installation  
+**Tools:** Unreal Engine 5 · MetaHuman Creator · Character Creator 4 · Blender · Move.ai · Marvelous Designer · Python · C#  
+**Year:** 2024  
+
+---
+
+## 📬 Contact  
+**Website:** [jonghoonahn.com](https://jonghoonahn.com)  
+**Email:** [reusahn@gmail.com](mailto:reusahn@gmail.com)  
+**Repository:** [Unity-Unreal-Interaction-Research](https://github.com/reusahn/Unity-Unreal-Interaction-Research/tree/main)
+
+---
+
+### 🧠 Suggested Category  
+**Cyborg Psychology → Posthuman Ecology → Collaborative Embodiment**
