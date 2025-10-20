@@ -90,7 +90,7 @@ This question turned inward in **[Seon A’s Family](./Works/SeonA_Family/README
 ---
 
 ### Ⅵ. Whispers – Mythomania — Storytelling with AI  
-**[Whispers – Mythomania](./Works/Whispers_Mythomania/README.md)** expands upon the ideas first explored in *Whispers*,  
+**[Whispers – Mythomania](./Works/Whispers/README.md)** expands upon the ideas first explored in *Whispers*,  
 focusing on **collaborative storytelling between human and artificial intelligence**.  
 In this project, I co-directed the film with AI, allowing narrative direction, dialogue, and pacing to evolve through ongoing exchanges between us.  
 
