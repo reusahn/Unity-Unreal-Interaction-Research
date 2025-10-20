@@ -5,18 +5,6 @@ Exploring empathy, embodiment, and the perception of artificial life through 3D 
 
 ---
 
-### 🎬 Projects  
-- [Gang Sehwang](./Works/Gang_Sehwang/README.md)  
-- [Choi JungHoon (JANNABI AI)](./Works/Choi_JungHoon_JANNABI_AI/README.md)  
-- [AI ZOO](./Works/AI_ZOO/README.md)  
-- [Seon A’s Family](./Works/SeonA_Family/README.md)  
-- [Whispers](./Works/Whispers/README.md)  
-- [Yaloo Collaboration](./Works/Yaloo_Collaboration/README.md)  
-- [Shininho](./Works/Shininho/README.md)  
-- [Scott Collaboration](./Works/Scott_Collaboration/README.md)
-
----
-
 ## 🧩 Concept  
 This series investigates how **digital embodiment** extends human memory, emotion, and identity into virtual spaces. Through AI-driven personas and responsive interactions, these projects explore how empathy emerges between human and synthetic life.
 
@@ -56,10 +44,11 @@ From that moment, I began creating short conceptual videos about digital conscio
 ---
 
 ### II. Reconstructing Life through Digital Beings (Gang Sehwang)  
-My first major work was **[Gang Sehwang](./Works/Gang_Sehwang/README.md)**, a digital resurrection of the 18th-century Korean painter. Using ZBrush and Maya, I reconstructed his body and gestures, allowing historical memory to inhabit a virtual form. It was not simply reproduction — it was a question: *Can cultural memory breathe again through digital flesh?* I called this process a kind of **digital reincarnation**.
+My first major work was **[Gang Sehwang](./Works/Gang_Sehwang/README.md)**, a digital resurrection of the 18th-century Korean painter. Using ZBrush and Maya, I reconstructed his body and gestures, allowing historical memory to inhabit a virtual form. It was not simply reproduction — it was a question: *Can cultural memory breathe again through digital flesh?* I called this process a kind of **digital reincarnation**.  
+
 <p align="center">
-  <a href="https://github.com/reusahn/Unity-Unreal-Interaction-Research/blob/main/01_Digital_Human_and_Virtual_Beings/Works/Gang_Sehwang/README.md">
- <img src="./Works/Gang_Sehwang/media/GangSehwang_Thumb.jpg" width="30%" />  
+  <a href="./Works/Gang_Sehwang/README.md">
+    <img src="./Works/Gang_Sehwang/media/GangSehwang_Thumb.jpg" width="30%" />
   </a>
 </p>
 
@@ -68,35 +57,68 @@ My first major work was **[Gang Sehwang](./Works/Gang_Sehwang/README.md)**, a di
 ### III. Emotion Meets Intelligence (JANNABI AI)  
 Next came **[Choi JungHoon (JANNABI AI)](./Works/Choi_JungHoon_JANNABI_AI/README.md)**. While studying in the U.S., I missed home and the culture I came from. Out of admiration, I recreated a Korean musician as a digital human — but soon the project evolved into something deeper.  
 > “What happens when human affection interacts with machine intelligence?”  
-That question led me to explore how **emotion and cognition intertwine**, how obsession and empathy are mirrored through algorithms.
+That question led me to explore how **emotion and cognition intertwine**, how obsession and empathy are mirrored through algorithms.  
+
+<p align="center">
+  <a href="./Works/Choi_JungHoon_JANNABI_AI/README.md">
+    <img src="./Works/Choi_JungHoon_JANNABI_AI/media/JANNABI_Thumb.jpg" width="30%" />
+  </a>
+</p>
 
 ---
 
 ### IV. AI ZOO — The Mirror of Feeling  
-This inquiry culminated in **[AI ZOO](./Works/AI_ZOO/README.md)**. I confined AI-generated humans inside transparent spheres, where they moved and reacted without realizing they were being watched. The audience observed them like living creatures — a study of empathy, voyeurism, and moral distance. The true experiment was not about whether AI could feel, but whether **humans could feel for it**. The glass walls revealed both the AI’s confinement and the limits of human empathy — how far compassion can extend beyond the biological.
+This inquiry culminated in **[AI ZOO](./Works/AI_ZOO/README.md)**. I confined AI-generated humans inside transparent spheres, where they moved and reacted without realizing they were being watched. The audience observed them like living creatures — a study of empathy, voyeurism, and moral distance. The true experiment was not about whether AI could feel, but whether **humans could feel for it**.  
+
+<p align="center">
+  <a href="./Works/AI_ZOO/README.md">
+    <img src="./Works/AI_ZOO/media/AIZOO_Thumb.jpg" width="30%" />
+  </a>
+</p>
 
 ---
 
 ### V. Seon A’s Family — Digital Mourning and Reconciliation  
-This question turned inward in **[Seon A’s Family](./Works/SeonA_Family/README.md)**. In reality, my mother and sister were emotionally distant. In virtual space, I built a funeral room where their 3D-scanned figures could silently face one another. There were no words — only presence. The piece became a simulation of grief and reconciliation, a place where technology mediated what language could not. If in cinema I once used editing to create illusion, here I used **AI to deceive**, not to trick the mind but to expose how **deception and empathy coexist**.  
-> “Are those deceived by AI naive, or simply more capable of empathy?”  
-That paradox became the emotional core of my research — understanding how belief, illusion, and sensitivity shape the human response to simulation.
+This question turned inward in **[Seon A’s Family](./Works/SeonA_Family/README.md)**. In reality, my mother and sister were emotionally distant. In virtual space, I built a funeral room where their 3D-scanned figures could silently face one another. There were no words — only presence. The piece became a simulation of grief and reconciliation, a place where technology mediated what language could not.  
+
+<p align="center">
+  <a href="./Works/SeonA_Family/README.md">
+    <img src="./Works/SeonA_Family/media/SeonA_Thumb.jpg" width="30%" />
+  </a>
+</p>
 
 ---
 
 ### VI. Yaloo Collaboration — Bodies Between Nature and Data  
-Later I collaborated with the media artist **[Yaloo Collaboration](./Works/Yaloo_Collaboration/README.md)**. We scanned her body and created hybrid beings made of **seaweed and human skin**, merging organic ecology with digital identity. We also reconstructed her grandmother through 3D scanning and motion capture, revealing **digital immortality** — how memory and lineage continue through data. Through this, I realized that technology can become not only a tool of preservation but a **bridge across generations**.
+Later I collaborated with the media artist **[Yaloo Collaboration](./Works/Yaloo_Collaboration/README.md)**. We scanned her body and created hybrid beings made of **seaweed and human skin**, merging organic ecology with digital identity. We also reconstructed her grandmother through 3D scanning and motion capture, revealing **digital immortality** — how memory and lineage continue through data.  
+
+<p align="center">
+  <a href="./Works/Yaloo_Collaboration/README.md">
+    <img src="./Works/Yaloo_Collaboration/media/Yaloo_Thumb.jpg" width="30%" />
+  </a>
+</p>
 
 ---
 
 ### VII. Shininho — Regenerating Memory  
-In **[Shininho](./Works/Shininho/README.md)**, we focused on reanimating Yaloo’s grandmother as a digital human. Using facial-capture, rigging, and AI-driven emotion synthesis, we transformed memory itself into data — a form of living remembrance.
+In **[Shininho](./Works/Shininho/README.md)**, we focused on reanimating Yaloo’s grandmother as a digital human. Using facial-capture, rigging, and AI-driven emotion synthesis, we transformed memory itself into data — a form of living remembrance.  
+
+<p align="center">
+  <a href="./Works/Shininho/README.md">
+    <img src="./Works/Shininho/media/Shininho_Thumb.jpg" width="30%" />
+  </a>
+</p>
 
 ---
 
 ### VIII. Scott Collaboration — Digital Afterlife and the Desire to Believe  
-With **[Scott Collaboration](./Works/Scott_Collaboration/README.md)**, we created generative AI sculptures modeled on his late mother and ex-lover. When viewers approached, the figures responded in real time — a kind of digital séance. Though everyone knew they were artificial, many felt emotionally connected rather than sorrowful. They saw reflections of their own memories and relationships, and I realized something essential:  
-> “People want to be deceived, because deception is sometimes the only way to meet the dead again.”
+With **[Scott Collaboration](./Works/Scott_Collaboration/README.md)**, we created generative AI sculptures modeled on his late mother and ex-lover. When viewers approached, the figures responded in real time — a kind of digital séance. Though everyone knew they were artificial, many felt emotionally connected rather than sorrowful.  
+
+<p align="center">
+  <a href="./Works/Scott_Collaboration/README.md">
+    <img src="./Works/Scott_Collaboration/media/Scott_Thumb.jpg" width="30%" />
+  </a>
+</p>
 
 ---
 
@@ -107,6 +129,18 @@ Across these projects — from self-replication to historical resurrection, from
 
 > “Within every illusion we create lies a truth we are afraid to face. And within every machine we design lives the reflection of the human we are trying to forgive.”  
 — *Jonghoon Ahn, 2025*
+
+---
+
+### 🎬 Projects  
+- [Gang Sehwang](./Works/Gang_Sehwang/README.md)  
+- [Choi JungHoon (JANNABI AI)](./Works/Choi_JungHoon_JANNABI_AI/README.md)  
+- [AI ZOO](./Works/AI_ZOO/README.md)  
+- [Seon A’s Family](./Works/SeonA_Family/README.md)  
+- [Whispers](./Works/Whispers/README.md)  
+- [Yaloo Collaboration](./Works/Yaloo_Collaboration/README.md)  
+- [Shininho](./Works/Shininho/README.md)  
+- [Scott Collaboration](./Works/Scott_Collaboration/README.md)
 
 ---
 
