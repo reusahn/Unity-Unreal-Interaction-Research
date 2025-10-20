@@ -1,117 +1,84 @@
 # 🧑‍🎨 Gang Se-hwang AI Docent  
+**Evolving Cultural Heritage through Digital Embodiment and Human–AI Interaction**  
 
-[← Back to main repository](https://github.com/reusahn/Unity-Unreal-Interaction-Research/tree/main)
+[← Back to Digital Human & Virtual Beings](../../README.md)
 
----
-
-## 🧠 Overview  
-**Gang Se-hwang AI Docent** is an interactive media installation that digitally revives **Gang Se-hwang** — the renowned painter and mentor to **Kim Hong-do** — as an **AI human**.  
-Recreated through real-time interaction, Gang Se-hwang serves as a **docent at the Gyeonggi Provincial Museum**, guiding visitors through historical narratives and offering photo-taking experiences.  
-The installation reimagines cultural memory through artificial intelligence, allowing audiences to meet and interact with a **digitally embodied scholar of the Joseon Dynasty** in a hybrid time-space.
-
----
-
-## ⚙️ Technical Description  
-The digital reconstruction was achieved through a **multi-stage pipeline** combining traditional 3D artistry, motion capture, and real-time systems:
-
----
-
-### 1. Source Material Collection  
-Archival portraits were provided by the **Gyeonggi Provincial Museum**, forming the basis for Gang Se-hwang’s visual reference.  
-
-<p align="center">
-  <img src="./media/GangSehwang_reference_01.jpg" width="40%" style="margin-right:5px;"/>
-  <img src="./media/GangSehwang_reference_02.jpg" width="40%" style="margin-right:5px;"/>
-</p>
-
----
-
-### 2. Voice and Performance Casting  
-An actor with a **similar vocal tone and physical presence** was cast, and a **professional performer** was hired to embody the scholar’s gestures.  
-
----
-
-### 3. Character Creation  
-Using **reference images**, the likeness of Gang Se-hwang was **digitally sculpted in ZBrush**, then refined in **Maya** for **UV unwrapping and texturing**. **Normal maps** were generated to enhance fine surface details, while **facial hair and head hair** were created using **hair cards** for realistic rendering.    
-
-<p align="center">
-  <img src="./media/GangSehwang_modeling_01.jpg" width="15%" style="margin-right:5px;"/>
-  <img src="./media/GangSehwang_modeling_02.jpg" width="15%" style="margin-right:5px;"/>
-  <img src="./media/GangSehwang_modeling_03.jpg" width="15%" style="margin-right:5px;"/>
-  <img src="./media/GangSehwang_modeling_04.jpg" width="15%" style="margin-right:5px;"/>
-  <img src="./media/GangSehwang_modeling_05.jpg" width="15%" style="margin-right:0px;"/>
-</p>
-
----
-
-### 4. Motion Capture  
-- **Body motion** was recorded using the **OptiTrack system**.  
-- **Facial motion** was captured through **Apple ARKit**, synchronizing expression and speech.  
-
-<p align="center">
-  <img src="./media/GangSehwang_modeling.gif" width="60%" style="border-radius:10px;"/>
-  <img src="./media/GangSehwang_Mocap_01.jpg" width="40%" style="margin-right:5px;"/>  
-  <img src="./media/GangSehwang_Mocap_02.jpg" width="40%" style="margin-right:5px;"/>    
-</p>
-
----
-
-### 5. Costume Simulation  
-Traditional Korean attire — **hanbok**, **gat hat**, and layered robes — were modeled and simulated in **Blender** and **Maya**, achieving physically accurate fabric movement.  
-
-<p align="center">
-  <img src="./media/GangSehwang_costume_01.jpg" width="20%" style="margin-right:5px;"/>
-  <img src="./media/GangSehwang_costume_03.jpg" width="20%" style="margin-right:5px;"/>
-  <img src="./media/GangSehwang_costume_04.jpg" width="20%" style="margin-right:0px;"/>
-</p>
-
----
-
-### 6. Integration in Unity  
-All assets were imported into **Unity 3D**, where interactive animation triggers (buttons, speech recognition, and audience proximity) were implemented.  
-
-<p align="center">
-  <img src="./media/GangSehwang_unity_01.jpg" width="30%" style="margin-right:5px;"/>
-  <img src="./media/GangSehwang_unity_02.jpg" width="13.8%" style="margin-right:5px;"/>
-</p>
-
----
-
-### 7. Installation Deployment  
-The final AI docent was deployed at the **Gyeonggi Provincial Museum**, operating in real time as a responsive digital guide for visitors.  
-
-<p align="center">
-  <img src="./media/GangSehwang_install_01.jpg" width="30%" style="margin-right:5px;"/>
-  <img src="./media/GangSehwang_install_02.jpg" width="30%" style="margin-right:5px;"/>
-  <img src="./media/GangSehwang_install_03.jpg" width="30%" style="margin-right:0px;"/>
-</p>
-
----
-
-## 🧩 Artistic & Research Focus  
-This project explores **how historical identity and cultural heritage can be reinterpreted through digital embodiment**.  
-By transforming Gang Se-hwang into an interactive AI docent, the work bridges **tradition and modern technology**, inviting audiences to reflect on the preservation of memory through artificial intelligence.
-
----
-
-## 🎥 Video Documentation  
-<p align="center">
-  <a href="https://vimeo.com/1011866123">
-    <img src="./media/GangSehwang_Thumb.jpg" width="40%" style="border-radius:10px;"/>
-  </a>
-</p>
-
----
-
-## 👤 Credits  
-**Technical Director:** Jonghoon Ahn  
-**Title:** *Gang Se-hwang AI Docent*  
+**Principal Investigator:** Jonghoon Ahn  
+**Institution:** California Institute of the Arts  
+**Collaborating Institution:** Gyeonggi Provincial Museum  
 **Year:** 2022  
-**Exhibition:** Gyeonggi Provincial Museum  
-**Type:** Interactive Art Installation  
+**Research Themes:** Digital Heritage · AI Human Interaction · Virtual Embodiment  
 
 ---
 
-## 🔗 Related  
-- [Back to Digital Human & Virtual Beings](../../README.md)  
-- [View All Projects](https://github.com/reusahn/Unity-Unreal-Interaction-Research/tree/main)
+## Overview  
+**Gang Se-hwang AI Docent** is an interactive media installation that digitally revives **Gang Se-hwang** — the renowned 18th-century painter and mentor to Kim Hong-do — as a **real-time AI human docent**. Through 3D reconstruction, motion capture, and speech interaction, visitors can converse, pose, and take photographs with a historically reimagined figure.  
+The work explores how **artificial intelligence and real-time rendering** reinterpret historical identity, transforming cultural heritage into a living, participatory experience.
+
+---
+
+## Research Context  
+Traditional heritage preservation has focused on static representation — objects, paintings, and archives. Yet memory is performative; it survives through gestures, voice, and behavior. This project investigates how **digital embodiment** can revive historical identity not as a frozen artifact but as a **living, interactive presence**.  
+By letting museum visitors encounter a responsive digital scholar, the installation reframes preservation as participation — turning **heritage into dialogue** and **memory into empathy**.
+
+---
+
+## Methodology  
+
+### 1) Archival Reference  
+Historical portraits and documents from the **Gyeonggi Provincial Museum** served as visual and contextual references.
+
+### 2) Digital Reconstruction  
+- 3D facial and body modeling in **ZBrush** and **Maya**  
+- UV unwrapping, texture mapping, and normal map generation  
+- Hair cards and fabric shaders for realistic rendering
+
+### 3) Motion Capture  
+- **Body motion:** **OptiTrack** motion capture system  
+- **Facial motion:** **Apple ARKit**, synchronized with dialogue
+
+### 4) Costume Simulation  
+Traditional garments — **hanbok** and **gat** — modeled in **Maya/Blender** with cloth dynamics for physical realism.
+
+### 5) Real-Time Integration  
+All assets implemented in **Unity 3D**, integrating gesture recognition, speech responses, and proximity-based animation triggers.
+
+---
+
+## Installation & Interaction  
+Exhibited at the **Gyeonggi Provincial Museum**, the AI docent responds to visitor speech and movement, explains artworks, answers questions, and poses for photos. The result is a direct engagement with a reanimated scholar where history and simulation meet in real time.
+
+---
+
+## Artistic & Theoretical Significance  
+The project asks how **historical identity can persist through technological translation**. By reanimating a historical figure within a real-time digital human, it shows how **AI can serve as a medium of cultural empathy**, not mere replication.  
+It points toward **Cyborg Museology** — a museum model where memory becomes interactive and heritage evolves through human–machine coexistence.
+
+---
+
+## Media  
+<p align="center">
+  <img src="./media/GangSehwang_unity_01.jpg" width="35%" style="margin-right:5px;"/>
+  <img src="./media/GangSehwang_install_02.jpg" width="35%" style="margin-right:5px;"/>
+</p>
+
+---
+
+## Research Keywords  
+`#digital-human` `#ai-docent` `#cultural-heritage` `#interactive-art` `#cyborg-psychology`
+
+---
+
+## Credits  
+**Principal Investigator / Technical Director:** Jonghoon Ahn  
+**Collaborating Institution:** Gyeonggi Provincial Museum  
+**Research Year:** 2022  
+**Medium:** Interactive Media Installation  
+**Tools:** Unity · ZBrush · Maya · ARKit · OptiTrack
+
+---
+
+## Contact  
+**Website:** [jonghoonahn.com](https://jonghoonahn.com)  
+**Email:** [reusahn@gmail.com](mailto:reusahn@gmail.com)  
+**Repository:** [Unity-Unreal-Interaction-Research](https://github.com/reusahn/Unity-Unreal-Interaction-Research/tree/main)
