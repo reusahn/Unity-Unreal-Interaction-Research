@@ -1,50 +1,40 @@
 # 🕊️ Seon-A’s Family  
-*(Media Art – 2024 · KOTE Gallery (Insadong) & Wolseong Yakbang)*  
+**Digital Resurrection and Emotional Reconciliation through AI**  
 
-[← Back to main repository](https://github.com/reusahn/Unity-Unreal-Interaction-Research/tree/main)
+[← Back to Digital Human & Virtual Beings](../../README.md)
+
+**Principal Investigator / Director:** Jonghoon Ahn  
+**Institution:** California Institute of the Arts  
+**Exhibition Venues:** KOTE Gallery (Insadong) · Wolseong Yakbang  
+**Year:** 2024  
+**Research Themes:** Digital Human · AI Voice Cloning · Grief & Empathy · Posthuman Cinema  
 
 ---
 
 ## 🧩 Overview  
-**Seon-a’s Family** is a media art project that reconstructs a broken family relationship through **AI-generated faces, digital humans, and emotional voice synthesis**.  
-The work imagines a fictional family — mother, daughter, and sister — created entirely from the artist’s own facial and vocal data.  
-Through this reconstruction, the project explores themes of **grief, reconciliation, and emotional inheritance**, turning digital creation into a process of healing.  
+**Seon-A’s Family** reconstructs a fragmented family relationship through **AI-generated faces, cloned voices, and 3D digital humans**.  
+A virtual family—mother, daughter, and sister—was created entirely from the artist’s own facial and vocal data, forming an introspective dialogue between the real self and its synthetic extensions.  
 
-The story unfolds in a **virtual funeral setting**, where the artist interacts with his AI-generated family, confronting unresolved emotions between life and death.  
-It becomes both a **personal ritual** and an **experiment in human–AI empathy**, merging cinematic storytelling with computational creation.
-
----
-
-## ⚙️ Technical Description  
-- **Engine:** Unreal Engine 5 · Unity  
-- **Software:** MetaHuman Creator · Maya · Blender  
-- **Language:** Python · C#  
-- **AI Models:** Stable Diffusion · ElevenLabs (voice cloning) · LLM-based dialogue  
-- **Hardware:** PC (NVIDIA RTX 4090), Display Screen, Audio System  
-- **Pipeline:**  
-  1. **Face Generation:**  
-     The artist’s own facial features were used to generate AI-synthesized faces for the mother and sister using **diffusion models**.  
-     These generated faces were imported into **MetaHuman Creator**, reconstructing lifelike 3D digital humans.  
-  2. **Voice Cloning:**  
-     Using **ElevenLabs**, the artist’s voice was cloned and pitch-shifted into female tones to represent the voices of the mother and sister.  
-     Each model retained emotional variation in tone, creating subtle differences in personality and sentiment.  
-  3. **Animation & Narrative:**  
-     Based on a personal story written by the artist, all dialogue and motion were scripted and animated inside **Unreal Engine** and **Unity’s Timeline System**.  
-     The virtual environment—a symbolic funeral—was designed to represent emotional closure in a shared digital afterlife.  
-  4. **Installation Setup:**  
-     The final video and real-time interactive elements were projected across two exhibition spaces:  
-     **KOTE Gallery (Insadong)** and **Wolseong Yakbang**, as part of a media art program exploring digital memory.
+Set within a **virtual funeral space**, the project transforms grief into a performative encounter between human and machine.  
+The artist converses with his AI-generated relatives, facing unspoken emotions between life and death.  
+The work functions simultaneously as **personal ritual, cinematic fiction, and human–AI research**, exploring how technology can mediate emotional healing.
 
 ---
 
-## 🧠 Artistic & Research Focus  
-**Seon-a’s Family** examines how **AI can mediate emotional reconciliation** through simulation and self-reflection.  
-By transforming the artist’s identity into three interrelated digital personas, the work blurs boundaries between **creator and subject**, **memory and fabrication**.  
-It asks whether emotional truth can emerge from synthetic representation — and whether digital resurrection can heal what remains unspoken.
+## 📚 Research Context  
+In posthuman studies, the act of **recreating the self through data** is both an artistic gesture and a psychological experiment.  
+This project explores whether **empathy can emerge from simulation**—whether algorithmic reconstructions of those we’ve lost can enable emotional closure.  
+By transforming his own face and voice into multiple familial roles, the artist turns machine learning into a mirror for grief, memory, and forgiveness.
 
 ---
 
-## 🖼️ Media
+## ⚙️ Technical Methodology  
+
+### 1️⃣ Face Generation & Digital Human Creation  
+Using diffusion-based AI models, the artist’s own facial features were re-synthesized to generate the likenesses of his mother and sister.  
+These were imported into **MetaHuman Creator** for realistic 3D reconstruction, rigging, and shading.  
+Fine adjustments in **Maya** and **Blender** refined expression range and surface realism before animation inside **Unreal Engine 5**.
+
 <p align="center">
   <img src="./media/SeonaFamily_01.jpg" width="40%" style="margin-right:5px;"/>  
   <img src="./media/SeonaFamily_02.jpg" width="40%" style="margin-right:5px;"/>
@@ -52,25 +42,67 @@ It asks whether emotional truth can emerge from synthetic representation — and
 
 ---
 
-## 🎥 Video Documentation
+### 2️⃣ Voice Cloning and Emotion Mapping  
+Through **ElevenLabs Voice Cloning**, the artist’s voice was duplicated and pitch-shifted into female registers, producing distinct yet genetically linked tones for each character.  
+Emotion parameters (joy, sorrow, hesitation) were embedded within each voice profile, allowing the AI family to respond with subtle affective variation.
+
+---
+
+### 3️⃣ Narrative Composition and Cinematic Integration  
+Dialogue scripts—based on personal memoirs—were processed through LLM-based language models to generate alternate responses and reflections.  
+The resulting exchange was animated in **Unreal Sequencer** and **Unity Timeline**, where lighting, camera depth, and environmental sound conveyed the ambience of a digital afterlife.  
+The funeral setting became a space of both mourning and reunion — a shared interface between memory and machine.
+
+---
+
+### 4️⃣ Exhibition Environment  
+The installation was presented across two venues:  
+- **KOTE Gallery (Insadong):** single-channel projection and immersive sound system  
+- **Wolseong Yakbang:** multi-screen setup for dialogue loop and AI response interface  
+
+Each space acted as a ritual chamber, inviting viewers to witness the artist’s digital conversation with his reconstructed family.
+
+---
+
+## 🧠 Artistic & Theoretical Focus  
+**Seon-A’s Family** redefines remembrance as a computational act.  
+It asks whether synthetic representation can carry emotional truth, and whether AI can mediate the process of forgiveness.  
+By re-embodying his family within a digital ecosystem, the artist transforms technology into an instrument for mourning and reconciliation—  
+an experiment in **AI as empathic medium** and in **memory as code**.
+
+---
+
+## 🎥 Video Documentation  
 <p align="center">
   <a href="https://vimeo.com/your-video-link-here" target="_blank">
     <img src="./media/SeonaFamily_Thumb.jpg" width="40%" style="border-radius:10px;"/>
-  </a>
-  <br>
+  </a>  
+  <br>  
   <em>Click to view full video on Vimeo</em>
 </p>
 
 ---
 
-## 👤 Credits  
-**Director / Technical Artist:** Jonghoon Ahn  
-**Year:** 2024  
-**Institution:** California Institute of the Arts  
-**Medium:** Single Channel Video · Interactive Media Installation  
+## 🔑 Research Keywords  
+`#digital-human` `#voice-cloning` `#ai-empathy` `#grief-and-technology` `#cyborg-psychology`
 
 ---
 
-## 🔗 Related  
-- [Back to Digital Human & Virtual Beings](../../README.md)  
-- [View All Projects](https://github.com/reusahn/Unity-Unreal-Interaction-Research/tree/main)
+## 👤 Credits  
+**Director / Technical Artist:** Jonghoon Ahn  
+**Institution:** California Institute of the Arts  
+**Year:** 2024  
+**Medium:** Single-Channel Video · Interactive Media Installation  
+**Tools:** Unreal Engine 5 · Unity · MetaHuman Creator · ElevenLabs · Stable Diffusion · Python · C#  
+
+---
+
+## 📬 Contact  
+**Website:** [jonghoonahn.com](https://jonghoonahn.com)  
+**Email:** [reusahn@gmail.com](mailto:reusahn@gmail.com)  
+**Repository:** [Unity-Unreal-Interaction-Research](https://github.com/reusahn/Unity-Unreal-Interaction-Research/tree/main)
+
+---
+
+### 🧠 Suggested Category  
+**Cyborg Psychology → AI Memory → Emotional Reconstruction**
