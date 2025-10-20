@@ -27,19 +27,19 @@ revealing how humans and machines exchange perception, emotion, and agency withi
 
 ---
 
-## 🧍‍♂️ 01. [Digital Human and Virtual Beings](./01_Digital_Human_and_Virtual_Beings/README.md)  
+## 🧍‍♂️ 01. [Digital Human and Virtual Beings](./01_Digital_Human_and_Virtual_Beings/Works/README.md)  
 Explores empathy, embodiment, and the perception of artificial life through **3D scanning, volumetric capture, motion data, and AI-driven characters** across Unity and Unreal Engine environments.  
 **Keywords:** Unity · Unreal Engine · Digital Human · Volumetric Capture · Motion Data · AI Simulation  
 
 ### Projects
-- [Gang Sehwang](./01_Digital_Human_and_Virtual_Beings/Gang_Sehwang/README.md) — Classical Korean painter reimagined as a digital human through 3D scanning and performance-based embodiment.  
-- [Choi JungHoon (JANNABI AI)](./01_Digital_Human_and_Virtual_Beings/Choi_JungHoon_JANNABI_AI/README.md) — AI-generated simulation exploring parasocial connection and self-representation.  
-- [AI ZOO](./01_Digital_Human_and_Virtual_Beings/AI_ZOO/README.md) — Interactive installation addressing empathy and ethics toward confined synthetic beings.  
-- [Seon A’s Family](./01_Digital_Human_and_Virtual_Beings/SeonA_Family/README.md) — Virtual family reconstruction bridging memory, reconciliation, and digital embodiment.  
-- [Whispers-Mysomania](./01_Digital_Human_and_Virtual_Beings/Whispers/README.md) — Poetic short film blending AI voice synthesis and 3D animation to explore silence and loss.  
-- [Yaloo Collaboration](./01_Digital_Human_and_Virtual_Beings/Yaloo_Collaboration/README.md) — Shared virtual performance merging live motion and generative avatars.  
-- [Shininho](./01_Digital_Human_and_Virtual_Beings/Shininho/README.md) — MetaHuman study focused on digital realism and facial motion capture.  
-- [Scott Collaboration](./01_Digital_Human_and_Virtual_Beings/Scott_Collaboration/README.md) — Multi-avatar experiment visualizing generative gestures and collective movement.
+- [Gang Sehwang](./01_Digital_Human_and_Virtual_Beings/Works/Gang_Sehwang/README.md) — Classical Korean painter reimagined as a digital human through 3D scanning and performance-based embodiment.  
+- [Choi JungHoon (JANNABI AI)](./01_Digital_Human_and_Virtual_Beings/Works/Choi_JungHoon_JANNABI_AI/README.md) — AI-generated simulation exploring parasocial connection and self-representation.  
+- [AI ZOO](./01_Digital_Human_and_Virtual_Beings/Works/AI_ZOO/README.md) — Interactive installation addressing empathy and ethics toward confined synthetic beings.  
+- [Seon A’s Family](./01_Digital_Human_and_Virtual_Beings/Works/SeonA_Family/README.md) — Virtual family reconstruction bridging memory, reconciliation, and digital embodiment.  
+- [Whispers-Mysomania](./01_Digital_Human_and_Virtual_Beings/Works/Whispers/README.md) — Poetic short film blending AI voice synthesis and 3D animation to explore silence and loss.  
+- [Yaloo Collaboration](./01_Digital_Human_and_Virtual_Beings/Works/Yaloo_Collaboration/README.md) — Shared virtual performance merging live motion and generative avatars.  
+- [Shininho](./01_Digital_Human_and_Virtual_Beings/Works/Shininho/README.md) — MetaHuman study focused on digital realism and facial motion capture.  
+- [Scott Collaboration](./01_Digital_Human_and_Virtual_Beings/Works/Scott_Collaboration/README.md) — Multi-avatar experiment visualizing generative gestures and collective movement.
 
 ---
 
@@ -81,4 +81,4 @@ Immersive prototypes exploring narrative, emotion, and agency in virtual environ
 **Portfolio:** [jonghoonahn.com](https://jonghoonahn.com)  
 **GitHub:** [github.com/reusahn/Unity-Unreal-Interaction-Research](https://github.com/reusahn/Unity-Unreal-Interaction-Research/tree/main)  
 **Email:** [reusahn@gmail.com](mailto:reusahn@gmail.com)  
-**Resume:** [Resume_2025_JonghoonAhn.pdf](https://drive.google.com/file/d/18_ZAQz-OzZehtOr67BawiJGl2yV2KBGC/view?usp=sharing) 
+**Resume:** [Resume_2025_JonghoonAhn.pdf](https://drive.google.com/file/d/18_ZAQz-OzZehtOr67BawiJGl2yV2KBGC/view?usp=sharing)  
