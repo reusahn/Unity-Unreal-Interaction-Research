@@ -1,3 +1,15 @@
+### 🎬 Projects  
+- [Gang Sehwang](./Works/Gang_Sehwang/README.md)  
+- [Choi JungHoon (JANNABI AI)](./Works/Choi_JungHoon_JANNABI_AI/README.md)  
+- [AI ZOO](./Works/AI_ZOO/README.md)  
+- [Seon A’s Family](./Works/SeonA_Family/README.md)  
+- [Whispers](./Works/Whispers/README.md)  
+- [Yaloo Collaboration](./Works/Yaloo_Collaboration/README.md)  
+- [Shininho](./Works/Shininho/README.md)  
+- [Scott Collaboration](./Works/Scott_Collaboration/README.md)
+
+---
+
 # From Representation To Empathy  
 ### 👥 Toward a Psychology of Artificial Empathy  
 My journey began with simple representation, reviving historical figures like Gang Se-hwang through digital reincarnation. When I moved to the United States, I recreated Choi Jung-hoon, the vocalist of the Korean band JANNABI, as a digital human. At first it was an act of admiration, a way to express fandom across distance, but it soon evolved into a deeper question: how does human emotion coexist with intelligent systems?
@@ -187,16 +199,5 @@ When that time comes, I hope we can live alongside our cyborg reflections not wi
 
 ---
 
-### 🎬 Projects  
-- [Gang Sehwang](./Works/Gang_Sehwang/README.md)  
-- [Choi JungHoon (JANNABI AI)](./Works/Choi_JungHoon_JANNABI_AI/README.md)  
-- [AI ZOO](./Works/AI_ZOO/README.md)  
-- [Seon A’s Family](./Works/SeonA_Family/README.md)  
-- [Whispers](./Works/Whispers/README.md)  
-- [Yaloo Collaboration](./Works/Yaloo_Collaboration/README.md)  
-- [Shininho](./Works/Shininho/README.md)  
-- [Scott Collaboration](./Works/Scott_Collaboration/README.md)
-
----
 
 [← Back to Main Repository](https://github.com/reusahn/Unity-Unreal-Interaction-Research/tree/main)
