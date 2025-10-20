@@ -61,8 +61,8 @@ Traditional Korean attire — **hanbok**, **gat hat**, and layered robes — wer
 
 <p align="center">
   <img src="./media/GangSehwang_costume_01.jpg" width="20%" style="margin-right:5px;"/>
-   <img src="./media/GangSehwang_costume_03.jpg" width="20%" style="margin-right:5px;"/>
-    <img src="./media/GangSehwang_costume_04.jpg" width="20%" style="margin-right:0px;"/>
+  <img src="./media/GangSehwang_costume_03.jpg" width="20%" style="margin-right:5px;"/>
+  <img src="./media/GangSehwang_costume_04.jpg" width="20%" style="margin-right:0px;"/>
 </p>
 
 ---
@@ -83,7 +83,7 @@ The final AI docent was deployed at the **Gyeonggi Provincial Museum**, operatin
 <p align="center">
   <img src="./media/GangSehwang_install_01.jpg" width="30%" style="margin-right:5px;"/>
   <img src="./media/GangSehwang_install_02.jpg" width="30%" style="margin-right:5px;"/>
-    <img src="./media/GangSehwang_install_03.jpg" width="30%" style="margin-right:0px;"/>
+  <img src="./media/GangSehwang_install_03.jpg" width="30%" style="margin-right:0px;"/>
 </p>
 
 ---
@@ -113,5 +113,5 @@ By transforming Gang Se-hwang into an interactive AI docent, the work bridges **
 ---
 
 ## 🔗 Related  
-- [Back to Digital Human & Virtual Beings](./01_Digital_Human_and_Virtual_Beings/Works/Gang_Sehwang/README.md)  
+- [Back to Digital Human & Virtual Beings](../../README.md)  
 - [View All Projects](https://github.com/reusahn/Unity-Unreal-Interaction-Research/tree/main)

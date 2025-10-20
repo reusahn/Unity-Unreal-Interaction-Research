@@ -93,5 +93,5 @@ It also serves as a **metaphor for our own digital entrapment**, as both creator
 ---
 
 ## 🔗 Related  
-- [Back to Digital Human & Virtual Beings](../README.md)  
+- [Back to Digital Human & Virtual Beings](../../README.md)  
 - [View All Projects](https://github.com/reusahn/Unity-Unreal-Interaction-Research/tree/main)
