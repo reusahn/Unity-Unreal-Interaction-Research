@@ -5,18 +5,6 @@ Exploring empathy, embodiment, and the perception of artificial life through 3D 
 
 ---
 
-### 🎬 Projects  
-- [Gang Sehwang](./Works/Gang_Sehwang/README.md)  
-- [Choi JungHoon (JANNABI AI)](./Works/Choi_JungHoon_JANNABI_AI/README.md)  
-- [AI ZOO](./Works/AI_ZOO/README.md)  
-- [Seon A’s Family](./Works/SeonA_Family/README.md)  
-- [Whispers](./Works/Whispers/README.md)  
-- [Yaloo Collaboration](./Works/Yaloo_Collaboration/README.md)  
-- [Shininho](./Works/Shininho/README.md)  
-- [Scott Collaboration](./Works/Scott_Collaboration/README.md)
-
----
-
 ## 🧩 Concept  
 This series investigates how **digital embodiment** extends human memory, emotion, and identity into virtual spaces. Through AI-driven personas and responsive interactions, these projects explore how empathy emerges between human and synthetic life.
 
@@ -107,6 +95,18 @@ Across these projects — from self-replication to historical resurrection, from
 
 > “Within every illusion we create lies a truth we are afraid to face. And within every machine we design lives the reflection of the human we are trying to forgive.”  
 — *Jonghoon Ahn, 2025*
+
+---
+
+### 🎬 Projects  
+- [Gang Sehwang](./Works/Gang_Sehwang/README.md)  
+- [Choi JungHoon (JANNABI AI)](./Works/Choi_JungHoon_JANNABI_AI/README.md)  
+- [AI ZOO](./Works/AI_ZOO/README.md)  
+- [Seon A’s Family](./Works/SeonA_Family/README.md)  
+- [Whispers](./Works/Whispers/README.md)  
+- [Yaloo Collaboration](./Works/Yaloo_Collaboration/README.md)  
+- [Shininho](./Works/Shininho/README.md)  
+- [Scott Collaboration](./Works/Scott_Collaboration/README.md)
 
 ---
 
