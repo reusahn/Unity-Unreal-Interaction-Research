@@ -113,5 +113,5 @@ By transforming Gang Se-hwang into an interactive AI docent, the work bridges **
 ---
 
 ## 🔗 Related  
-- [Back to Digital Human & Virtual Beings](../README.md)  
+- [Back to Digital Human & Virtual Beings](./01_Digital_Human_and_Virtual_Beings/Works/Gang_Sehwang/README.md)  
 - [View All Projects](https://github.com/reusahn/Unity-Unreal-Interaction-Research/tree/main)
