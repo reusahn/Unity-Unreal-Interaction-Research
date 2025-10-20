@@ -83,7 +83,7 @@ This question turned inward in **[Seon A’s Family](./Works/SeonA_Family/README
 
 <p align="center">
   <a href="./Works/SeonA_Family/README.md">
-    <img src="./Works/SeonA_Family/media/SeonA_Thumb.jpg" width="30%" />
+    <img src="./Works/SeonA_Family/media/SeonA_Family_Thumb.jpg" width="30%" />
   </a>
 </p>
 
@@ -94,7 +94,7 @@ Later I collaborated with the media artist **[Yaloo Collaboration](./Works/Yaloo
 
 <p align="center">
   <a href="./Works/Yaloo_Collaboration/README.md">
-    <img src="./Works/Yaloo_Collaboration/media/Yaloo_Thumb.jpg" width="30%" />
+    <img src="./Works/Yaloo_Collaboration/media/Yaloo_Collaboration_Thumb.jpg" width="30%" />
   </a>
 </p>
 
@@ -116,7 +116,7 @@ With **[Scott Collaboration](./Works/Scott_Collaboration/README.md)**, we create
 
 <p align="center">
   <a href="./Works/Scott_Collaboration/README.md">
-    <img src="./Works/Scott_Collaboration/media/Scott_Thumb.jpg" width="30%" />
+    <img src="./Works/Scott_Collaboration/media/Scott_Collaboration_Thumb.jpg" width="30%" />
   </a>
 </p>
 
