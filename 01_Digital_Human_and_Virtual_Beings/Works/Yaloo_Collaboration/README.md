@@ -48,9 +48,9 @@ where human identity is continuously reinterpreted through nonhuman materials an
 
 ## 🖼️ Media
 <p align="center">
-  <img src="./media/Yaloo_01.jpg" width="40%" style="margin-right:5px;"/>  
-  <img src="./media/Yaloo_02.jpg" width="40%" style="margin-right:5px;"/>
-    <img src="./media/Yaloo_03.jpg" width="40%" style="margin-right:5px;"/>
+  <img src="./Works/media/Yaloo_01.jpg" width="40%" style="margin-right:5px;"/>  
+  <img src="./Works/media/Yaloo_02.jpg" width="40%" style="margin-right:5px;"/>
+    <img src="./Works/media/Yaloo_03.jpg" width="40%" style="margin-right:5px;"/>
 </p>
 
 ---
@@ -58,7 +58,7 @@ where human identity is continuously reinterpreted through nonhuman materials an
 ## 🎥 Video Documentation
 <p align="center">
   <a href="https://www.instagram.com/reel/C9IP1FASC2Y/" target="_blank">
-    <img src="./media/Yaloo_01.jpg" width="40%" style="border-radius:10px;"/>
+    <img src="./Works/media/Yaloo_01.jpg" width="40%" style="border-radius:10px;"/>
   </a>
   <br>
   <em>Click to view full video on Vimeo</em>

@@ -51,8 +51,8 @@ and proposes a future where emotional tone, ethics, and atmosphere can be co-aut
 
 ## 🖼️ Media
 <p align="center">
-  <img src="./media/Mysomania_01.jpg" width="40%" style="margin-right:5px;"/>  
-  <img src="./media/Mysomania_03.jpg" width="40%" style="margin-right:5px;"/>
+  <img src="./Works/media/Mysomania_01.jpg" width="40%" style="margin-right:5px;"/>  
+  <img src="./Works/media/Mysomania_03.jpg" width="40%" style="margin-right:5px;"/>
 </p>
 
 ---
@@ -60,7 +60,7 @@ and proposes a future where emotional tone, ethics, and atmosphere can be co-aut
 ## 🎥 Video Documentation
 <p align="center">
   <a href="https://vimeo.com/your-video-link-here" target="_blank">
-    <img src="./media/Mysomania_Thumb.jpg" width="40%" style="border-radius:10px;"/>
+    <img src="./Works/media/Mysomania_Thumb.jpg" width="40%" style="border-radius:10px;"/>
   </a>
   <br>
   <em>Click to view full video on Vimeo</em>

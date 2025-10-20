@@ -57,8 +57,8 @@ where code and memory intersect to create a moment of recognition between the li
 
 ## 🖼️ Media
 <p align="center">
-  <img src="./media/Scott_02.gif" width="40%" style="margin-right:5px;"/>  
-  <img src="./media/Scott_03.gif" width="40%" style="margin-right:5px;"/>
+  <img src="./Works/media/Scott_02.gif" width="40%" style="margin-right:5px;"/>  
+  <img src="./Works/media/Scott_03.gif" width="40%" style="margin-right:5px;"/>
   <p> </p>Using same technology, smaple video from my film. </p>
 </p>
 
@@ -67,7 +67,7 @@ where code and memory intersect to create a moment of recognition between the li
 <!-- ## 🎥 Video Documentation
 <p align="center">
   <a href="https://vimeo.com/your-video-link-here" target="_blank">
-    <img src="./media/Scott_Thumb.jpg" width="40%" style="border-radius:10px;"/>
+    <img src="./Works/media/Scott_Thumb.jpg" width="40%" style="border-radius:10px;"/>
   </a>
   <br>
   <em>Click to view full video on Vimeo</em>

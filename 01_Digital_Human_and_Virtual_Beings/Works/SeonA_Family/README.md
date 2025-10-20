@@ -46,8 +46,8 @@ It asks whether emotional truth can emerge from synthetic representation — and
 
 ## 🖼️ Media
 <p align="center">
-  <img src="./media/SeonaFamily_01.jpg" width="40%" style="margin-right:5px;"/>  
-  <img src="./media/SeonaFamily_02.jpg" width="40%" style="margin-right:5px;"/>
+  <img src="./Works/media/SeonaFamily_01.jpg" width="40%" style="margin-right:5px;"/>  
+  <img src="./Works/media/SeonaFamily_02.jpg" width="40%" style="margin-right:5px;"/>
 </p>
 
 ---
@@ -55,7 +55,7 @@ It asks whether emotional truth can emerge from synthetic representation — and
 ## 🎥 Video Documentation
 <p align="center">
   <a href="https://vimeo.com/your-video-link-here" target="_blank">
-    <img src="./media/SeonaFamily_Thumb.jpg" width="40%" style="border-radius:10px;"/>
+    <img src="./Works/media/SeonaFamily_Thumb.jpg" width="40%" style="border-radius:10px;"/>
   </a>
   <br>
   <em>Click to view full video on Vimeo</em>
