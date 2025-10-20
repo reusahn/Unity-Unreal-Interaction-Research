@@ -58,10 +58,10 @@ a reflection on connection, authorship, and affect in posthuman media.
 
 ## 🖼️ Media
 <p align="center">
-  <img src="./Works/media/ChoiJungHoon_AI_01.jpg" width="20%" style="margin-right:5px;"/>
-  <img src="./Works/media/ChoiJungHoon_AI_02.jpg" width="20%" style="margin-right:5px;"/>
-<!--  <img src="./Works/media/ChoiJungHoon_AI_03.jpg" width="20%" style="margin-right:5px;"/>
-  <img src="./Works/media/ChoiJungHoon_AI_04.jpg" width="20%"/>-->
+  <img src="./media/ChoiJungHoon_AI_01.jpg" width="20%" style="margin-right:5px;"/>
+  <img src="./media/ChoiJungHoon_AI_02.jpg" width="20%" style="margin-right:5px;"/>
+<!--  <img src="./media/ChoiJungHoon_AI_03.jpg" width="20%" style="margin-right:5px;"/>
+  <img src="./media/ChoiJungHoon_AI_04.jpg" width="20%"/>-->
 </p>
 
 ---
@@ -70,7 +70,7 @@ a reflection on connection, authorship, and affect in posthuman media.
 
 <p align="center">
   <a href="https://vimeo.com/933305770/b3cef8f513" target="_blank">
-    <img src="./Works/media/ChoiJungHoon_Thumb.jpg" width="40%" style="border-radius:10px;"/>
+    <img src="./media/ChoiJungHoon_Thumb.jpg" width="40%" style="border-radius:10px;"/>
   </a>
   <br>
   <em>Click to view full video on Vimeo</em>
