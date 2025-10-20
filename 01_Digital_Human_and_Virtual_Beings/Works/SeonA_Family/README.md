@@ -3,37 +3,40 @@
 
 [← Back to Digital Human & Virtual Beings](../../README.md)
 
-**Principal Investigator / Director:** Jonghoon Ahn  
-**Institution:** California Institute of the Arts  
-**Exhibition Venues:** KOTE Gallery (Insadong) · Wolseong Yakbang  
+**Director / Technical Artist:** Jonghoon Ahn  
+**Supported by:** Art Korea Lab · Ministry of Culture, Sports and Tourism (MCST) · Korea Arts Management Service (KAMS)  
+**Exhibition Venues:** KOTE Gallery (Insadong, Seoul) · Wolseong Yakbang (Gangwon Province)  
 **Year:** 2024  
-**Research Themes:** Digital Human · AI Voice Cloning · Grief & Empathy · Posthuman Cinema  
+**Research Themes:** Digital Human · AI Voice Cloning · Emotional Memory · Posthuman Media Art  
 
 ---
 
 ## 🧩 Overview  
-**Seon-A’s Family** reconstructs a fragmented family relationship through **AI-generated faces, cloned voices, and 3D digital humans**.  
-A virtual family—mother, daughter, and sister—was created entirely from the artist’s own facial and vocal data, forming an introspective dialogue between the real self and its synthetic extensions.  
+**Seon-A’s Family** is a media art project that reconstructs a fractured family relationship through **AI-generated faces, digital humans, and cloned voices**.  
+A fictional family—mother, daughter, and sister—was entirely generated from the artist’s own facial and vocal data.  
+Through this self-referential reconstruction, the work explores **grief, reconciliation, and emotional inheritance**, transforming digital technology into a process of healing and reflection.  
 
-Set within a **virtual funeral space**, the project transforms grief into a performative encounter between human and machine.  
-The artist converses with his AI-generated relatives, facing unspoken emotions between life and death.  
-The work functions simultaneously as **personal ritual, cinematic fiction, and human–AI research**, exploring how technology can mediate emotional healing.
+Set in a **virtual funeral space**, the artist interacts with his AI-generated family, confronting unresolved emotions between life and death.  
+The project functions simultaneously as **a personal ritual**, **a psychological experiment**, and **a media installation** exploring empathy between human and artificial life.
 
 ---
 
 ## 📚 Research Context  
-In posthuman studies, the act of **recreating the self through data** is both an artistic gesture and a psychological experiment.  
-This project explores whether **empathy can emerge from simulation**—whether algorithmic reconstructions of those we’ve lost can enable emotional closure.  
-By transforming his own face and voice into multiple familial roles, the artist turns machine learning into a mirror for grief, memory, and forgiveness.
+This work emerges from the question:  
+> “Can artificial intelligence mediate emotional closure between the living and the digital dead?”  
+
+In the posthuman era, memory and identity can be translated into data.  
+By generating family members through AI, the artist turns **machine learning into an emotional mirror**, confronting loss and forgiveness through simulation.  
+The project proposes that **grief can be computationally visualized**, not as imitation of life, but as a continuation of presence.
 
 ---
 
 ## ⚙️ Technical Methodology  
 
-### 1️⃣ Face Generation & Digital Human Creation  
-Using diffusion-based AI models, the artist’s own facial features were re-synthesized to generate the likenesses of his mother and sister.  
-These were imported into **MetaHuman Creator** for realistic 3D reconstruction, rigging, and shading.  
-Fine adjustments in **Maya** and **Blender** refined expression range and surface realism before animation inside **Unreal Engine 5**.
+### 1️⃣ Face Generation & Digital Human Reconstruction  
+Using **diffusion-based AI models**, the artist’s own facial structure was used to synthesize the likeness of his mother and sister.  
+These generated faces were imported into **MetaHuman Creator** to produce lifelike digital humans, later refined in **Maya** and **Blender** for precise rigging and shading.  
+Facial detail and motion were fine-tuned to preserve subtle emotion and breathing gestures within **Unreal Engine 5**.
 
 <p align="center">
   <img src="./media/SeonaFamily_01.jpg" width="40%" style="margin-right:5px;"/>  
@@ -42,33 +45,33 @@ Fine adjustments in **Maya** and **Blender** refined expression range and surfac
 
 ---
 
-### 2️⃣ Voice Cloning and Emotion Mapping  
-Through **ElevenLabs Voice Cloning**, the artist’s voice was duplicated and pitch-shifted into female registers, producing distinct yet genetically linked tones for each character.  
-Emotion parameters (joy, sorrow, hesitation) were embedded within each voice profile, allowing the AI family to respond with subtle affective variation.
+### 2️⃣ Voice Cloning & Emotional Variation  
+The artist’s own voice was cloned using **ElevenLabs** and then **pitch-shifted and modulated** to form distinct female timbres.  
+Each AI voice carried unique emotional parameters (sorrow, distance, warmth), giving individuality to the synthetic family members.  
+Through emotional synthesis, voice became an instrument for empathy rather than mimicry.
 
 ---
 
-### 3️⃣ Narrative Composition and Cinematic Integration  
-Dialogue scripts—based on personal memoirs—were processed through LLM-based language models to generate alternate responses and reflections.  
-The resulting exchange was animated in **Unreal Sequencer** and **Unity Timeline**, where lighting, camera depth, and environmental sound conveyed the ambience of a digital afterlife.  
-The funeral setting became a space of both mourning and reunion — a shared interface between memory and machine.
+### 3️⃣ Narrative Design & Cinematic Environment  
+Based on an autobiographical script written by the artist, the AI dialogues were co-authored using **LLM-based language models** to produce spontaneous emotional responses.  
+The **funeral room**—a symbolic environment representing reconciliation—was created in **Unreal Engine** and **Unity**, where light, sound, and motion reflected the state of emotional connection.  
+The resulting space exists between ritual and simulation: a digital afterlife where memory speaks back.
 
 ---
 
-### 4️⃣ Exhibition Environment  
-The installation was presented across two venues:  
-- **KOTE Gallery (Insadong):** single-channel projection and immersive sound system  
-- **Wolseong Yakbang:** multi-screen setup for dialogue loop and AI response interface  
+### 4️⃣ Exhibition Setup  
+The final installation was presented at:  
+- 🏛 **KOTE Gallery (Insadong, Seoul):** single-channel projection and immersive sound system  
+- 🌿 **Wolseong Yakbang (Gangwon Province):** multi-screen display and ambient sound design  
 
-Each space acted as a ritual chamber, inviting viewers to witness the artist’s digital conversation with his reconstructed family.
+Both spaces served as meditative environments where viewers could witness the digital reunion between the artist and his recreated family.
 
 ---
 
-## 🧠 Artistic & Theoretical Focus  
-**Seon-A’s Family** redefines remembrance as a computational act.  
-It asks whether synthetic representation can carry emotional truth, and whether AI can mediate the process of forgiveness.  
-By re-embodying his family within a digital ecosystem, the artist transforms technology into an instrument for mourning and reconciliation—  
-an experiment in **AI as empathic medium** and in **memory as code**.
+## 🧠 Artistic & Research Focus  
+**Seon-A’s Family** investigates how **AI and virtual embodiment** can transform mourning into shared presence.  
+By embodying his mother and sister through his own data, the artist questions whether emotional truth can exist within synthetic form.  
+The work turns digital resurrection into an act of empathy—revealing that **to grieve digitally is to remember differently**, not to erase, but to reconfigure love and loss through computation.
 
 ---
 
@@ -84,16 +87,17 @@ an experiment in **AI as empathic medium** and in **memory as code**.
 ---
 
 ## 🔑 Research Keywords  
-`#digital-human` `#voice-cloning` `#ai-empathy` `#grief-and-technology` `#cyborg-psychology`
+`#digital-human` `#voice-cloning` `#ai-empathy` `#grief-and-technology` `#posthuman-media-art`
 
 ---
 
 ## 👤 Credits  
 **Director / Technical Artist:** Jonghoon Ahn  
-**Institution:** California Institute of the Arts  
-**Year:** 2024  
+**Supported by:** Art Korea Lab · Ministry of Culture, Sports and Tourism (MCST) · Korea Arts Management Service (KAMS)  
+**Venues:** KOTE Gallery (Insadong) · Wolseong Yakbang (Gangwon-do)  
 **Medium:** Single-Channel Video · Interactive Media Installation  
 **Tools:** Unreal Engine 5 · Unity · MetaHuman Creator · ElevenLabs · Stable Diffusion · Python · C#  
+**Year:** 2024  
 
 ---
 
