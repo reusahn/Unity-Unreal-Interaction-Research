@@ -44,7 +44,7 @@ From that moment, I began creating short conceptual videos about digital conscio
 ---
 
 ### II. Reconstructing Life through Digital Beings (Gang Sehwang)  
-My first major work was **[Gang Sehwang](./Works/Gang_Sehwang/README.md)**, a digital resurrection of the 18th-century Korean painter. Using ZBrush and Maya, I reconstructed his body and gestures, allowing historical memory to inhabit a virtual form. It was not simply reproduction — it was a question: *Can cultural memory breathe again through digital flesh?* I called this process a kind of **digital reincarnation**.  
+My first major work was **[Gang Sehwang](./Gang_Sehwang/README.md)**, a digital resurrection of the 18th-century Korean painter. Using ZBrush and Maya, I reconstructed his body and gestures, allowing historical memory to inhabit a virtual form. It was not simply reproduction — it was a question: *Can cultural memory breathe again through digital flesh?* I called this process a kind of **digital reincarnation**.  
 
 <p align="center">
   <a href="./Works/Gang_Sehwang/README.md">
@@ -55,7 +55,7 @@ My first major work was **[Gang Sehwang](./Works/Gang_Sehwang/README.md)**, a di
 ---
 
 ### III. Emotion Meets Intelligence (JANNABI AI)  
-Next came **[Choi JungHoon (JANNABI AI)](./Works/Choi_JungHoon_JANNABI_AI/README.md)**. While studying in the U.S., I missed home and the culture I came from. Out of admiration, I recreated a Korean musician as a digital human — but soon the project evolved into something deeper.  
+Next came **[Choi JungHoon (JANNABI AI)](./Choi_JungHoon_JANNABI_AI/README.md)**. While studying in the U.S., I missed home and the culture I came from. Out of admiration, I recreated a Korean musician as a digital human — but soon the project evolved into something deeper.  
 > “What happens when human affection interacts with machine intelligence?”  
 That question led me to explore how **emotion and cognition intertwine**, how obsession and empathy are mirrored through algorithms.  
 
