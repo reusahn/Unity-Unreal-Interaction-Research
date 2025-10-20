@@ -87,5 +87,5 @@ a reflection on connection, authorship, and affect in posthuman media.
 ---
 
 ## 🔗 Related  
-- [Back to Digital Human & Virtual Beings](./01_Digital_Human_and_Virtual_Beings/Works/Choi_JungHoon_JANNABI_AI/README.md.md)  
+- [Back to Digital Human & Virtual Beings](../README.md)  
 - [View All Projects](https://github.com/reusahn/Unity-Unreal-Interaction-Research/tree/main)
