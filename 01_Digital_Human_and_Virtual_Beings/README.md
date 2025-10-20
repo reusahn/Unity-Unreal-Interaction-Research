@@ -5,6 +5,23 @@ Exploring empathy, embodiment, and the perception of artificial life through 3D 
 
 ---
 
+### Toward a Psychology of Artificial Empathy  
+My journey began with simple representation, reviving historical figures like Gang Se-hwang through digital reincarnation. When I moved to the United States, I recreated Choi Jung-hoon, the vocalist of the Korean band JANNABI, as a digital human. At first it was an act of admiration, a way to express fandom across distance, but it soon evolved into a deeper question: how does human emotion coexist with intelligent systems?
+
+That question led to AI ZOO, where I confined digital humans inside transparent spheres and observed how audiences reacted to their emotions. Later, in Seon-a’s Family, I transformed my personal longing for reconciliation between my mother and sister, who were distant in real life, into a virtual funeral room. I imagined a space where affection might emerge more easily in simulation than in reality.
+
+While filmmaking often uses illusion to manipulate emotion, this time I used AI itself to deceive the audience. Those who were deceived were not naive; they were the ones capable of feeling. It made me wonder whether being fooled by artificial emotion reveals a lack of intelligence or a surplus of empathy. To feel for something unreal may not mean weakness, but humanity.
+
+This became the center of my research. I began to see deception as a mirror of belief. Through collaborations with Yaloo, I created hybrid posthuman bodies, merging her form with seaweed and reconstructing her grandmother through 3D scanning and motion capture. These projects explored the idea of digital immortality and the continuation of affection through data. With Scott, I re-created his late mother and ex-lover as generative AI sculptures that responded to audiences in real time, allowing death and simulation to momentarily coexist.
+
+We know these beings are not real, yet we choose to believe, because belief itself becomes the last bridge to what we have lost. Perhaps we need illusion, because only through it can we meet those who are gone.
+
+In the age of AGI we all become children again, unable to tell what is true or false, real or artificial. But to remain human is to keep questioning, even when the illusion feels real.
+
+When that time comes, I hope we can live alongside our cyborg reflections not with fear but with understanding, finding within their artificial portraits the strength to see ourselves more clearly.
+
+---
+
 ## 🧩 Concept  
 This series investigates how **digital embodiment** extends human memory, emotion, and identity into virtual spaces. Through AI-driven personas and responsive interactions, these projects explore how empathy emerges between human and synthetic life.
 
@@ -145,6 +162,7 @@ With **[Scott Collaboration](./Works/Scott_Collaboration/README.md)**, we create
 
 ---
 
+<!--
 ### Ⅹ. Toward a Psychology of Artificial Empathy  
 My journey began with simple representation, reviving historical figures like Gang Se-hwang through digital reincarnation. When I moved to the United States, I recreated Choi Jung-hoon, the vocalist of the Korean band JANNABI, as a digital human. At first it was an act of admiration, a way to express fandom across distance, but it soon evolved into a deeper question: how does human emotion coexist with intelligent systems?
 
@@ -161,6 +179,7 @@ In the age of AGI we all become children again, unable to tell what is true or f
 When that time comes, I hope we can live alongside our cyborg reflections not with fear but with understanding, finding within their artificial portraits the strength to see ourselves more clearly.
 
 ---
+-->
 
 > “In the age of AGI we all become children again, unable to tell what is true or false, real or artificial.   
 > But to remain human is to keep questioning, even when the illusion feels real.”  
