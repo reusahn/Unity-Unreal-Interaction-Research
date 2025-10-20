@@ -12,7 +12,7 @@ This series investigates how **digital embodiment** extends human memory, emotio
 
 ## 🧬 Research Narrative — From Replication to Empathy  
 
-### I. Origin — Seeing Myself from the Outside  
+### Ⅰ. Origin — Seeing Myself from the Outside  
 I was born an **identical twin**. Since childhood, another version of me existed beside me — same face, same voice, same body. Instead of asking “Who am I?”, I often wondered, “Where do I end, and where does the other begin?” Watching my twin was like watching a mirror that sometimes refused to copy me. The small differences between us — gestures, reactions, expressions — became a way to study myself. That lifelong comparison became my first **experiment in self-reflection and identity**. When 3D technology and virtual platforms emerged, I asked another question:  
 > “What would I look like inside the digital world?”  
 I scanned my face and body and created my own **MetaHuman** inside Unreal Engine — a version of me that had only skin, no soul.  
@@ -43,7 +43,7 @@ From that moment, I began creating short conceptual videos about digital conscio
 
 ---
 
-### II. Reconstructing Life through Digital Beings (Gang Sehwang)  
+### Ⅱ. Reconstructing Life through Digital Beings *(Gang Sehwang)*  
 My first major work was **[Gang Sehwang](./Works/Gang_Sehwang/README.md)**, a digital resurrection of the 18th-century Korean painter. Using ZBrush and Maya, I reconstructed his body and gestures, allowing historical memory to inhabit a virtual form. It was not simply reproduction — it was a question: *Can cultural memory breathe again through digital flesh?* I called this process a kind of **digital reincarnation**.  
 
 <p align="center">
@@ -54,7 +54,7 @@ My first major work was **[Gang Sehwang](./Works/Gang_Sehwang/README.md)**, a di
 
 ---
 
-### III. Emotion Meets Intelligence (JANNABI AI)  
+### Ⅲ. Emotion Meets Intelligence *(JANNABI AI)*  
 Next came **[Choi JungHoon (JANNABI AI)](./Works/Choi_JungHoon_JANNABI_AI/README.md)**. While studying in the U.S., I missed home and the culture I came from. Out of admiration, I recreated a Korean musician as a digital human — but soon the project evolved into something deeper.  
 > “What happens when human affection interacts with machine intelligence?”  
 That question led me to explore how **emotion and cognition intertwine**, how obsession and empathy are mirrored through algorithms.  
@@ -67,7 +67,7 @@ That question led me to explore how **emotion and cognition intertwine**, how ob
 
 ---
 
-### IV. AI ZOO — The Mirror of Feeling  
+### Ⅳ. AI ZOO — The Mirror of Feeling  
 This inquiry culminated in **[AI ZOO](./Works/AI_ZOO/README.md)**. I confined AI-generated humans inside transparent spheres, where they moved and reacted without realizing they were being watched. The audience observed them like living creatures — a study of empathy, voyeurism, and moral distance. The true experiment was not about whether AI could feel, but whether **humans could feel for it**.  
 
 <p align="center">
@@ -78,18 +78,41 @@ This inquiry culminated in **[AI ZOO](./Works/AI_ZOO/README.md)**. I confined AI
 
 ---
 
-### V. Seon A’s Family — Digital Mourning and Reconciliation  
+### Ⅴ. Seon A’s Family — Digital Mourning and Reconciliation  
 This question turned inward in **[Seon A’s Family](./Works/SeonA_Family/README.md)**. In reality, my mother and sister were emotionally distant. In virtual space, I built a funeral room where their 3D-scanned figures could silently face one another. There were no words — only presence. The piece became a simulation of grief and reconciliation, a place where technology mediated what language could not.  
 
 <p align="center">
   <a href="./Works/SeonA_Family/README.md">
-    <img src="./Works/SeonA_Family/media/SeonA_Family_Thumb.jpg" width="30%" />
+    <img src="./Works/SeonA_Family/media/SeonaFamily_Thumb.jpg" width="30%" />
   </a>
 </p>
 
 ---
 
-### VI. Yaloo Collaboration — Bodies Between Nature and Data  
+### Ⅵ. Whispers – Mythomania — Storytelling with AI  
+**[Whispers – Mythomania](./Works/Whispers_Mythomania/README.md)** expands upon the ideas first explored in *Whispers*,  
+focusing on **collaborative storytelling between human and artificial intelligence**.  
+In this project, I co-directed the film with AI, allowing narrative direction, dialogue, and pacing to evolve through ongoing exchanges between us.  
+
+The story follows three strangers adrift on a raft, forced to confront their past guilt as silence and hunger consume them.  
+AI participated not only as a writing assistant but as a **creative counterpart**,  
+suggesting structural patterns, emotional beats, and symbolic motifs that shaped the screenplay.  
+
+Through this process, authorship became shared —  
+a reflection of two consciousnesses, human and synthetic, co-narrating a single emotional vision.  
+
+<p align="center">
+  <a href="./Works/Whispers_Mythomania/README.md">
+    <img src="./Works/Whispers_Mythomania/media/Mysomania_Thumb.jpg" width="30%" />
+  </a>
+</p>
+
+At its heart, *Whispers – Mythomania* is about **trusting another kind of intelligence**.  
+It asks: *Can empathy exist not only within a story but between the beings who create it — even when one of them is artificial?*
+
+---
+
+### Ⅶ. Yaloo Collaboration — Bodies Between Nature and Data  
 Later I collaborated with the media artist **[Yaloo Collaboration](./Works/Yaloo_Collaboration/README.md)**. We scanned her body and created hybrid beings made of **seaweed and human skin**, merging organic ecology with digital identity. We also reconstructed her grandmother through 3D scanning and motion capture, revealing **digital immortality** — how memory and lineage continue through data.  
 
 <p align="center">
@@ -100,29 +123,29 @@ Later I collaborated with the media artist **[Yaloo Collaboration](./Works/Yaloo
 
 ---
 
-### VII. Shininho — Regenerating Memory  
+### Ⅷ. Shininho — Regenerating Memory  
 In **[Shininho](./Works/Shininho/README.md)**, we focused on reanimating Yaloo’s grandmother as a digital human. Using facial-capture, rigging, and AI-driven emotion synthesis, we transformed memory itself into data — a form of living remembrance.  
 
 <p align="center">
   <a href="./Works/Shininho/README.md">
-    <img src="./Works/Shininho/media/Shininho_Thumb.jpg" width="30%" />
+    <img src="./Works/Shininho/media/ShinInho_01.jpg" width="30%" />
   </a>
 </p>
 
 ---
 
-### VIII. Scott Collaboration — Digital Afterlife and the Desire to Believe  
+### Ⅸ. Scott Collaboration — Digital Afterlife and the Desire to Believe  
 With **[Scott Collaboration](./Works/Scott_Collaboration/README.md)**, we created generative AI sculptures modeled on his late mother and ex-lover. When viewers approached, the figures responded in real time — a kind of digital séance. Though everyone knew they were artificial, many felt emotionally connected rather than sorrowful.  
 
 <p align="center">
   <a href="./Works/Scott_Collaboration/README.md">
-    <img src="./Works/Scott_Collaboration/media/Scott_Collaboration_Thumb.jpg" width="30%" />
+    <img src="./Works/Scott_Collaboration/media/Scott_Thumb.jpg" width="30%" />
   </a>
 </p>
 
 ---
 
-### IX. Toward a Psychology of Artificial Empathy  
+### Ⅹ. Toward a Psychology of Artificial Empathy  
 Across these projects — from self-replication to historical resurrection, from emotional AI to digital mourning — my work has moved from **representation to empathy**, from the visible form to the **psychological resonance** between human and machine. I no longer create digital humans merely to resemble life, but to understand **how humans project life into the artificial**, and how machines, in turn, mirror our fears, desires, and capacity to feel. This practice lies at the intersection of **art, cognitive science, and emotional computation** — a field I call **Cyborg Psychology**, where memory, simulation, and empathy merge into one living interface.
 
 ---
