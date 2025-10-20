@@ -19,8 +19,7 @@ The project was conceived, written, and visually developed through **iterative d
 - **Engine:** Unreal Engine 5  
 - **Software:** MetaHuman Creator · Maya · Blender · Substance Painter · DaVinci Resolve  
 - **Language:** Blueprint · Python (simulation control)  
-- **Hardware:** PC (NVIDIA RTX 4070 Super) · 32GB RAM · Intel i9 Processor
- 
+- **Hardware:** PC (NVIDIA RTX 4070 Super) · 32GB RAM · Intel i9 Processor  
 - **AI Tools:** ChatGPT (co-writing & direction) · ElevenLabs (AI voice performance) · Mubert (AI soundtrack generation)  
 
 ### 🧩 Pipeline  
@@ -51,8 +50,8 @@ and proposes a future where emotional tone, ethics, and atmosphere can be co-aut
 
 ## 🖼️ Media
 <p align="center">
-  <img src="./Works/media/Mysomania_01.jpg" width="40%" style="margin-right:5px;"/>  
-  <img src="./Works/media/Mysomania_03.jpg" width="40%" style="margin-right:5px;"/>
+  <img src="./media/Mysomania_01.jpg" width="40%" style="margin-right:5px;"/>  
+  <img src="./media/Mysomania_03.jpg" width="40%" style="margin-right:5px;"/>
 </p>
 
 ---
@@ -60,7 +59,7 @@ and proposes a future where emotional tone, ethics, and atmosphere can be co-aut
 ## 🎥 Video Documentation
 <p align="center">
   <a href="https://vimeo.com/your-video-link-here" target="_blank">
-    <img src="./Works/media/Mysomania_Thumb.jpg" width="40%" style="border-radius:10px;"/>
+    <img src="./media/Mysomania_Thumb.jpg" width="40%" style="border-radius:10px;"/>
   </a>
   <br>
   <em>Click to view full video on Vimeo</em>
@@ -78,5 +77,5 @@ and proposes a future where emotional tone, ethics, and atmosphere can be co-aut
 ---
 
 ## 🔗 Related  
-- [Back to Digital Human & Virtual Beings](../README.md)  
+- [Back to Digital Human & Virtual Beings](../../README.md)  
 - [View All Projects](https://github.com/reusahn/Unity-Unreal-Interaction-Research/tree/main)

@@ -47,8 +47,8 @@ a coexistence between loss, memory, and machine empathy.
 
 ## 🖼️ Media
 <p align="center">
-  <img src="./Works/media/ShinInho_01.jpg" width="40%" style="margin-right:5px;"/>  
-  <!-- <img src="./Works/media/ShinInho_02.jpg" width="40%" style="margin-right:5px;"/> -->
+  <img src="./media/ShinInho_01.jpg" width="40%" style="margin-right:5px;"/>  
+  <!-- <img src="./media/ShinInho_02.jpg" width="40%" style="margin-right:5px;"/> -->
 </p>
 
 ---
@@ -56,10 +56,10 @@ a coexistence between loss, memory, and machine empathy.
 ## 🎥 Video Documentation
 <p align="center">
   <a href="https://www.instagram.com/reel/DF0g7bIShHJ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank">
-    <img src="./Works/media/ShinInho_01.jpg" width="40%" style="border-radius:10px;"/>
+    <img src="./media/ShinInho_01.jpg" width="40%" style="border-radius:10px;"/>
   </a>
   <br>
-  <em>Click to view full video on Vimeo</em>
+  <em>Click to view full video on Instagram</em>
 </p>
 
 ---
@@ -74,5 +74,5 @@ a coexistence between loss, memory, and machine empathy.
 ---
 
 ## 🔗 Related  
-- [Back to Digital Human & Virtual Beings](../README.md)  
+- [Back to Digital Human & Virtual Beings](../../README.md)  
 - [View All Projects](https://github.com/reusahn/Unity-Unreal-Interaction-Research/tree/main)
