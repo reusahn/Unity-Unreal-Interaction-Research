@@ -57,6 +57,9 @@ From that moment, I began creating short conceptual videos about digital conscio
 
 ### II. Reconstructing Life through Digital Beings (Gang Sehwang)  
 My first major work was **[Gang Sehwang](./Works/Gang_Sehwang/README.md)**, a digital resurrection of the 18th-century Korean painter. Using ZBrush and Maya, I reconstructed his body and gestures, allowing historical memory to inhabit a virtual form. It was not simply reproduction — it was a question: *Can cultural memory breathe again through digital flesh?* I called this process a kind of **digital reincarnation**.
+<p align="center">
+  <img src="./Works/media/GangSehwang_Thumb.jpg" width="30%" />  
+</p>
 
 ---
 
@@ -90,4 +93,19 @@ In **[Shininho](./Works/Shininho/README.md)**, we focused on reanimating Yaloo�
 ---
 
 ### VIII. Scott Collaboration — Digital Afterlife and the Desire to Believe  
-With **[Scott Collaboration](./Works/Scott_Collaboration/README.md)**, we created generative AI sculptures modeled on his late mother and**_)**
+With **[Scott Collaboration](./Works/Scott_Collaboration/README.md)**, we created generative AI sculptures modeled on his late mother and ex-lover. When viewers approached, the figures responded in real time — a kind of digital séance. Though everyone knew they were artificial, many felt emotionally connected rather than sorrowful. They saw reflections of their own memories and relationships, and I realized something essential:  
+> “People want to be deceived, because deception is sometimes the only way to meet the dead again.”
+
+---
+
+### IX. Toward a Psychology of Artificial Empathy  
+Across these projects — from self-replication to historical resurrection, from emotional AI to digital mourning — my work has moved from **representation to empathy**, from the visible form to the **psychological resonance** between human and machine. I no longer create digital humans merely to resemble life, but to understand **how humans project life into the artificial**, and how machines, in turn, mirror our fears, desires, and capacity to feel. This practice lies at the intersection of **art, cognitive science, and emotional computation** — a field I call **Cyborg Psychology**, where memory, simulation, and empathy merge into one living interface.
+
+---
+
+> “Within every illusion we create lies a truth we are afraid to face. And within every machine we design lives the reflection of the human we are trying to forgive.”  
+— *Jonghoon Ahn, 2025*
+
+---
+
+[← Back to Main Repository](https://github.com/reusahn/Unity-Unreal-Interaction-Research/tree/main)

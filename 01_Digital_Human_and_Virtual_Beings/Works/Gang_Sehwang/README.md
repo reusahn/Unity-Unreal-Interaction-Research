@@ -20,8 +20,8 @@ The digital reconstruction was achieved through a **multi-stage pipeline** combi
 Archival portraits were provided by the **Gyeonggi Provincial Museum**, forming the basis for Gang Se-hwang’s visual reference.  
 
 <p align="center">
-  <img src="./Works/media/GangSehwang_reference_01.jpg" width="40%" style="margin-right:5px;"/>
-  <img src="./Works/media/GangSehwang_reference_02.jpg" width="40%" style="margin-right:5px;"/>
+  <img src="./media/GangSehwang_reference_01.jpg" width="40%" style="margin-right:5px;"/>
+  <img src="./media/GangSehwang_reference_02.jpg" width="40%" style="margin-right:5px;"/>
 </p>
 
 ---
@@ -35,11 +35,11 @@ An actor with a **similar vocal tone and physical presence** was cast, and a **p
 Using **reference images**, the likeness of Gang Se-hwang was **digitally sculpted in ZBrush**, then refined in **Maya** for **UV unwrapping and texturing**. **Normal maps** were generated to enhance fine surface details, while **facial hair and head hair** were created using **hair cards** for realistic rendering.    
 
 <p align="center">
-  <img src="./Works/media/GangSehwang_modeling_01.jpg" width="15%" style="margin-right:5px;"/>
-  <img src="./Works/media/GangSehwang_modeling_02.jpg" width="15%" style="margin-right:5px;"/>
-  <img src="./Works/media/GangSehwang_modeling_03.jpg" width="15%" style="margin-right:5px;"/>
-  <img src="./Works/media/GangSehwang_modeling_04.jpg" width="15%" style="margin-right:5px;"/>
-  <img src="./Works/media/GangSehwang_modeling_05.jpg" width="15%" style="margin-right:0px;"/>
+  <img src="./media/GangSehwang_modeling_01.jpg" width="15%" style="margin-right:5px;"/>
+  <img src="./media/GangSehwang_modeling_02.jpg" width="15%" style="margin-right:5px;"/>
+  <img src="./media/GangSehwang_modeling_03.jpg" width="15%" style="margin-right:5px;"/>
+  <img src="./media/GangSehwang_modeling_04.jpg" width="15%" style="margin-right:5px;"/>
+  <img src="./media/GangSehwang_modeling_05.jpg" width="15%" style="margin-right:0px;"/>
 </p>
 
 ---
@@ -49,9 +49,9 @@ Using **reference images**, the likeness of Gang Se-hwang was **digitally sculpt
 - **Facial motion** was captured through **Apple ARKit**, synchronizing expression and speech.  
 
 <p align="center">
-  <img src="./Works/media/GangSehwang_modeling.gif" width="60%" style="border-radius:10px;"/>
-  <img src="./Works/media/GangSehwang_Mocap_01.jpg" width="40%" style="margin-right:5px;"/>  
-  <img src="./Works/media/GangSehwang_Mocap_02.jpg" width="40%" style="margin-right:5px;"/>    
+  <img src="./media/GangSehwang_modeling.gif" width="60%" style="border-radius:10px;"/>
+  <img src="./media/GangSehwang_Mocap_01.jpg" width="40%" style="margin-right:5px;"/>  
+  <img src="./media/GangSehwang_Mocap_02.jpg" width="40%" style="margin-right:5px;"/>    
 </p>
 
 ---
@@ -60,9 +60,9 @@ Using **reference images**, the likeness of Gang Se-hwang was **digitally sculpt
 Traditional Korean attire — **hanbok**, **gat hat**, and layered robes — were modeled and simulated in **Blender** and **Maya**, achieving physically accurate fabric movement.  
 
 <p align="center">
-  <img src="./Works/media/GangSehwang_costume_01.jpg" width="20%" style="margin-right:5px;"/>
-   <img src="./Works/media/GangSehwang_costume_03.jpg" width="20%" style="margin-right:5px;"/>
-    <img src="./Works/media/GangSehwang_costume_04.jpg" width="20%" style="margin-right:0px;"/>
+  <img src="./media/GangSehwang_costume_01.jpg" width="20%" style="margin-right:5px;"/>
+   <img src="./media/GangSehwang_costume_03.jpg" width="20%" style="margin-right:5px;"/>
+    <img src="./media/GangSehwang_costume_04.jpg" width="20%" style="margin-right:0px;"/>
 </p>
 
 ---
@@ -71,8 +71,8 @@ Traditional Korean attire — **hanbok**, **gat hat**, and layered robes — wer
 All assets were imported into **Unity 3D**, where interactive animation triggers (buttons, speech recognition, and audience proximity) were implemented.  
 
 <p align="center">
-  <img src="./Works/media/GangSehwang_unity_01.jpg" width="30%" style="margin-right:5px;"/>
-  <img src="./Works/media/GangSehwang_unity_02.jpg" width="13.8%" style="margin-right:5px;"/>
+  <img src="./media/GangSehwang_unity_01.jpg" width="30%" style="margin-right:5px;"/>
+  <img src="./media/GangSehwang_unity_02.jpg" width="13.8%" style="margin-right:5px;"/>
 </p>
 
 ---
@@ -81,9 +81,9 @@ All assets were imported into **Unity 3D**, where interactive animation triggers
 The final AI docent was deployed at the **Gyeonggi Provincial Museum**, operating in real time as a responsive digital guide for visitors.  
 
 <p align="center">
-  <img src="./Works/media/GangSehwang_install_01.jpg" width="30%" style="margin-right:5px;"/>
-  <img src="./Works/media/GangSehwang_install_02.jpg" width="30%" style="margin-right:5px;"/>
-    <img src="./Works/media/GangSehwang_install_03.jpg" width="30%" style="margin-right:0px;"/>
+  <img src="./media/GangSehwang_install_01.jpg" width="30%" style="margin-right:5px;"/>
+  <img src="./media/GangSehwang_install_02.jpg" width="30%" style="margin-right:5px;"/>
+    <img src="./media/GangSehwang_install_03.jpg" width="30%" style="margin-right:0px;"/>
 </p>
 
 ---
@@ -97,7 +97,7 @@ By transforming Gang Se-hwang into an interactive AI docent, the work bridges **
 ## 🎥 Video Documentation  
 <p align="center">
   <a href="https://vimeo.com/1011866123">
-    <img src="./Works/media/GangSehwang_Thumb.jpg" width="40%" style="border-radius:10px;"/>
+    <img src="./media/GangSehwang_Thumb.jpg" width="40%" style="border-radius:10px;"/>
   </a>
 </p>
 
