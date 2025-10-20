@@ -1,4 +1,4 @@
-# 🌊 Whispers – Mysomania  
+# 🌊 Whispers – Mythomania  
 *(3D Short Film – 2024 · Directed with AI Collaboration)*  
 
 [← Back to main repository](https://github.com/reusahn/Unity-Unreal-Interaction-Research/tree/main)
@@ -6,7 +6,7 @@
 ---
 
 ## 🧩 Overview  
-**Whispers – Mysomania** is a 3D psychological short film exploring **guilt, moral decay, and survival** through collaborative storytelling between human and AI.  
+**Whispers – Mythomania** is a 3D psychological short film exploring **guilt, moral decay, and survival** through collaborative storytelling between human and AI.  
 Three strangers awaken on a drifting raft with no memory of how they arrived.  
 As they share mysterious meat to survive, silence begins to expose their hidden guilt —  
 and those who attempt to rationalize their past gradually vanish into the sea.  
@@ -39,7 +39,7 @@ The project was conceived, written, and visually developed through **iterative d
 ---
 
 ## 🧠 Artistic & Research Focus  
-**Mysomania** functions as both a **film** and a **meta-experiment in authorship.**  
+**Mythomania** functions as both a **film** and a **meta-experiment in authorship.**  
 It questions what it means to *direct* when direction itself is shared with an intelligent system —  
 challenging traditional hierarchies between filmmaker, performer, and tool.  
 
@@ -70,7 +70,7 @@ and proposes a future where emotional tone, ethics, and atmosphere can be co-aut
 ## 👤 Credits  
 **Director / Technical Artist:** Jonghoon Ahn  
 **AI Collaborator:** ChatGPT (Narrative Co-writing) · ElevenLabs (Voice Acting) · Mubert (Music Generation)  
-**Year:** 2024  
+**Year:** 2025  
 **Institution:** California Institute of the Arts  
 **Medium:** 3D Animated Short Film  
 
