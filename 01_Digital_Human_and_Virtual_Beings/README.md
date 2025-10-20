@@ -102,8 +102,8 @@ Through this process, authorship became shared —
 a reflection of two consciousnesses, human and synthetic, co-narrating a single emotional vision.  
 
 <p align="center">
-  <a href="./Works/Whispers_Mythomania/README.md">
-    <img src="./Works/Whispers_Mythomania/media/Mysomania_Thumb.jpg" width="30%" />
+  <a href="./Works/Whispers/README.md">
+    <img src="./Works/Whispers/media/Mysomania_Thumb.jpg" width="30%" /> 
   </a>
 </p>
 
@@ -117,7 +117,7 @@ Later I collaborated with the media artist **[Yaloo Collaboration](./Works/Yaloo
 
 <p align="center">
   <a href="./Works/Yaloo_Collaboration/README.md">
-    <img src="./Works/Yaloo_Collaboration/media/Yaloo_Collaboration_Thumb.jpg" width="30%" />
+    <img src="./Works/Yaloo_Collaboration/media/Yaloo_01.jpg" width="30%" />
   </a>
 </p>
 
@@ -139,7 +139,7 @@ With **[Scott Collaboration](./Works/Scott_Collaboration/README.md)**, we create
 
 <p align="center">
   <a href="./Works/Scott_Collaboration/README.md">
-    <img src="./Works/Scott_Collaboration/media/Scott_Thumb.jpg" width="30%" />
+    <img src="./Works/Scott_Collaboration/media/Scott_03.gif" width="30%" />
   </a>
 </p>
 
