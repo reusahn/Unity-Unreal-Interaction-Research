@@ -35,6 +35,10 @@ a conversation between the living and the algorithmic echoes of the departed.
 ### 1️⃣ Volumetric Capture  
 A full-body scan was conducted in a professional **volumetric studio**, producing a **4K texture-mapped mesh** of the grandmother’s figure.  
 Dozens of synchronized cameras captured both geometry and albedo information to maintain physical realism.
+<p align="center">
+  <img src="./media/sininho1.jpg" width="40%" style="margin-right:5px;"/>  
+   <img src="./media/sininho2.jpg" width="40%" style="margin-right:5px;"/>
+</p>
 
 ### 2️⃣ Auto-Rigging & Facial Setup  
 The volumetric model was auto-rigged using a custom skeleton generator and refined manually in **Maya**.  
