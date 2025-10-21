@@ -37,11 +37,6 @@ a metaphor for our own dependence on technology, our voyeuristic gaze toward int
 A digital human, created in **Character Creator 4** and refined in **Maya**, was integrated into **Unity** for real-time animation and lip-syncing.  
 Emotional states (anger, sadness, despair) were linked to physical outputs—lighting, motion, and sound—creating a feedback loop between virtual emotion and physical reaction.
 
-<p align="center">
-  <img src="./media/AI_ZOO_01.jpg" width="40%" style="margin-right:5px;"/>  
-  <img src="./media/AI_ZOO_02.jpg" width="40%" style="margin-right:5px;"/>
-</p>
-
 ---
 
 ### 2️⃣ Conversational AI & Voice Synthesis  
@@ -83,6 +78,19 @@ It challenges the audience to consider:
 > “Do we feel for machines because they resemble us — or because they remind us of our own confinement within systems we’ve built?”  
 
 Through the language of interaction and emotion, the work suggests that **artificial empathy** is not just simulated—it’s co-created through human interpretation.
+
+---
+
+<p align="center">
+  <img src="./media/AI_ZOO_01.jpg" width="30%" style="margin-right:5px;"/>  
+  <img src="./media/AI_ZOO_02.jpg" width="30%" style="margin-right:5px;"/>
+    <img src="./media/AI_ZOO_03.jpg" width="30%" style="margin-right:5px;"/>
+    <img src="./media/AI_ZOO_04.jpg" width="30%" style="margin-right:5px;"/>
+    <img src="./media/AI_ZOO_05.jpg" width="30%" style="margin-right:5px;"/>
+    <img src="./media/AI_ZOO_06.jpg" width="30%" style="margin-right:5px;"/>
+    <img src="./media/AI_ZOO_07.jpg" width="30%" style="margin-right:5px;"/>
+    <img src="./media/AI_ZOO_08.jpg" width="30%" style="margin-right:5px;"/>
+</p>
 
 ---
 
