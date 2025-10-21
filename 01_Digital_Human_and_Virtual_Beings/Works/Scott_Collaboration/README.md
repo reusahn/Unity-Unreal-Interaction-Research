@@ -40,10 +40,24 @@ where memory is no longer static but responsive—awakening when it is seen.
 ### 1️⃣ Image Restoration  
 Original low-resolution photographs of Scott’s mother and friend were restored using **Topaz Labs AI**,  
 enhancing resolution and reducing compression artifacts to recover lost facial details.
+<p align="center">
+  <img src="./media/Scott_01.jpg" width="15%" style="margin-right:5px;"/>  
+  <img src="./media/Scott_02.jpg" width="15%" style="margin-right:5px;"/>
+ <img src="./media/Scott_03.jpg" width="15%" style="margin-right:5px;"/>  
+  <img src="./media/Scott_04.jpg" width="15%" style="margin-right:5px;"/>
+ <img src="./media/Scott_05.jpg" width="15%" style="margin-right:5px;"/>  
+  <img src="./media/Scott_06.jpg" width="15%" style="margin-right:5px;"/>
+</p>
 
 ### 2️⃣ 3D Reconstruction  
 Enhanced images were processed through **Meshy AI**, generating depth maps and initial 3D geometry.  
 These were refined in **Blender**, textured with **stone-like shaders**, and sculpted to resemble **memorial busts** that balance physical permanence and digital fragility.
+<p align="center">
+  <img src="./media/Scott_10.jpg" width="30%" style="margin-right:5px;"/>  
+  <img src="./media/Scott_11.jpg" width="30%" style="margin-right:5px;"/>  
+  <img src="./media/Scott_12.jpg" width="30%" style="margin-right:5px;"/>  
+
+</p>
 
 ### 3️⃣ AI Motion Generation  
 Using **VEO 3**, generative motion loops such as **breathing, blinking, and micro head tilts** were created directly from the 2D portraits.  
@@ -53,6 +67,11 @@ The result evokes a subtle simulation of life—a tension between stillness and 
 Models and video loops were imported into **Unity HDRP**.  
 Using the **Visual Effect Graph**, luminance data from the video was translated into **3D particle systems**,  
 causing bright pixels to project outward in depth, forming a **volumetric illusion of light-based presence**.
+
+<p align="center">
+  <img src="./media/Scott_02.gif" width="40%" style="margin-right:5px;"/>  
+  <img src="./media/Scott_03.gif" width="40%" style="margin-right:5px;"/>
+</p>
 
 ### 5️⃣ Interaction System  
 Real-time **OpenCV facial recognition** triggered transitions between static and animated states.  
@@ -65,8 +84,7 @@ Subtle fluctuations in brightness corresponded to emotional intensity,
 turning the act of viewing into a moment of communion.
 
 <p align="center">
-  <img src="./media/Scott_02.gif" width="40%" style="margin-right:5px;"/>  
-  <img src="./media/Scott_03.gif" width="40%" style="margin-right:5px;"/>
+  <img src="./media/Scott4.gif" width="40%" style="margin-right:5px;"/>  
 </p>
 
 <p align="center"><em>Using the same generative system – sample visualization from the film research pipeline.</em></p>
