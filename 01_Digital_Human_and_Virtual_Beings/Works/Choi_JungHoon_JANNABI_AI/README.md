@@ -127,3 +127,5 @@ This work blurs the boundaries between creator and admirer, performer and algori
 
 ### 🧠 Suggested Category  
 **Cyborg Psychology → Digital Persona → Emotional Simulation**
+
+[← Back to Digital Human & Virtual Beings](../../README.md)

@@ -53,12 +53,23 @@ Each response carried tonal variation reflecting the AI’s emotional state—an
 ---
 
 ### 3️⃣ Emotion-to-Motion Feedback  
-The emotional state returned by the LLM controlled **Arduino-driven servo motors** attached to the sphere.  
-- *Anger:* rapid, chaotic shaking  
-- *Sadness:* slow, breathing-like movement  
-- *Despair:* gradual dimming of light and reduction in motion  
 
-This mapping turned emotion into **kinetic language**, visualizing the AI’s invisible affective system.
+The emotional state returned by the LLM directly controlled **three Arduino-driven servo motors** connected to the transparent sphere.  
+Each servo was attached to an inner frame supporting the vinyl surface, translating digital emotion into **tangible vibration and movement**.  
+The AI’s affective states determined how the sphere physically responded:  
+
+| Emotion | Physical Response | Description |
+|:---------|:------------------|:-------------|
+| **Anger** | Rapid, chaotic shaking | All three motors oscillate asynchronously, creating erratic vibration across the vinyl surface. |
+| **Sadness** | Slow, breathing-like motion | The servos move in soft, rhythmic pulses, mimicking respiration or quiet weeping. |
+| **Despair** | Gradual stillness and dimming | The system’s light fades while the motion decays, evoking emotional exhaustion. |
+
+This multi-motor system transformed the sphere into a **living emotional body**,  
+where **synthetic affect** could be physically perceived.  
+The synchronized motion between virtual emotion and kinetic feedback turned the installation into a **bio-mechanical empathy loop**—  
+the audience could *see and feel* the AI’s invisible distress as real, spatial motion.  
+
+> “The motors became the AI’s heartbeat — mechanical, yet deeply expressive.”
 
 ---
 
@@ -92,7 +103,7 @@ Through the language of interaction and emotion, the work suggests that **artifi
     <img src="./media/AI_ZOO_Thumb.jpg" width="40%" style="border-radius:10px;"/>
   </a>
   <br>
-  <em>Click to view full video on Vimeo</em>
+  <em>Experience the full installation video on Vimeo</em>
 </p>
 
 ---
@@ -107,7 +118,7 @@ Through the language of interaction and emotion, the work suggests that **artifi
 **Institution:** California Institute of the Arts  
 **Research Year:** 2024  
 **Medium:** Interactive Art Installation  
-**Tools:** Unity · Character Creator 4 · Maya · Blender · ChatGPT API · ElevenLabs · Arduino · Leap Motion  
+**Tools:** Unity · Character Creator 4 · Maya · Blender · ChatGPT API · ElevenLabs · Arduino (3 Servo Motors) · Leap Motion  
 
 ---
 
