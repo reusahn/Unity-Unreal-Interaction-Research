@@ -38,8 +38,8 @@ Hair was built using **CC4 Hair Builder**, and a digital replica of his **stage 
 All materials were exported into **Unity** for animation and shader integration.
 
 <p align="center">
-  <img src="./media/ChoiJungHoon_AI_01.jpg" width="20%" style="margin-right:5px;"/>
-  <img src="./media/ChoiJungHoon_AI_02.jpg" width="20%" style="margin-right:5px;"/>
+  <img src="./media/ChoiJungHoon_AI_01.jpg" width="30%" style="margin-right:5px;"/>
+  <img src="./media/ChoiJungHoon_AI_02.jpg" width="30%" style="margin-right:5px;"/>
 </p>
 
 ---
@@ -75,12 +75,12 @@ turning the character into both mirror and illusion.
 ### Setup  
 
 <p align="center">
-  <img src="./media/ChoiJungHoon_AI_03.jpg" width="20%" style="margin-right:5px;"/>
-  <img src="./media/ChoiJungHoon_AI_04.jpg" width="20%" style="margin-right:5px;"/>
-  <img src="./media/ChoiJungHoon_AI_05.jpg" width="20%" style="margin-right:5px;"/>
-  <img src="./media/ChoiJungHoon_AI_06.jpg" width="20%" style="margin-right:5px;"/>
-  <img src="./media/ChoiJungHoon_AI_07.jpg" width="20%" style="margin-right:5px;"/>
-  <img src="./media/ChoiJungHoon_AI_08.jpg" width="20%" style="margin-right:5px;"/>
+  <img src="./media/ChoiJungHoon_AI_03.jpg" width="30%" style="margin-right:5px;"/>
+  <img src="./media/ChoiJungHoon_AI_04.jpg" width="30%" style="margin-right:5px;"/>
+  <img src="./media/ChoiJungHoon_AI_05.jpg" width="30%" style="margin-right:5px;"/>
+  <img src="./media/ChoiJungHoon_AI_06.jpg" width="30%" style="margin-right:5px;"/>
+  <img src="./media/ChoiJungHoon_AI_07.jpg" width="30%" style="margin-right:5px;"/>
+  <img src="./media/ChoiJungHoon_AI_08.jpg" width="30%" style="margin-right:5px;"/>
 </p>
 
 ---
