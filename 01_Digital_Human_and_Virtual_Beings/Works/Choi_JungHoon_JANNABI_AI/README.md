@@ -72,6 +72,19 @@ turning the character into both mirror and illusion.
 
 ---
 
+### Setup  
+
+<p align="center">
+  <img src="./media/ChoiJungHoon_AI_03.jpg" width="20%" style="margin-right:5px;"/>
+  <img src="./media/ChoiJungHoon_AI_04.jpg" width="20%" style="margin-right:5px;"/>
+  <img src="./media/ChoiJungHoon_AI_05.jpg" width="20%" style="margin-right:5px;"/>
+  <img src="./media/ChoiJungHoon_AI_06.jpg" width="20%" style="margin-right:5px;"/>
+  <img src="./media/ChoiJungHoon_AI_07.jpg" width="20%" style="margin-right:5px;"/>
+  <img src="./media/ChoiJungHoon_AI_08.jpg" width="20%" style="margin-right:5px;"/>
+</p>
+
+---
+
 ## 🧩 Artistic & Theoretical Focus  
 The project investigates **AI-mediated affection**—how emotional projection and algorithmic behavior intertwine.  
 It proposes that **identity in the age of AI** is not fixed but collaboratively constructed between human intention and machine response.  
