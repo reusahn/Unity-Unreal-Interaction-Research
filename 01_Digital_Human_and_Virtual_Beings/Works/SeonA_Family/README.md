@@ -38,11 +38,6 @@ Using **diffusion-based AI models**, the artist’s own facial structure was use
 These generated faces were imported into **MetaHuman Creator** to produce lifelike digital humans, later refined in **Maya** and **Blender** for precise rigging and shading.  
 Facial detail and motion were fine-tuned to preserve subtle emotion and breathing gestures within **Unreal Engine 5**.
 
-<p align="center">
-  <img src="./media/SeonaFamily_01.jpg" width="40%" style="margin-right:5px;"/>  
-  <img src="./media/SeonaFamily_02.jpg" width="40%" style="margin-right:5px;"/>
-</p>
-
 ---
 
 ### 2️⃣ Voice Cloning & Emotional Variation  
@@ -72,6 +67,20 @@ Both spaces served as meditative environments where viewers could witness the di
 **Seon-A’s Family** investigates how **AI and virtual embodiment** can transform mourning into shared presence.  
 By embodying his mother and sister through his own data, the artist questions whether emotional truth can exist within synthetic form.  
 The work turns digital resurrection into an act of empathy—revealing that **to grieve digitally is to remember differently**, not to erase, but to reconfigure love and loss through computation.
+
+---
+
+<p align="center">
+  <img src="./media/SeonaFamily_01.jpg" width="30%" style="margin-right:5px;"/>  
+  <img src="./media/SeonaFamily_02.jpg" width="30%" style="margin-right:5px;"/>
+  <img src="./media/SeonaFamily_03.jpg" width="30%" style="margin-right:5px;"/>  
+  <img src="./media/SeonaFamily_04.jpg" width="30%" style="margin-right:5px;"/>
+  <img src="./media/SeonaFamily_05.jpg" width="30%" style="margin-right:5px;"/>  
+  <img src="./media/SeonaFamily_06.jpg" width="30%" style="margin-right:5px;"/>
+  <img src="./media/SeonaFamily_07.jpg" width="30%" style="margin-right:5px;"/>  
+  <img src="./media/SeonaFamily_08.jpg" width="30%" style="margin-right:5px;"/>
+
+</p>
 
 ---
 
