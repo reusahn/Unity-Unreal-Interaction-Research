@@ -86,7 +86,7 @@ The work turns digital resurrection into an act of empathy—revealing that **to
 
 ## 🎥 Video Documentation  
 <p align="center">
-  <a href="https://vimeo.com/your-video-link-here" target="_blank">
+  <a href="https://vimeo.com/1143323034/58f8247198?share=copy&fl=sv&fe=ci" target="_blank">
     <img src="./media/SeonaFamily_Thumb.jpg" width="40%" style="border-radius:10px;"/>
   </a>  
   <br>  

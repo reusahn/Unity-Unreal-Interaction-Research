@@ -68,7 +68,7 @@ where storytelling becomes both an act of communication and a mirror for our sha
 
 ## 🎥 Video Documentation  
 <p align="center">
-  <a href="https://vimeo.com/your-video-link-here" target="_blank">
+  <a href="https://vimeo.com/1083428559/0c8e59587b?share=copy&fl=sv&fe=ci" target="_blank">
     <img src="./media/Mysomania_Thumb.jpg" width="40%" style="border-radius:10px;"/>
   </a>  
   <br>  
